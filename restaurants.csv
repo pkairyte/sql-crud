@@ -1,0 +1,1001 @@
+id,Restaurant,Category,Price,Neighborhood,Open_Time,Close_Time,Average_Rating,Good_for_kids
+1,Heaney LLC,Indian,Cheap,Long Island,9:28,10:26,4,False
+2,Rice-Schiller,Vegan,Medium,Long Island,10:32,8:38,4,True
+3,Tillman Inc,Greek,Cheap,Harlem,6:32,5:14,5,True
+4,"Runolfsson, Becker and Nitzsche",Italian,Cheap,Bronx,10:03,7:55,3,True
+5,"Corkery, Beer and Schiller",American,Expensive,Queens,6:13,11:44,5,True
+6,Pfannerstill-Cole,Vegan,Medium,Queens,7:15,5:36,1,True
+7,Kemmer and Sons,French,Cheap,Long Island,6:38,15:09,4,True
+8,Ferry and Sons,Grill,Cheap,Harlem,7:52,4:33,3,True
+9,"Kerluke, Dibbert and O'Hara",Fast food,Cheap,Bronx,10:16,5:17,2,False
+10,Bergnaum-Wiza,French,Cheap,Manhattan,10:38,15:53,2,True
+11,Wolff Inc,Indian,Expensive,Queens,6:38,16:08,3,True
+12,Fay-Spinka,Grill,Cheap,Brooklyn,11:59,15:28,1,True
+13,"Kuphal, Schaefer and Greenholt",Greek,Expensive,Staten Island,7:53,5:59,4,True
+14,Goldner-Robel,Chinese,Cheap,Queens,8:34,9:24,2,False
+15,Kutch Inc,French,Expensive,Bronx,10:47,4:19,2,False
+16,Schmitt-Howell,Mexican,Expensive,Staten Island,11:58,6:05,2,True
+17,Cole Group,Italian,Cheap,Brooklyn,7:56,15:19,2,True
+18,"Reynolds, Grady and West",Chinese,Cheap,Brooklyn,8:48,6:57,2,True
+19,Ebert and Sons,Vegan,Expensive,Long Island,10:18,11:18,3,True
+20,Robel Inc,Greek,Medium,Bronx,9:04,5:40,5,True
+21,Kuhn-Hills,Greek,Cheap,Bronx,11:40,5:55,4,True
+22,Johnson and Sons,Grill,Medium,Manhattan,11:25,11:44,1,True
+23,Cole-Labadie,Russian,Cheap,Staten Island,7:34,12:27,2,True
+24,Streich-Runolfsson,Italian,Cheap,Bronx,6:49,13:00,1,False
+25,Hettinger-Padberg,Greek,Medium,Brooklyn,7:49,17:57,3,True
+26,Conroy-Kulas,Fast food,Cheap,Long Island,9:40,6:59,1,True
+27,Homenick-Bosco,Italian,Cheap,Brooklyn,7:36,9:49,2,True
+28,"Hyatt, Mills and Schimmel",Indian,Cheap,Queens,9:16,15:33,5,False
+29,Trantow-Zboncak,French,Cheap,Manhattan,11:26,4:39,3,False
+30,Jast-Treutel,French,Cheap,Harlem,8:42,16:52,2,True
+31,Gottlieb-Shanahan,Indian,Medium,Brooklyn,9:18,12:50,2,True
+32,Macejkovic Inc,Italian,Medium,Brooklyn,10:53,12:44,3,True
+33,"VonRueden, Walsh and Fay",Russian,Expensive,Brooklyn,9:28,11:54,5,True
+34,"Boyer, Keeling and Prohaska",Russian,Cheap,Harlem,7:08,5:14,5,True
+35,Mante-Braun,Indian,Expensive,Long Island,6:11,4:43,3,True
+36,"Legros, Hirthe and Fisher",American,Medium,Bronx,9:53,15:46,4,True
+37,"Stokes, Wisozk and Roberts",Grill,Medium,Harlem,8:53,9:46,4,False
+38,"Luettgen, Stehr and Streich",Fast food,Cheap,Brooklyn,9:07,9:46,4,True
+39,Murphy-Stroman,Vegan,Cheap,Long Island,6:30,8:58,1,False
+40,"Johns, Kohler and Tromp",Korean,Cheap,Long Island,11:09,11:43,4,False
+41,Pfeffer Group,Mexican,Medium,Manhattan,6:32,17:35,1,False
+42,"Turner, Schulist and Gusikowski",Vegan,Expensive,Brooklyn,10:51,5:43,3,True
+43,"Abshire, Vandervort and Bernhard",Indian,Medium,Staten Island,11:11,17:51,3,False
+44,Lemke-Lind,Russian,Cheap,Harlem,11:38,12:44,5,False
+45,Hagenes Inc,Indian,Medium,Bronx,6:56,16:59,4,False
+46,Hettinger-Botsford,Mexican,Cheap,Long Island,8:54,5:47,3,False
+47,"Goyette, Gerhold and Dicki",French,Medium,Harlem,7:56,11:36,3,True
+48,"Kunze, Prosacco and Hamill",Korean,Medium,Manhattan,8:32,4:46,1,False
+49,Considine-Upton,Russian,Cheap,Staten Island,7:41,11:24,1,False
+50,"Heathcote, Buckridge and Friesen",Greek,Medium,Harlem,10:33,12:53,1,False
+51,Stehr Group,Korean,Cheap,Staten Island,8:25,11:19,3,True
+52,Schmitt-Kreiger,Indian,Cheap,Long Island,6:44,10:27,3,False
+53,Botsford-Davis,Grill,Cheap,Long Island,8:55,11:22,1,True
+54,"Gutmann, Effertz and Shields",American,Expensive,Long Island,8:02,12:40,3,True
+55,Leffler Inc,American,Cheap,Long Island,7:22,16:46,5,False
+56,Koch LLC,Greek,Cheap,Harlem,11:55,14:58,4,True
+57,Abbott LLC,American,Cheap,Bronx,9:54,10:50,5,False
+58,Lebsack Inc,French,Cheap,Queens,6:23,12:27,2,True
+59,"Klein, Zemlak and Krajcik",Mexican,Expensive,Brooklyn,9:17,4:01,3,True
+60,"Borer, Stamm and Stracke",American,Expensive,Staten Island,8:24,5:12,5,False
+61,"Brakus, Stoltenberg and Marquardt",Korean,Medium,Queens,6:04,10:46,5,False
+62,Will-Swift,Mexican,Cheap,Bronx,10:48,6:32,4,False
+63,Bailey-Crooks,Korean,Cheap,Bronx,6:46,5:26,5,True
+64,Gusikowski-Roberts,Greek,Cheap,Brooklyn,9:42,6:19,4,True
+65,Bartell-Goodwin,Grill,Cheap,Queens,6:13,8:17,3,False
+66,Durgan-Rodriguez,Indian,Medium,Manhattan,10:09,12:43,5,False
+67,Renner Inc,Mexican,Expensive,Queens,6:42,17:51,5,False
+68,Borer Group,Mexican,Medium,Bronx,11:19,16:57,5,True
+69,Mosciski-Hyatt,Korean,Expensive,Bronx,6:54,15:55,5,True
+70,Ward Group,American,Medium,Harlem,11:17,4:49,2,False
+71,Kuphal LLC,Greek,Medium,Brooklyn,10:54,5:37,4,False
+72,Kris Group,Italian,Expensive,Bronx,6:18,8:07,3,True
+73,Kshlerin-Nicolas,Korean,Cheap,Bronx,11:32,15:21,2,False
+74,"Leuschke, Ziemann and Moore",Russian,Medium,Manhattan,10:04,15:22,5,False
+75,Abshire-Bins,Fast food,Medium,Harlem,9:53,15:21,4,True
+76,Lakin and Sons,Russian,Medium,Staten Island,11:23,11:48,1,False
+77,Hauck LLC,Russian,Expensive,Long Island,10:33,15:30,2,True
+78,Schaefer-Goyette,American,Cheap,Harlem,7:58,8:08,5,False
+79,"Ryan, Prohaska and Turner",Russian,Expensive,Staten Island,6:34,8:55,2,True
+80,Wunsch-Botsford,French,Expensive,Bronx,6:49,6:54,5,True
+81,"Stroman, Kuhn and Lueilwitz",Greek,Expensive,Brooklyn,9:51,12:38,3,False
+82,Beatty LLC,French,Medium,Bronx,7:29,16:47,1,False
+83,"Abernathy, Rice and King",Fast food,Medium,Brooklyn,7:05,17:33,1,False
+84,Spencer-Weissnat,Greek,Cheap,Long Island,8:46,17:23,3,True
+85,Zieme Group,Russian,Medium,Staten Island,7:37,17:05,2,True
+86,Wilkinson and Sons,Italian,Expensive,Brooklyn,11:10,4:43,1,True
+87,DuBuque LLC,French,Cheap,Manhattan,10:02,12:09,1,True
+88,Kertzmann-Jast,French,Cheap,Brooklyn,10:01,12:53,5,True
+89,Stiedemann and Sons,Fast food,Medium,Manhattan,9:10,6:44,2,True
+90,Trantow Group,Grill,Expensive,Manhattan,6:49,10:38,1,True
+91,"Carter, Watsica and Ledner",Russian,Medium,Bronx,11:47,10:38,1,False
+92,Gaylord and Sons,Chinese,Cheap,Bronx,6:53,15:56,1,False
+93,Crist Group,Russian,Medium,Brooklyn,11:50,5:58,2,False
+94,Boehm-Johnston,Chinese,Expensive,Bronx,9:54,11:48,2,True
+95,"Zboncak, Collins and Fadel",French,Expensive,Long Island,10:18,6:20,5,False
+96,Langosh Group,Fast food,Cheap,Queens,7:28,13:05,2,False
+97,Little-Bartell,Vegan,Medium,Brooklyn,6:10,7:40,3,True
+98,O'Keefe-Senger,French,Medium,Bronx,7:22,8:51,1,True
+99,Kunze-Wilkinson,Indian,Expensive,Staten Island,6:13,14:22,4,True
+100,Grady and Sons,Indian,Cheap,Manhattan,7:11,16:29,2,True
+101,"Weissnat, Dicki and Connelly",Vegan,Medium,Queens,9:33,5:49,5,True
+102,Russel-Bartell,Chinese,Cheap,Long Island,10:21,13:40,4,True
+103,Bode Inc,Korean,Cheap,Long Island,6:07,10:51,3,True
+104,Hyatt Inc,Fast food,Expensive,Brooklyn,10:38,7:11,3,True
+105,Feeney-Kertzmann,Mexican,Expensive,Queens,9:44,12:27,2,False
+106,"Muller, Crooks and Koch",Italian,Cheap,Manhattan,10:31,16:07,1,False
+107,Howe Inc,Indian,Expensive,Manhattan,7:10,16:39,5,True
+108,Rippin-Hudson,French,Expensive,Queens,8:29,11:07,1,True
+109,Bergstrom-Grant,American,Cheap,Harlem,9:37,17:52,2,True
+110,Schmitt Inc,American,Cheap,Staten Island,9:45,10:44,4,True
+111,Howe-Ferry,Fast food,Medium,Bronx,7:12,13:25,3,False
+112,Ward-Hyatt,Grill,Cheap,Long Island,8:15,11:24,4,False
+113,Ryan LLC,Korean,Cheap,Long Island,6:40,8:07,2,False
+114,Walter-Bechtelar,Vegan,Cheap,Brooklyn,11:34,16:29,2,True
+115,"Ryan, Gleason and Beier",Vegan,Expensive,Manhattan,8:00,13:36,1,True
+116,Leffler and Sons,Chinese,Cheap,Bronx,7:13,16:11,4,True
+117,Yundt-Shields,Vegan,Medium,Queens,6:53,8:58,2,True
+118,Schuppe and Sons,Indian,Cheap,Manhattan,8:36,11:56,5,True
+119,"Heidenreich, Shanahan and Walker",French,Cheap,Bronx,11:19,11:46,5,False
+120,Greenfelder and Sons,French,Medium,Manhattan,7:52,16:01,3,True
+121,Ryan Group,Vegan,Expensive,Brooklyn,9:13,4:35,3,True
+122,"Shanahan, Hauck and Botsford",Russian,Expensive,Queens,8:27,9:12,4,True
+123,Rath-Douglas,Russian,Medium,Queens,8:29,6:17,2,False
+124,Rohan-Howell,Grill,Cheap,Staten Island,9:14,6:05,3,False
+125,Adams-Harvey,Mexican,Medium,Brooklyn,10:20,4:00,2,False
+126,"Klein, Kling and Gleason",Russian,Cheap,Staten Island,7:05,11:24,3,False
+127,"Moore, Carter and Lindgren",Vegan,Medium,Staten Island,10:43,8:30,2,False
+128,Considine LLC,Vegan,Medium,Harlem,7:03,15:09,5,False
+129,Huels-Crona,Greek,Expensive,Staten Island,6:02,6:24,2,False
+130,"Kris, Ullrich and Glover",Korean,Expensive,Queens,8:46,13:05,4,True
+131,"Gleason, Schuster and Schultz",Italian,Cheap,Bronx,11:52,11:35,5,True
+132,Bosco-West,Italian,Expensive,Staten Island,8:50,13:35,5,True
+133,Walter Inc,Chinese,Medium,Manhattan,9:46,7:25,1,False
+134,"Spinka, White and Mitchell",Vegan,Expensive,Harlem,9:52,12:34,5,False
+135,Krajcik-Schiller,Vegan,Medium,Staten Island,6:38,13:36,3,True
+136,Hermann-Dicki,Mexican,Expensive,Manhattan,7:08,6:18,4,False
+137,Kunde-Schumm,Fast food,Cheap,Staten Island,8:56,14:19,1,True
+138,"Gulgowski, Durgan and Herman",American,Medium,Long Island,7:37,8:33,2,True
+139,"Mann, Bergnaum and Farrell",Russian,Expensive,Manhattan,9:10,12:15,4,False
+140,Bogisich-Daniel,French,Expensive,Harlem,7:09,4:32,5,False
+141,Hoppe and Sons,Grill,Medium,Long Island,8:25,9:52,5,True
+142,Lindgren-Reinger,Russian,Expensive,Staten Island,9:43,10:19,3,True
+143,Flatley-Stiedemann,Italian,Expensive,Harlem,8:01,14:01,3,True
+144,Roberts Group,Russian,Expensive,Long Island,10:36,16:03,5,False
+145,Quitzon Group,French,Medium,Queens,11:35,16:30,1,True
+146,Farrell and Sons,Indian,Medium,Queens,11:54,16:43,3,False
+147,Kilback Inc,Russian,Expensive,Harlem,10:44,13:29,5,False
+148,"Hammes, Leuschke and Cronin",Fast food,Expensive,Queens,9:27,15:48,3,False
+149,"Steuber, Jones and King",American,Expensive,Long Island,8:00,8:52,3,False
+150,Kerluke-Stamm,Fast food,Medium,Queens,11:53,5:05,3,False
+151,Prosacco and Sons,Mexican,Cheap,Long Island,10:06,8:27,1,False
+152,Fahey Inc,Korean,Cheap,Queens,10:04,5:33,2,True
+153,O'Reilly-Kreiger,Greek,Cheap,Harlem,8:48,15:02,3,True
+154,Buckridge Inc,French,Cheap,Queens,8:46,13:25,5,True
+155,"Legros, Hauck and Pacocha",Mexican,Cheap,Staten Island,6:20,15:51,5,True
+156,Batz-Gutmann,Chinese,Cheap,Bronx,8:29,17:25,4,False
+157,Fritsch LLC,Italian,Cheap,Long Island,7:04,4:08,5,False
+158,"Kshlerin, Schiller and Kulas",Fast food,Expensive,Long Island,6:40,5:01,5,False
+159,Hoppe Group,Vegan,Cheap,Staten Island,7:20,15:04,5,True
+160,Brown LLC,Korean,Medium,Brooklyn,6:28,8:08,3,True
+161,"Zulauf, Little and Koelpin",French,Expensive,Staten Island,9:14,13:57,3,True
+162,"Daniel, Feest and Walsh",Russian,Cheap,Long Island,6:36,12:05,5,True
+163,Boehm LLC,Greek,Cheap,Manhattan,7:51,8:40,4,True
+164,"Bruen, Yost and Lesch",Chinese,Medium,Brooklyn,8:29,7:13,2,False
+165,Roob Inc,Greek,Cheap,Brooklyn,10:31,14:39,5,False
+166,"Feeney, Bartoletti and Runte",French,Medium,Bronx,6:29,13:37,1,False
+167,Christiansen Group,Russian,Cheap,Staten Island,11:52,10:54,4,False
+168,Hickle LLC,Fast food,Cheap,Staten Island,11:02,12:39,2,True
+169,Kirlin-Douglas,Greek,Medium,Manhattan,8:11,7:23,3,True
+170,"Koss, Johnson and Swift",Fast food,Expensive,Manhattan,6:55,11:07,3,False
+171,"Stoltenberg, Goodwin and Emard",Mexican,Medium,Bronx,8:06,5:51,1,False
+172,Mayert-Kohler,Russian,Cheap,Harlem,10:09,6:36,5,False
+173,Rosenbaum LLC,Korean,Medium,Queens,8:13,12:18,4,True
+174,Bins Group,Russian,Expensive,Bronx,8:30,5:53,4,True
+175,Mayer-Miller,Greek,Expensive,Bronx,10:47,9:36,4,False
+176,Nitzsche and Sons,French,Cheap,Bronx,8:37,7:12,5,True
+177,"Steuber, Kemmer and Barrows",Chinese,Medium,Staten Island,11:25,12:26,4,True
+178,Hayes-Gutkowski,Mexican,Medium,Harlem,11:24,4:12,2,False
+179,"Moen, Gusikowski and Prohaska",French,Cheap,Queens,6:58,8:02,4,True
+180,"Gaylord, O'Reilly and Gleason",Vegan,Expensive,Manhattan,6:31,15:57,3,False
+181,"Mayert, Ferry and Mitchell",Grill,Cheap,Long Island,9:01,17:03,3,False
+182,"Spinka, Marvin and Gleason",Grill,Expensive,Manhattan,9:40,13:39,4,False
+183,Effertz and Sons,Vegan,Expensive,Staten Island,9:31,11:41,5,False
+184,Fadel Group,American,Medium,Brooklyn,7:39,16:18,4,True
+185,Ernser-Hand,American,Expensive,Staten Island,6:05,6:33,2,True
+186,Klocko-Gerhold,Russian,Cheap,Long Island,8:22,11:37,4,False
+187,"Leffler, Connelly and Bradtke",Indian,Cheap,Manhattan,11:03,9:57,5,False
+188,Feil-Streich,Korean,Medium,Brooklyn,6:53,10:17,1,False
+189,Dach-Abernathy,Indian,Expensive,Staten Island,9:35,17:20,5,False
+190,Bauch and Sons,Mexican,Expensive,Manhattan,10:50,7:25,2,False
+191,Daniel-Abernathy,French,Cheap,Queens,10:50,4:05,5,True
+192,Fadel-Rogahn,Chinese,Expensive,Brooklyn,11:43,15:33,5,False
+193,Ullrich Inc,American,Expensive,Long Island,10:23,14:07,4,False
+194,"Stiedemann, Tromp and Runolfsson",Mexican,Cheap,Queens,11:01,16:53,2,True
+195,Oberbrunner-Runolfsdottir,French,Medium,Manhattan,7:02,6:57,4,False
+196,Hamill Inc,Chinese,Expensive,Brooklyn,6:33,7:30,2,False
+197,Funk and Sons,Chinese,Expensive,Manhattan,6:27,7:46,4,True
+198,"Adams, Becker and Zboncak",Mexican,Expensive,Queens,6:01,14:00,3,True
+199,McCullough and Sons,Russian,Cheap,Long Island,6:02,13:30,5,False
+200,Altenwerth-Roberts,Greek,Medium,Brooklyn,8:10,13:07,3,True
+201,Roberts Inc,Indian,Cheap,Bronx,7:45,6:44,2,True
+202,"Gusikowski, Marvin and Turner",Greek,Cheap,Brooklyn,6:14,9:26,1,True
+203,Schulist-Hammes,Russian,Medium,Staten Island,8:21,7:42,3,False
+204,"Auer, Kirlin and Reichel",French,Expensive,Brooklyn,9:40,15:56,5,False
+205,Runolfsdottir-Skiles,Mexican,Medium,Harlem,8:00,8:35,4,False
+206,"Pagac, Kuhn and Brekke",French,Expensive,Long Island,9:36,9:01,3,False
+207,Mann-Hegmann,Russian,Medium,Queens,8:33,7:40,2,False
+208,Hirthe-Ernser,American,Expensive,Harlem,6:36,15:37,4,True
+209,Turner Group,Greek,Medium,Staten Island,7:26,7:32,5,False
+210,Emard Inc,French,Medium,Queens,11:36,8:34,3,True
+211,McLaughlin-Grimes,Russian,Cheap,Staten Island,7:33,7:27,1,False
+212,Stiedemann LLC,Indian,Medium,Staten Island,10:35,11:28,1,True
+213,Watsica-Kovacek,Grill,Medium,Staten Island,8:58,5:21,2,False
+214,"Gerlach, Jerde and Mueller",Korean,Expensive,Manhattan,10:23,10:03,1,True
+215,"Koelpin, Christiansen and Bogan",Grill,Medium,Harlem,9:14,16:12,5,False
+216,Luettgen LLC,Vegan,Cheap,Manhattan,9:30,11:14,5,True
+217,Mosciski-Kirlin,Fast food,Cheap,Brooklyn,8:40,6:17,4,True
+218,Kessler-Prosacco,Grill,Expensive,Staten Island,7:09,17:24,5,False
+219,"Bruen, Yundt and Jacobs",Fast food,Cheap,Brooklyn,10:58,4:36,5,True
+220,"Stark, Aufderhar and Daugherty",American,Medium,Brooklyn,11:02,17:54,3,False
+221,Kunde-Ratke,Greek,Medium,Queens,11:10,4:29,2,True
+222,Stehr-Bahringer,Chinese,Cheap,Bronx,10:26,11:18,1,True
+223,Rolfson and Sons,Grill,Cheap,Queens,11:29,14:12,5,True
+224,Roberts and Sons,Greek,Cheap,Manhattan,10:40,14:50,1,True
+225,"Kassulke, Grimes and Feest",Korean,Cheap,Bronx,8:12,7:19,1,False
+226,Wiegand-Monahan,Russian,Cheap,Bronx,11:58,7:33,1,True
+227,Watsica-Legros,Italian,Cheap,Queens,9:01,4:04,3,True
+228,"Hoeger, Marks and Oberbrunner",Indian,Expensive,Brooklyn,6:39,12:07,4,True
+229,Schroeder-Streich,American,Medium,Harlem,7:08,4:46,5,False
+230,"Hilpert, Goodwin and Gorczany",Korean,Medium,Queens,9:04,6:45,1,True
+231,"West, Olson and Rohan",American,Expensive,Bronx,7:21,14:43,5,True
+232,Kunde-Schulist,Italian,Expensive,Long Island,6:22,11:13,3,True
+233,Orn-Smitham,American,Cheap,Long Island,6:14,17:22,3,True
+234,Von Inc,Grill,Cheap,Staten Island,6:29,13:51,5,True
+235,"Jacobs, Stanton and Spinka",Indian,Expensive,Harlem,6:47,7:51,5,False
+236,Hand-Harber,Indian,Expensive,Long Island,7:15,7:20,2,True
+237,"Turcotte, Lakin and O'Connell",Greek,Medium,Long Island,9:00,17:53,2,False
+238,Baumbach Inc,Chinese,Medium,Manhattan,11:31,10:03,1,True
+239,Marvin-Rice,Mexican,Cheap,Manhattan,6:45,6:54,2,False
+240,Gislason and Sons,Grill,Expensive,Brooklyn,6:01,8:18,1,False
+241,Schimmel-Boyer,American,Cheap,Queens,10:27,12:58,5,True
+242,Farrell-Runolfsson,Mexican,Expensive,Bronx,7:07,8:59,5,False
+243,Friesen Inc,Mexican,Medium,Brooklyn,11:04,12:18,5,True
+244,Legros LLC,Grill,Medium,Harlem,6:52,10:00,5,True
+245,"Bosco, Pouros and Schamberger",Chinese,Expensive,Harlem,7:00,11:19,1,True
+246,Prohaska-Terry,French,Medium,Queens,10:00,4:51,4,False
+247,Thompson Inc,Mexican,Medium,Manhattan,7:38,9:31,1,False
+248,Thiel-Schamberger,Indian,Cheap,Queens,7:35,10:10,1,True
+249,"Jacobson, Romaguera and Harvey",Korean,Cheap,Harlem,8:34,5:47,5,False
+250,Kris-Hayes,Italian,Expensive,Harlem,11:15,9:39,2,False
+251,"Wiza, Kovacek and Legros",Vegan,Medium,Bronx,6:08,10:03,1,True
+252,"Bechtelar, Casper and Balistreri",French,Cheap,Manhattan,8:07,13:36,5,False
+253,Halvorson and Sons,Vegan,Cheap,Brooklyn,8:25,9:16,3,False
+254,Green-Wolff,Russian,Expensive,Queens,6:02,10:57,3,True
+255,"Kunde, Becker and Dicki",American,Medium,Manhattan,10:23,6:14,1,True
+256,Goyette-Ratke,Chinese,Medium,Long Island,8:44,13:39,4,True
+257,Kassulke-Ortiz,Russian,Medium,Queens,10:27,7:43,3,False
+258,Jast-Price,Grill,Expensive,Staten Island,9:18,12:43,4,True
+259,"Ullrich, Weber and Schimmel",Italian,Medium,Brooklyn,8:25,14:35,2,True
+260,"Walker, Kunde and Gibson",Greek,Cheap,Harlem,10:13,13:07,4,False
+261,"Krajcik, Kuhn and Lind",Grill,Expensive,Queens,11:10,17:42,1,False
+262,Purdy-Lynch,French,Medium,Harlem,8:44,4:49,5,True
+263,"Von, Schmidt and Kovacek",Indian,Expensive,Brooklyn,6:56,16:11,3,True
+264,Schmitt-Parisian,Indian,Cheap,Long Island,10:37,6:48,5,True
+265,"Kirlin, Klein and Bogan",Russian,Expensive,Harlem,8:56,4:37,4,False
+266,"Kutch, Hagenes and Dibbert",Vegan,Cheap,Long Island,11:17,8:29,4,True
+267,Johns-Thompson,Fast food,Cheap,Queens,10:11,7:53,5,False
+268,Wisozk Inc,Chinese,Medium,Queens,7:33,8:20,4,False
+269,Muller-Tremblay,Russian,Expensive,Harlem,11:19,8:51,2,False
+270,Jacobi-Osinski,Chinese,Expensive,Queens,8:34,8:00,3,True
+271,Corkery and Sons,Chinese,Expensive,Long Island,10:34,9:18,4,True
+272,King Inc,Korean,Cheap,Bronx,6:14,7:50,5,False
+273,"Harvey, Wilkinson and Metz",Indian,Medium,Manhattan,9:15,12:00,3,True
+274,Schultz LLC,Italian,Expensive,Manhattan,7:11,4:19,3,True
+275,Breitenberg-Stiedemann,French,Cheap,Bronx,11:44,6:43,3,False
+276,Reynolds LLC,Indian,Medium,Bronx,9:45,11:54,1,True
+277,"Blanda, Grimes and Beer",American,Expensive,Brooklyn,7:32,10:39,5,True
+278,"Gleichner, Effertz and Ferry",Italian,Cheap,Bronx,7:57,7:09,3,False
+279,"Schuster, Kemmer and Schmitt",Italian,Cheap,Brooklyn,9:44,16:39,1,False
+280,"Shields, Lemke and Legros",Mexican,Expensive,Long Island,11:04,12:24,1,False
+281,Pfannerstill Group,Korean,Cheap,Long Island,7:48,7:47,3,False
+282,Stroman Inc,Indian,Medium,Queens,11:27,13:15,4,False
+283,Zemlak-Davis,Italian,Cheap,Harlem,6:31,9:27,3,True
+284,"Carter, Oberbrunner and Hyatt",Indian,Expensive,Long Island,11:25,4:13,1,False
+285,Stokes-Rippin,Grill,Cheap,Harlem,11:28,5:47,3,False
+286,"Upton, Bogan and Koch",American,Cheap,Brooklyn,7:26,5:56,5,False
+287,Morar-Bogisich,Mexican,Expensive,Bronx,11:13,7:23,4,True
+288,Labadie and Sons,Grill,Expensive,Harlem,7:42,10:38,1,False
+289,Zulauf and Sons,Chinese,Cheap,Queens,8:46,11:59,2,False
+290,"Carter, McClure and McDermott",Mexican,Cheap,Manhattan,9:31,13:16,2,False
+291,Lowe-Kris,Italian,Cheap,Staten Island,11:54,14:43,4,False
+292,Cole-Hammes,Fast food,Cheap,Manhattan,7:41,5:54,4,False
+293,Wilderman-Harris,Grill,Medium,Manhattan,11:17,13:13,5,False
+294,"Lakin, Carter and Ebert",Chinese,Medium,Queens,7:56,13:28,4,False
+295,"Cronin, O'Hara and Schoen",Korean,Expensive,Harlem,9:19,17:49,3,True
+296,Kulas-Tillman,Fast food,Medium,Queens,7:34,13:26,3,True
+297,Zemlak Group,Grill,Cheap,Bronx,10:50,6:10,5,True
+298,Ruecker and Sons,Chinese,Expensive,Long Island,8:01,4:03,1,False
+299,Rowe-Emmerich,Chinese,Medium,Manhattan,10:05,7:29,2,False
+300,McCullough-White,Mexican,Medium,Queens,6:33,11:55,1,False
+301,Nienow-Purdy,Grill,Cheap,Long Island,6:56,6:59,5,False
+302,"Jakubowski, Farrell and Beier",French,Expensive,Brooklyn,8:26,7:04,3,False
+303,Schulist-Rodriguez,Fast food,Medium,Staten Island,7:14,11:12,2,True
+304,Harvey LLC,Greek,Expensive,Queens,7:01,9:23,1,False
+305,Gibson-Barton,Mexican,Medium,Brooklyn,11:22,15:40,2,True
+306,Lindgren and Sons,Chinese,Cheap,Brooklyn,11:19,6:23,5,True
+307,"Trantow, Bergnaum and Parisian",Indian,Expensive,Harlem,6:06,14:39,1,True
+308,"Tremblay, Schmitt and Reichel",Italian,Medium,Harlem,6:40,5:53,2,True
+309,"Kuhic, Brekke and Veum",American,Cheap,Staten Island,9:50,16:18,2,False
+310,"Herzog, Koepp and Jacobi",Greek,Expensive,Queens,6:34,16:43,1,True
+311,Cummings-Feeney,Chinese,Expensive,Bronx,6:49,8:22,5,True
+312,Leannon Inc,Indian,Expensive,Manhattan,6:23,17:28,2,False
+313,Baumbach LLC,Greek,Expensive,Manhattan,10:45,10:00,5,False
+314,Christiansen and Sons,American,Expensive,Brooklyn,10:15,7:56,2,True
+315,Abshire-Tromp,Grill,Medium,Staten Island,7:39,14:48,1,False
+316,"Williamson, Doyle and Buckridge",Korean,Expensive,Manhattan,11:40,5:30,4,True
+317,"Schuppe, Braun and Kulas",American,Cheap,Queens,9:26,10:01,4,False
+318,Schaden-Keeling,Indian,Expensive,Manhattan,11:08,11:30,5,True
+319,Wisozk Inc,Chinese,Medium,Queens,11:40,10:00,2,True
+320,"Weissnat, Waters and Stark",Vegan,Expensive,Manhattan,6:34,13:08,1,True
+321,Herman-Roberts,Fast food,Expensive,Queens,8:41,15:43,5,True
+322,"Rutherford, Ebert and Weissnat",Chinese,Cheap,Brooklyn,11:36,16:32,2,False
+323,Stracke-Klocko,Greek,Expensive,Staten Island,8:49,9:43,2,True
+324,Cronin Inc,Fast food,Cheap,Harlem,11:16,11:47,4,True
+325,Harris-McLaughlin,Russian,Expensive,Harlem,6:13,14:08,5,True
+326,"Lang, Daugherty and Nitzsche",Chinese,Cheap,Queens,10:54,4:04,4,False
+327,"Kemmer, Blanda and Toy",Vegan,Medium,Staten Island,8:20,13:12,5,False
+328,Goodwin-Spinka,Italian,Expensive,Bronx,7:38,11:27,3,True
+329,"Parisian, Bode and Cole",Mexican,Cheap,Queens,6:01,16:22,3,False
+330,Pacocha-Heaney,Chinese,Cheap,Long Island,11:24,15:12,5,True
+331,Haley Inc,Italian,Cheap,Queens,10:50,6:50,3,True
+332,Fisher-Schroeder,American,Cheap,Harlem,6:29,5:06,4,True
+333,Schultz LLC,French,Expensive,Bronx,10:21,11:00,3,True
+334,"Kreiger, Lesch and Sawayn",Russian,Medium,Queens,6:59,11:40,1,True
+335,Spinka-Murray,Grill,Cheap,Manhattan,7:47,15:10,1,False
+336,Cartwright Group,Grill,Medium,Long Island,11:01,16:37,2,False
+337,Cruickshank-Howell,American,Expensive,Bronx,9:26,12:46,2,True
+338,"Gaylord, Feest and Halvorson",American,Cheap,Long Island,8:37,16:26,5,True
+339,Prohaska-Rice,American,Cheap,Manhattan,8:54,17:42,5,False
+340,Balistreri LLC,Mexican,Medium,Brooklyn,7:58,10:19,3,True
+341,Balistreri Inc,Fast food,Cheap,Manhattan,9:58,10:44,4,True
+342,"Simonis, Gorczany and Lang",French,Medium,Long Island,8:06,15:18,3,True
+343,Spencer LLC,Vegan,Medium,Bronx,6:47,14:22,5,False
+344,Stoltenberg-Carter,Fast food,Medium,Harlem,10:44,14:41,3,True
+345,Schiller-Vandervort,Korean,Cheap,Bronx,6:31,5:51,4,True
+346,Considine and Sons,Mexican,Cheap,Harlem,8:45,16:49,3,True
+347,Gerlach and Sons,Mexican,Cheap,Long Island,7:17,14:45,3,False
+348,"Thiel, Feeney and Farrell",Indian,Expensive,Manhattan,6:53,11:52,2,True
+349,Collins-Emard,American,Expensive,Staten Island,10:17,15:10,3,True
+350,Lang-Kessler,Grill,Expensive,Long Island,9:27,6:23,4,False
+351,"Roob, Klein and Hirthe",American,Cheap,Manhattan,7:58,8:38,1,True
+352,Rogahn-Schuppe,Greek,Medium,Manhattan,7:50,4:51,5,False
+353,Wolff Inc,Fast food,Cheap,Harlem,6:11,16:45,1,False
+354,West-Purdy,Fast food,Expensive,Staten Island,11:12,8:15,2,False
+355,"Legros, Maggio and Roob",Russian,Cheap,Staten Island,8:38,4:54,4,False
+356,Moen-Bogisich,American,Expensive,Brooklyn,11:25,4:55,5,False
+357,Dickens Group,Korean,Expensive,Brooklyn,10:41,9:06,5,True
+358,Hayes Group,French,Medium,Manhattan,8:42,7:13,2,False
+359,"Spinka, Murray and Grant",Grill,Cheap,Harlem,7:51,12:46,5,False
+360,Gorczany Inc,Russian,Medium,Brooklyn,8:36,9:58,2,False
+361,"Brakus, Schumm and Franecki",Korean,Cheap,Staten Island,9:39,13:01,3,False
+362,Littel-Weissnat,Vegan,Cheap,Queens,10:16,4:17,1,True
+363,Lubowitz LLC,American,Cheap,Brooklyn,11:52,9:44,1,True
+364,Tromp-Borer,Chinese,Expensive,Queens,6:41,14:58,5,True
+365,Johnston Group,Fast food,Cheap,Staten Island,7:45,14:30,3,True
+366,Feest Group,Greek,Medium,Queens,11:47,7:11,2,False
+367,Bauch Group,French,Medium,Queens,9:14,7:55,5,True
+368,Wintheiser and Sons,Italian,Cheap,Long Island,10:43,16:50,2,True
+369,Goldner LLC,Fast food,Cheap,Staten Island,7:41,12:02,2,False
+370,"Bailey, Altenwerth and Ullrich",Grill,Expensive,Bronx,11:02,10:23,1,True
+371,Dare LLC,Vegan,Medium,Long Island,6:47,16:47,2,False
+372,Jast-Bogan,Korean,Expensive,Harlem,11:29,7:17,5,False
+373,Hilpert and Sons,Chinese,Expensive,Harlem,8:36,13:50,4,True
+374,"Leuschke, Bradtke and Bahringer",Grill,Expensive,Long Island,6:41,8:26,5,True
+375,"Zemlak, Mayert and Nicolas",Korean,Medium,Staten Island,9:10,8:24,4,True
+376,"Harris, Anderson and Wuckert",American,Medium,Manhattan,11:35,12:09,5,False
+377,"Dicki, Bradtke and Blanda",Italian,Cheap,Manhattan,9:03,9:32,4,False
+378,"Durgan, Ziemann and Hammes",Italian,Expensive,Queens,9:13,12:02,4,False
+379,Reichel-Auer,French,Medium,Harlem,6:22,16:37,4,True
+380,"Walker, Rogahn and Harvey",Russian,Medium,Long Island,9:11,6:15,3,True
+381,Gulgowski-Ziemann,Greek,Medium,Brooklyn,8:57,10:21,2,True
+382,Kerluke LLC,Vegan,Cheap,Long Island,8:16,17:04,2,False
+383,"Tremblay, Goodwin and Padberg",Korean,Expensive,Queens,10:18,15:29,5,False
+384,Wehner Group,Mexican,Cheap,Long Island,6:23,12:39,1,False
+385,"Murray, Davis and Hoppe",Italian,Expensive,Manhattan,10:15,10:36,1,False
+386,Braun-Metz,Korean,Expensive,Long Island,9:04,5:36,4,True
+387,Hagenes-Pagac,Chinese,Cheap,Harlem,7:56,11:35,5,False
+388,"Heller, Rosenbaum and Flatley",Russian,Medium,Bronx,6:13,8:52,5,False
+389,Fritsch-Ruecker,Russian,Medium,Manhattan,6:19,12:45,2,False
+390,"Schamberger, Yost and Lindgren",American,Expensive,Manhattan,11:26,5:30,2,False
+391,"Zboncak, Jaskolski and Ryan",Chinese,Expensive,Bronx,6:04,11:25,2,False
+392,Lakin LLC,Italian,Expensive,Harlem,8:07,14:38,3,True
+393,"Wilkinson, Mosciski and Mann",American,Cheap,Harlem,8:38,8:06,4,True
+394,Heathcote Inc,Russian,Medium,Harlem,6:32,17:25,2,False
+395,"Kreiger, Franecki and Kautzer",Grill,Expensive,Staten Island,11:33,6:21,4,True
+396,Ruecker Group,American,Expensive,Long Island,8:42,9:00,4,True
+397,Little Inc,French,Cheap,Bronx,8:47,12:31,3,True
+398,Ritchie-Sporer,Fast food,Cheap,Long Island,10:37,9:13,4,True
+399,Hane LLC,Indian,Cheap,Staten Island,7:47,4:57,2,True
+400,"Koepp, Kuhn and Lynch",Grill,Cheap,Brooklyn,7:06,15:20,4,False
+401,Schimmel-Steuber,Grill,Expensive,Manhattan,9:55,12:51,4,False
+402,"Smith, Lehner and McGlynn",Vegan,Expensive,Manhattan,9:46,17:43,1,True
+403,Feil-Barrows,Grill,Expensive,Staten Island,10:12,16:57,2,False
+404,Gottlieb-Heaney,French,Expensive,Brooklyn,10:16,11:13,2,False
+405,Purdy LLC,Vegan,Cheap,Long Island,7:08,11:50,3,True
+406,Abshire-Crooks,French,Medium,Long Island,10:06,17:27,5,True
+407,O'Kon Group,Indian,Expensive,Queens,8:41,12:05,1,True
+408,Adams-O'Reilly,Chinese,Expensive,Queens,7:52,8:11,3,True
+409,"Breitenberg, Boyle and Tromp",Chinese,Expensive,Manhattan,6:05,16:11,3,False
+410,Rosenbaum Inc,French,Expensive,Staten Island,8:01,13:09,5,False
+411,"Thiel, Mante and Hettinger",Korean,Cheap,Brooklyn,10:18,17:43,1,True
+412,"Swift, Kovacek and Bruen",Grill,Medium,Staten Island,11:24,5:14,3,True
+413,Lang-Leannon,Mexican,Cheap,Queens,6:54,7:52,3,False
+414,Pollich Inc,Indian,Medium,Queens,9:23,4:59,1,True
+415,"Parker, Schmitt and Quitzon",Vegan,Cheap,Harlem,7:07,6:01,4,False
+416,Padberg and Sons,Greek,Medium,Long Island,11:27,16:06,4,True
+417,Von-Schimmel,Chinese,Medium,Long Island,10:29,16:01,5,False
+418,Dickinson-McClure,Vegan,Expensive,Queens,10:44,7:38,2,False
+419,Gerhold and Sons,American,Medium,Manhattan,11:31,14:03,2,True
+420,Dickinson-Pfeffer,Russian,Expensive,Queens,9:11,8:27,5,False
+421,"Kertzmann, Botsford and Nader",American,Medium,Manhattan,11:03,12:25,1,False
+422,Goldner Group,Chinese,Expensive,Long Island,9:47,4:48,4,True
+423,"Leannon, Sauer and Roob",Grill,Expensive,Queens,7:18,9:20,3,False
+424,Herman and Sons,Mexican,Cheap,Queens,10:22,6:01,4,True
+425,"Schaden, Dicki and Wyman",Korean,Medium,Manhattan,11:47,7:33,3,True
+426,"Erdman, Block and Fahey",Korean,Expensive,Harlem,6:08,13:46,2,True
+427,Erdman-Bashirian,Italian,Expensive,Staten Island,7:04,13:12,2,False
+428,Little-Fay,Italian,Cheap,Long Island,11:42,5:55,4,True
+429,Leannon Inc,Korean,Medium,Manhattan,8:45,12:52,5,False
+430,Erdman-Stiedemann,American,Cheap,Harlem,8:49,5:51,2,True
+431,Schmeler and Sons,Fast food,Cheap,Bronx,8:32,14:47,3,True
+432,Feeney-Dooley,Fast food,Cheap,Long Island,8:49,11:13,3,False
+433,"King, Sanford and Miller",French,Cheap,Long Island,8:03,14:50,5,True
+434,Green LLC,Fast food,Cheap,Queens,7:34,9:10,3,False
+435,Nicolas-Wilderman,Chinese,Cheap,Queens,10:43,10:06,4,False
+436,Simonis-Schaefer,Grill,Medium,Long Island,11:52,10:40,5,False
+437,Dooley-Russel,Chinese,Medium,Queens,9:57,11:46,5,True
+438,Deckow-Koepp,Fast food,Expensive,Staten Island,7:26,6:42,3,False
+439,"Hagenes, Crooks and Bechtelar",Italian,Cheap,Bronx,10:21,15:44,3,True
+440,Schuster Group,Korean,Cheap,Staten Island,11:22,5:02,3,False
+441,McLaughlin-Hettinger,Russian,Expensive,Bronx,11:21,6:50,2,True
+442,Ondricka-Kuhic,Greek,Medium,Brooklyn,11:33,10:49,5,True
+443,Cartwright-Baumbach,Chinese,Expensive,Long Island,10:57,17:44,5,True
+444,"Hessel, Howell and Fisher",Mexican,Medium,Queens,11:30,11:55,2,True
+445,"Connelly, Hilpert and Jaskolski",French,Cheap,Queens,6:06,10:22,2,False
+446,Berge-Spinka,Grill,Expensive,Brooklyn,11:20,14:04,4,True
+447,Howell-Christiansen,Vegan,Cheap,Queens,6:31,4:17,5,True
+448,Ziemann and Sons,Italian,Medium,Brooklyn,6:22,5:40,4,True
+449,Beahan Group,Russian,Expensive,Bronx,10:09,15:54,3,False
+450,Legros-Quigley,Russian,Medium,Bronx,7:29,16:47,4,False
+451,Dibbert-Schinner,Mexican,Cheap,Staten Island,8:25,11:17,2,False
+452,"Kshlerin, Flatley and Sauer",Grill,Expensive,Bronx,8:09,11:33,1,False
+453,"Bauch, Kutch and Mueller",Fast food,Cheap,Queens,8:37,5:55,5,False
+454,"Cormier, Kuhic and O'Kon",American,Cheap,Harlem,10:14,13:26,4,False
+455,Parisian-Roob,French,Medium,Brooklyn,10:10,14:01,4,False
+456,Klein Inc,Vegan,Medium,Manhattan,6:48,8:05,1,False
+457,"Cronin, Hayes and Kreiger",Vegan,Expensive,Staten Island,9:38,15:02,5,False
+458,"Boehm, Hagenes and Bayer",Indian,Cheap,Harlem,10:09,5:49,5,False
+459,"Reynolds, Towne and Schaden",Grill,Expensive,Brooklyn,7:18,14:05,4,True
+460,Huel LLC,Mexican,Cheap,Bronx,9:53,4:21,2,True
+461,Wintheiser-Jaskolski,Mexican,Cheap,Brooklyn,9:57,5:33,4,True
+462,Hahn and Sons,Indian,Cheap,Brooklyn,7:15,16:45,3,True
+463,McKenzie Group,American,Medium,Brooklyn,11:48,11:11,3,True
+464,"Nienow, Berge and Keeling",Chinese,Medium,Bronx,7:10,17:21,3,True
+465,"Dibbert, Shanahan and Bogisich",Fast food,Cheap,Queens,10:23,11:01,1,True
+466,"Hintz, Cremin and Littel",Mexican,Expensive,Harlem,7:59,7:09,3,False
+467,Rohan-Spinka,Chinese,Medium,Bronx,9:57,7:38,5,True
+468,Christiansen-Conroy,American,Cheap,Long Island,7:13,8:51,5,True
+469,Bosco-Vandervort,Vegan,Expensive,Harlem,11:22,6:47,1,True
+470,Kutch-Heathcote,Fast food,Medium,Staten Island,8:09,12:12,5,False
+471,Hegmann and Sons,Mexican,Expensive,Bronx,6:57,5:26,5,True
+472,"Mante, McCullough and Purdy",Vegan,Expensive,Bronx,9:47,15:32,4,False
+473,Mraz Inc,American,Expensive,Manhattan,7:22,13:01,4,True
+474,Borer-Batz,Vegan,Cheap,Manhattan,8:17,8:57,5,True
+475,"Mueller, Glover and Kiehn",Grill,Expensive,Brooklyn,10:47,17:32,5,True
+476,Miller-Schroeder,Fast food,Expensive,Manhattan,8:35,17:42,5,True
+477,"Towne, Purdy and Hintz",American,Expensive,Queens,10:09,8:39,4,True
+478,Runolfsson-Bogan,Vegan,Expensive,Long Island,9:18,16:59,1,False
+479,Fay LLC,Fast food,Expensive,Brooklyn,11:28,8:35,1,False
+480,Wilderman LLC,Russian,Cheap,Brooklyn,7:14,4:19,2,False
+481,Hyatt LLC,American,Expensive,Long Island,6:46,11:10,3,True
+482,Howell-Dietrich,French,Expensive,Bronx,6:26,10:54,3,True
+483,"Anderson, Cremin and Konopelski",Fast food,Medium,Queens,8:58,9:00,3,False
+484,"Heathcote, Tremblay and Spinka",Indian,Medium,Brooklyn,9:50,12:13,5,False
+485,Gleason and Sons,Grill,Medium,Brooklyn,6:13,14:56,3,False
+486,McCullough Group,Chinese,Cheap,Harlem,6:45,12:47,5,True
+487,Jacobs-Ward,Korean,Cheap,Manhattan,11:07,13:18,3,False
+488,Gusikowski Group,American,Medium,Staten Island,10:17,12:28,5,True
+489,"Crist, Lueilwitz and Moen",Mexican,Cheap,Manhattan,9:54,8:44,5,False
+490,"Kuphal, Daniel and Hudson",French,Cheap,Manhattan,6:44,7:38,5,False
+491,Champlin-Farrell,Italian,Cheap,Brooklyn,6:49,11:44,4,False
+492,"Hills, Schiller and Fadel",Indian,Cheap,Manhattan,6:43,15:07,3,True
+493,"Hartmann, Goldner and Klein",Korean,Expensive,Brooklyn,6:27,16:23,5,False
+494,"Walsh, Cassin and Hoppe",Russian,Expensive,Long Island,8:05,15:10,2,False
+495,"Reinger, Hagenes and Stehr",French,Cheap,Staten Island,10:28,11:01,3,False
+496,O'Kon-Douglas,Mexican,Medium,Harlem,6:52,5:40,2,True
+497,Tromp-Wolf,Korean,Cheap,Staten Island,11:21,8:07,3,False
+498,Bernier and Sons,French,Cheap,Staten Island,6:06,11:55,4,False
+499,"Kutch, Wiegand and Murray",American,Medium,Manhattan,11:58,9:36,2,False
+500,Murray and Sons,Vegan,Expensive,Harlem,7:19,4:13,3,False
+501,Rosenbaum-O'Reilly,Grill,Medium,Manhattan,10:25,11:35,1,True
+502,Littel-McGlynn,Indian,Medium,Manhattan,11:28,4:04,5,True
+503,Erdman Group,Grill,Cheap,Queens,6:21,9:09,5,False
+504,Oberbrunner Inc,Vegan,Expensive,Harlem,10:59,15:56,4,True
+505,"Weimann, Lindgren and White",Russian,Expensive,Harlem,6:55,7:41,1,False
+506,"Connelly, Kilback and Rath",American,Cheap,Harlem,10:44,16:37,2,True
+507,Kuhic and Sons,Vegan,Expensive,Harlem,7:20,9:49,5,False
+508,Stehr and Sons,Korean,Cheap,Manhattan,11:33,15:45,5,False
+509,Ebert-Muller,Greek,Cheap,Manhattan,8:20,6:28,5,False
+510,"Quitzon, Kulas and Murazik",Mexican,Medium,Harlem,8:57,8:33,1,False
+511,Gaylord Inc,Mexican,Medium,Brooklyn,9:58,10:39,2,False
+512,Halvorson and Sons,Greek,Cheap,Long Island,11:54,16:14,4,True
+513,Emard-Mante,Mexican,Expensive,Staten Island,8:46,13:07,4,False
+514,Stiedemann-Hirthe,Fast food,Cheap,Queens,6:01,5:45,5,False
+515,"Runte, Anderson and O'Reilly",Korean,Cheap,Long Island,6:34,14:32,5,False
+516,"Schmitt, Lesch and Becker",Russian,Medium,Staten Island,8:59,7:03,5,True
+517,Wilderman LLC,Vegan,Medium,Bronx,7:28,9:11,1,True
+518,Schaefer-Koch,Greek,Cheap,Harlem,9:32,11:30,3,False
+519,Bechtelar LLC,Vegan,Expensive,Staten Island,6:56,9:10,4,False
+520,Carter Inc,Indian,Cheap,Long Island,11:36,9:34,1,False
+521,"Ritchie, Simonis and Zboncak",Mexican,Cheap,Staten Island,6:18,4:02,1,True
+522,"Russel, Rolfson and Wuckert",Russian,Expensive,Brooklyn,6:34,16:18,5,True
+523,Upton-Feest,Grill,Medium,Bronx,10:29,11:22,5,True
+524,Parker Inc,Vegan,Expensive,Queens,7:52,6:42,1,True
+525,"Smith, Schaefer and Trantow",American,Cheap,Queens,10:39,16:45,5,True
+526,Stamm-Quitzon,Chinese,Expensive,Queens,6:05,13:10,4,False
+527,Stiedemann LLC,French,Expensive,Manhattan,11:18,8:05,4,False
+528,Homenick-Heathcote,French,Medium,Harlem,6:10,13:30,2,False
+529,Beatty Inc,Indian,Medium,Manhattan,7:42,6:47,3,True
+530,Marvin-Doyle,Russian,Medium,Staten Island,9:05,15:38,1,True
+531,Spinka and Sons,Grill,Medium,Harlem,8:02,11:45,5,False
+532,"Wunsch, Stroman and Boyer",Greek,Cheap,Long Island,8:27,9:40,3,False
+533,Bogan LLC,French,Medium,Queens,8:57,4:14,2,True
+534,Heathcote-Thiel,Russian,Cheap,Queens,9:31,14:37,5,False
+535,"Bosco, Feest and Kreiger",Russian,Cheap,Staten Island,9:13,9:12,5,True
+536,Toy-Pollich,Korean,Expensive,Bronx,8:37,17:33,4,True
+537,"Kassulke, Kemmer and Sanford",Greek,Medium,Long Island,8:41,5:34,3,True
+538,"Towne, Cronin and Cassin",Russian,Medium,Manhattan,6:08,5:59,2,False
+539,Runolfsdottir-Kuhic,Greek,Medium,Staten Island,8:48,9:56,3,True
+540,"Parker, Stracke and Kassulke",Korean,Medium,Brooklyn,7:51,14:25,1,True
+541,"Corwin, Corkery and Doyle",Vegan,Medium,Manhattan,10:21,6:16,5,True
+542,Jacobi Inc,Mexican,Expensive,Bronx,10:46,17:20,3,True
+543,"Senger, Douglas and Moore",Italian,Cheap,Bronx,8:57,9:14,4,False
+544,Collier-Johnson,Korean,Cheap,Manhattan,8:51,4:40,4,True
+545,Sporer-Upton,Italian,Medium,Queens,8:17,13:46,2,True
+546,Daugherty-Parker,Greek,Cheap,Bronx,11:24,9:49,3,False
+547,"Will, Nolan and Hayes",Indian,Cheap,Brooklyn,11:36,14:47,3,True
+548,Rempel-Treutel,Grill,Medium,Brooklyn,9:23,16:25,1,False
+549,Schaden LLC,Korean,Expensive,Staten Island,9:21,15:10,1,False
+550,Schultz and Sons,Mexican,Cheap,Bronx,6:15,17:07,5,True
+551,Batz LLC,American,Expensive,Queens,10:54,5:45,3,False
+552,"Lueilwitz, Hirthe and Cremin",French,Expensive,Bronx,10:08,15:18,4,True
+553,Reynolds and Sons,American,Medium,Queens,7:30,16:50,4,False
+554,"Ratke, Heathcote and Dietrich",American,Medium,Brooklyn,10:45,12:54,4,False
+555,Nikolaus-Kovacek,Fast food,Cheap,Bronx,6:33,6:16,4,False
+556,"West, Rosenbaum and Hegmann",Mexican,Medium,Brooklyn,7:20,13:12,5,False
+557,Johns Group,Russian,Cheap,Queens,7:36,16:59,2,True
+558,Jenkins-Stoltenberg,American,Expensive,Queens,11:46,14:55,5,False
+559,"Bartell, Wiza and Hoppe",French,Expensive,Long Island,6:30,7:10,4,True
+560,Gusikowski-Johns,Indian,Cheap,Manhattan,8:07,7:03,3,True
+561,Davis-Bogisich,Vegan,Expensive,Long Island,6:40,15:30,5,True
+562,Kautzer LLC,American,Expensive,Bronx,9:28,4:26,1,False
+563,Bartoletti Inc,Korean,Expensive,Staten Island,10:26,15:18,3,False
+564,Morissette LLC,Greek,Medium,Staten Island,11:26,4:57,1,True
+565,Leannon-Parker,Fast food,Medium,Long Island,6:56,9:14,4,True
+566,Boehm Inc,Greek,Cheap,Queens,6:52,5:27,4,True
+567,"Green, Carroll and Rodriguez",Grill,Cheap,Long Island,6:04,6:09,1,False
+568,Reinger Group,Korean,Expensive,Manhattan,8:13,17:26,3,True
+569,Bashirian-Nader,French,Cheap,Brooklyn,8:45,5:39,5,True
+570,"Wiza, Hickle and Hauck",Mexican,Cheap,Staten Island,8:14,9:02,4,False
+571,"Carroll, Considine and Fritsch",French,Expensive,Queens,10:17,16:32,1,False
+572,Ondricka-Kassulke,Russian,Cheap,Brooklyn,7:58,8:49,2,True
+573,"Emard, Halvorson and Fay",Indian,Cheap,Harlem,10:25,8:28,4,False
+574,Herzog-Stark,Fast food,Expensive,Long Island,11:15,12:46,4,True
+575,Leuschke Group,Mexican,Medium,Queens,6:13,4:35,2,True
+576,Zemlak Group,Greek,Medium,Bronx,7:17,9:23,5,True
+577,Mitchell Inc,American,Cheap,Bronx,6:16,14:30,5,True
+578,"Dibbert, Goldner and Ratke",Italian,Medium,Brooklyn,9:56,9:01,5,True
+579,Dietrich Group,Chinese,Expensive,Manhattan,8:20,4:48,3,True
+580,"Satterfield, Brekke and Jones",Indian,Cheap,Staten Island,9:14,17:06,5,True
+581,Rowe-Rohan,Korean,Cheap,Brooklyn,10:23,12:56,1,False
+582,"Smitham, Batz and Runolfsdottir",Korean,Medium,Queens,10:12,5:51,3,False
+583,Schamberger Group,Italian,Cheap,Brooklyn,6:36,12:23,3,False
+584,"Reichert, Grady and O'Keefe",Mexican,Medium,Brooklyn,11:34,16:28,1,True
+585,Kilback LLC,Grill,Medium,Bronx,9:20,17:34,4,True
+586,Rippin and Sons,American,Expensive,Harlem,11:46,10:21,3,True
+587,Schiller Group,Fast food,Cheap,Harlem,9:57,12:32,3,True
+588,"Hoeger, Romaguera and Hane",Chinese,Medium,Brooklyn,7:03,9:42,2,True
+589,Cummings and Sons,French,Expensive,Manhattan,9:02,5:45,5,False
+590,Botsford-Lemke,American,Medium,Queens,7:32,6:23,2,False
+591,"Hoppe, Cummerata and Schumm",Chinese,Medium,Harlem,8:03,6:01,4,True
+592,Daniel-Howe,Mexican,Expensive,Harlem,11:02,16:38,1,False
+593,"Langworth, Weissnat and White",Greek,Medium,Queens,10:26,9:19,5,True
+594,Altenwerth-Mosciski,Mexican,Medium,Staten Island,8:27,8:24,3,False
+595,Abshire Inc,Chinese,Cheap,Brooklyn,9:21,9:45,1,True
+596,"Beahan, Mante and Bogisich",Grill,Medium,Queens,8:10,8:11,5,True
+597,Balistreri-Fritsch,Russian,Medium,Long Island,6:26,6:19,1,False
+598,"Bernier, Keeling and Harvey",Vegan,Expensive,Bronx,7:50,5:40,4,True
+599,"Haley, Toy and Vandervort",American,Expensive,Brooklyn,7:48,5:21,4,True
+600,McCullough Group,Indian,Cheap,Manhattan,7:42,15:03,3,True
+601,Schmidt-Ritchie,Italian,Cheap,Manhattan,7:50,4:21,5,True
+602,"Lakin, Flatley and Roob",Indian,Cheap,Queens,6:20,17:21,3,True
+603,Orn Group,Korean,Cheap,Brooklyn,9:26,10:17,5,False
+604,Reichert-Ankunding,Mexican,Medium,Brooklyn,8:12,5:19,3,False
+605,"Green, Krajcik and Marquardt",American,Cheap,Harlem,6:43,14:28,1,True
+606,Runte Group,Grill,Medium,Queens,8:06,5:22,2,False
+607,McCullough-Keebler,Vegan,Expensive,Long Island,8:21,4:46,1,False
+608,Monahan-Prosacco,Fast food,Medium,Brooklyn,6:37,16:35,3,True
+609,"Ullrich, Flatley and Auer",Mexican,Cheap,Brooklyn,8:51,8:07,5,False
+610,Baumbach-Greenholt,Mexican,Expensive,Queens,9:55,11:46,2,False
+611,Lemke-Stracke,Italian,Medium,Long Island,11:52,7:49,1,True
+612,"Schmitt, Block and Brakus",Fast food,Cheap,Long Island,6:15,6:19,1,False
+613,Zulauf-Baumbach,Fast food,Expensive,Staten Island,6:49,15:44,5,False
+614,"Kautzer, Nikolaus and McClure",Fast food,Expensive,Staten Island,9:24,7:03,1,False
+615,Kassulke-Lesch,Mexican,Cheap,Staten Island,9:42,15:33,4,True
+616,"Yundt, Gislason and Hintz",Chinese,Medium,Queens,10:31,13:57,5,True
+617,Green Group,Korean,Cheap,Staten Island,11:25,11:16,3,True
+618,MacGyver Inc,Vegan,Cheap,Staten Island,6:54,14:16,5,False
+619,Hermann Group,Russian,Medium,Queens,11:53,4:29,2,True
+620,Rowe LLC,Fast food,Medium,Brooklyn,11:20,5:52,1,True
+621,Kirlin and Sons,Fast food,Medium,Queens,9:14,11:23,5,False
+622,"Watsica, Leuschke and Prohaska",Korean,Medium,Brooklyn,10:55,17:20,1,True
+623,Bins Inc,Italian,Expensive,Staten Island,8:33,17:24,5,False
+624,Harvey and Sons,Chinese,Cheap,Brooklyn,10:32,16:58,4,True
+625,Ortiz and Sons,Greek,Expensive,Brooklyn,10:02,14:18,4,True
+626,"Robel, Hills and Labadie",Chinese,Expensive,Harlem,8:13,11:09,5,True
+627,Cronin-Breitenberg,Indian,Cheap,Queens,10:49,11:45,2,False
+628,Crona-Grant,Chinese,Cheap,Long Island,11:01,17:21,1,False
+629,Wilkinson LLC,Grill,Expensive,Long Island,9:47,6:56,3,True
+630,Heidenreich Inc,Indian,Cheap,Harlem,8:20,14:45,5,False
+631,Gottlieb-Hahn,Fast food,Cheap,Queens,9:17,11:25,5,False
+632,"Upton, Flatley and Keeling",Greek,Expensive,Long Island,7:45,5:51,3,True
+633,"Herman, Kub and Rutherford",Fast food,Medium,Bronx,11:41,17:15,3,True
+634,Muller Inc,Russian,Expensive,Staten Island,11:36,11:19,1,False
+635,Cronin Inc,Greek,Expensive,Queens,10:32,4:11,3,False
+636,Rath-Rodriguez,Fast food,Medium,Bronx,9:07,11:29,3,True
+637,"Hettinger, Murray and Nader",Fast food,Expensive,Bronx,7:09,8:18,4,True
+638,Watsica LLC,French,Expensive,Bronx,11:27,6:06,4,True
+639,Schmitt LLC,Korean,Medium,Staten Island,8:37,5:17,5,False
+640,"Rutherford, O'Reilly and Johnston",Fast food,Expensive,Queens,6:23,16:49,1,False
+641,Keebler LLC,Italian,Expensive,Manhattan,9:06,14:40,4,True
+642,Stark-Hilll,Fast food,Expensive,Manhattan,10:02,17:18,1,True
+643,"Funk, Lakin and Lesch",Vegan,Expensive,Brooklyn,6:38,9:45,5,False
+644,"Mohr, Bashirian and Labadie",Italian,Expensive,Queens,8:36,8:16,3,True
+645,Rogahn-Schiller,Korean,Medium,Queens,9:59,4:38,2,True
+646,Ankunding Group,French,Medium,Queens,6:10,16:23,4,False
+647,Funk-Bartell,Grill,Cheap,Queens,8:48,16:14,5,False
+648,Waelchi-Kshlerin,Italian,Cheap,Brooklyn,10:35,15:39,1,True
+649,Jones LLC,Mexican,Medium,Staten Island,11:43,10:03,2,False
+650,Jerde-Renner,Mexican,Medium,Long Island,7:31,15:49,1,False
+651,Greenfelder Group,Chinese,Expensive,Harlem,10:47,8:51,4,False
+652,Hodkiewicz LLC,Fast food,Medium,Brooklyn,11:53,14:42,3,False
+653,"Christiansen, Grant and Runolfsdottir",Russian,Cheap,Queens,11:44,6:25,1,True
+654,Graham and Sons,Grill,Medium,Staten Island,6:13,7:14,3,True
+655,O'Keefe-King,French,Expensive,Bronx,11:10,12:11,4,True
+656,Schulist-Strosin,Fast food,Cheap,Long Island,6:31,7:53,1,False
+657,"Schinner, Fahey and Murazik",French,Medium,Long Island,6:17,10:21,5,False
+658,Rutherford Inc,Fast food,Medium,Harlem,7:26,16:28,4,False
+659,Bode-Kovacek,Italian,Cheap,Queens,7:40,17:31,4,False
+660,Wunsch-Kuhic,Russian,Expensive,Bronx,7:34,11:59,4,False
+661,Emmerich Inc,Vegan,Expensive,Harlem,9:21,7:54,5,False
+662,Gorczany-Senger,Grill,Cheap,Harlem,11:44,17:01,5,True
+663,Dietrich LLC,Chinese,Cheap,Long Island,6:12,11:53,3,True
+664,Spinka-Kohler,Chinese,Cheap,Long Island,8:26,11:00,4,False
+665,Grady Inc,French,Medium,Harlem,10:15,10:05,2,False
+666,"Hickle, Jenkins and Huel",Vegan,Medium,Harlem,9:13,16:57,4,False
+667,Koepp-Batz,Indian,Medium,Bronx,9:19,6:41,3,True
+668,Treutel LLC,French,Cheap,Queens,8:26,16:09,1,False
+669,Ankunding LLC,Italian,Expensive,Long Island,9:25,14:26,1,False
+670,Murphy-Cummerata,Russian,Cheap,Queens,6:08,4:03,1,False
+671,Bruen Group,American,Medium,Long Island,7:39,8:31,3,False
+672,Dickinson Inc,Mexican,Cheap,Staten Island,11:22,6:33,1,False
+673,"Wuckert, Von and Morar",Greek,Cheap,Manhattan,8:14,13:30,4,False
+674,Grant-Schuppe,American,Expensive,Harlem,8:45,9:50,3,True
+675,"Morar, Nolan and Gusikowski",Greek,Medium,Harlem,9:54,11:59,2,True
+676,Reilly Group,Vegan,Medium,Manhattan,10:43,4:30,1,True
+677,Padberg LLC,Fast food,Cheap,Long Island,7:04,15:28,4,True
+678,"Marquardt, Kub and Kulas",Greek,Expensive,Manhattan,11:26,4:01,3,False
+679,Wintheiser-Lowe,Indian,Medium,Manhattan,10:45,13:09,4,True
+680,"Hickle, Flatley and Cummerata",Italian,Expensive,Staten Island,10:21,16:22,1,True
+681,Powlowski-Flatley,American,Expensive,Bronx,9:28,9:04,3,True
+682,Little-O'Keefe,American,Cheap,Brooklyn,10:40,8:50,1,True
+683,"Koss, Stroman and Lesch",Mexican,Expensive,Manhattan,10:47,14:18,2,False
+684,Hilpert-Nicolas,Russian,Cheap,Harlem,6:22,12:15,3,False
+685,"Brown, Goyette and Hane",Italian,Medium,Brooklyn,7:09,11:56,4,True
+686,VonRueden-Dooley,American,Expensive,Manhattan,10:01,5:46,4,False
+687,"Blick, Hilll and Erdman",Russian,Medium,Staten Island,11:34,12:04,1,True
+688,"Wehner, Pouros and Runolfsson",Greek,Cheap,Manhattan,8:06,4:47,1,False
+689,"Yost, Keebler and Weimann",Russian,Medium,Bronx,11:21,13:57,5,False
+690,"Hirthe, Stiedemann and Bogisich",American,Medium,Manhattan,8:48,16:24,1,False
+691,Miller and Sons,Indian,Expensive,Long Island,8:48,6:35,3,False
+692,Wolff-Buckridge,Italian,Cheap,Staten Island,6:22,11:59,5,False
+693,Fahey LLC,American,Expensive,Manhattan,8:47,14:33,5,True
+694,"Stehr, Watsica and Reinger",Mexican,Medium,Harlem,7:00,15:42,1,True
+695,Morissette Group,American,Medium,Manhattan,9:29,4:05,4,False
+696,Lind LLC,Grill,Medium,Manhattan,11:49,17:02,1,True
+697,Kulas-Shields,Chinese,Medium,Brooklyn,7:22,14:53,3,False
+698,"Bogisich, Johnston and Weissnat",Greek,Medium,Harlem,8:31,7:55,5,False
+699,Reinger Inc,Korean,Medium,Long Island,11:32,16:26,4,True
+700,Jacobs-Adams,American,Medium,Staten Island,6:10,12:58,4,True
+701,Ankunding-Langworth,French,Medium,Manhattan,9:56,7:05,4,True
+702,Kilback and Sons,Fast food,Medium,Harlem,8:12,7:40,2,False
+703,Beer-Gibson,Greek,Expensive,Manhattan,11:44,8:50,5,True
+704,Lowe-Parisian,Korean,Medium,Long Island,6:46,10:17,4,True
+705,Boehm-Bosco,Vegan,Expensive,Queens,11:02,13:26,5,False
+706,Bahringer Group,French,Medium,Brooklyn,6:19,6:09,3,False
+707,Mraz LLC,Fast food,Medium,Queens,10:03,17:53,2,True
+708,Powlowski LLC,Korean,Expensive,Long Island,10:33,15:23,3,True
+709,Bednar and Sons,Greek,Cheap,Staten Island,8:50,5:56,3,False
+710,"Legros, Torphy and Parisian",Mexican,Cheap,Harlem,11:23,14:50,3,False
+711,"Lynch, Lemke and Connelly",Indian,Medium,Manhattan,8:05,15:19,4,True
+712,"Greenholt, Monahan and Mohr",American,Cheap,Long Island,8:25,8:48,2,False
+713,"Strosin, Bechtelar and Koepp",Vegan,Medium,Harlem,9:59,15:54,2,True
+714,Tremblay Inc,Russian,Medium,Staten Island,9:30,10:59,1,True
+715,"Gleichner, Collins and Batz",Chinese,Medium,Long Island,8:25,6:15,2,False
+716,Blanda Group,Italian,Cheap,Brooklyn,6:59,15:43,5,False
+717,"Fahey, Cartwright and Feeney",French,Medium,Bronx,7:16,9:59,2,False
+718,Gislason LLC,Fast food,Expensive,Manhattan,7:38,4:41,1,True
+719,Johnston-Kautzer,Italian,Medium,Queens,6:23,7:42,5,True
+720,Olson Group,Vegan,Cheap,Manhattan,10:47,4:49,3,False
+721,Beer LLC,Mexican,Expensive,Manhattan,6:58,6:18,4,False
+722,Hammes-Runolfsson,Fast food,Expensive,Harlem,9:16,8:19,3,False
+723,Gulgowski and Sons,American,Cheap,Queens,11:07,14:10,3,True
+724,Schoen-Goodwin,Fast food,Cheap,Queens,9:21,8:31,5,True
+725,Bartell-Olson,Mexican,Medium,Bronx,8:50,15:45,5,False
+726,Dicki-Zulauf,Mexican,Expensive,Queens,10:21,6:19,2,True
+727,Moore Group,Chinese,Medium,Long Island,8:58,9:46,3,False
+728,Schoen Group,Fast food,Medium,Staten Island,6:33,6:38,3,True
+729,Kshlerin and Sons,Mexican,Cheap,Brooklyn,6:36,6:16,1,True
+730,Zboncak LLC,French,Expensive,Queens,10:42,15:05,4,True
+731,"Price, Schmitt and Gerlach",Chinese,Cheap,Long Island,10:12,13:33,1,False
+732,Bergnaum-Herman,Fast food,Medium,Brooklyn,9:47,10:48,3,True
+733,"Jacobi, Lind and Jerde",Italian,Cheap,Harlem,6:24,8:06,4,True
+734,Buckridge-Hermiston,Fast food,Cheap,Long Island,11:22,9:58,4,True
+735,Rice LLC,Indian,Medium,Harlem,9:36,8:57,4,False
+736,"Jacobson, Padberg and Marquardt",Indian,Expensive,Bronx,7:37,15:47,2,False
+737,Considine-Quitzon,Korean,Cheap,Bronx,8:28,16:09,3,False
+738,Buckridge-Witting,Fast food,Cheap,Brooklyn,6:51,10:14,4,True
+739,Auer Inc,Grill,Cheap,Harlem,7:17,4:58,3,False
+740,Crooks LLC,French,Cheap,Manhattan,10:56,8:30,1,False
+741,"Shanahan, Orn and MacGyver",Korean,Expensive,Harlem,8:34,15:18,3,False
+742,Buckridge-Willms,Korean,Medium,Staten Island,9:38,8:34,1,True
+743,Orn-Runolfsson,Greek,Medium,Long Island,11:53,5:05,4,False
+744,Stamm-Grant,Indian,Cheap,Staten Island,7:45,8:31,1,False
+745,Lind-Schumm,Chinese,Cheap,Queens,10:51,12:18,2,False
+746,"Bednar, Fay and Lynch",French,Expensive,Manhattan,6:40,10:08,4,True
+747,Sporer-Kuhic,Italian,Cheap,Brooklyn,10:45,9:59,4,False
+748,Runolfsdottir LLC,French,Medium,Long Island,9:21,4:15,2,False
+749,Oberbrunner-Thompson,American,Cheap,Manhattan,6:15,12:24,3,False
+750,"Hamill, Toy and Fay",Italian,Medium,Staten Island,10:11,8:08,1,False
+751,"Bechtelar, Towne and Kreiger",Russian,Medium,Queens,11:52,5:54,5,True
+752,Bahringer and Sons,Russian,Expensive,Queens,9:09,15:38,1,True
+753,Rau Inc,Fast food,Expensive,Brooklyn,9:57,10:17,4,False
+754,Mills LLC,Mexican,Cheap,Harlem,9:00,7:26,2,False
+755,"Bayer, Zulauf and Kuhic",Indian,Expensive,Queens,9:09,10:22,3,True
+756,Farrell-Stiedemann,Korean,Expensive,Bronx,7:59,8:01,4,False
+757,Schiller LLC,Russian,Medium,Manhattan,9:29,9:02,1,True
+758,Wisoky-Boehm,Korean,Cheap,Staten Island,9:47,8:06,2,False
+759,O'Reilly Inc,Vegan,Cheap,Queens,6:58,17:32,5,False
+760,"Feest, Reinger and D'Amore",Chinese,Expensive,Queens,7:27,4:26,4,True
+761,Bernier-Harber,Vegan,Medium,Staten Island,9:38,15:03,5,True
+762,"Donnelly, Rau and Goodwin",French,Expensive,Brooklyn,7:35,12:30,5,True
+763,Roberts Inc,Greek,Medium,Queens,11:40,11:31,1,False
+764,Beer and Sons,Russian,Medium,Harlem,6:52,6:22,5,False
+765,Kertzmann and Sons,Italian,Expensive,Manhattan,11:24,13:30,1,True
+766,Marquardt-Baumbach,Greek,Medium,Harlem,11:57,17:30,4,True
+767,"Cremin, Mueller and Steuber",Korean,Expensive,Manhattan,11:09,7:36,2,True
+768,"Ernser, Ziemann and Leffler",Mexican,Expensive,Manhattan,11:03,8:25,1,True
+769,"Pouros, Wiegand and King",Mexican,Cheap,Queens,10:13,16:12,3,True
+770,Robel-Heidenreich,Indian,Cheap,Brooklyn,11:04,6:10,5,True
+771,Huels and Sons,Korean,Medium,Manhattan,10:46,7:17,2,True
+772,"Hyatt, Bartell and Flatley",Korean,Cheap,Queens,9:34,16:50,4,True
+773,Dietrich-Walter,Grill,Cheap,Brooklyn,10:14,14:32,5,False
+774,Ledner LLC,Indian,Cheap,Manhattan,11:33,12:21,3,False
+775,Kemmer LLC,Russian,Cheap,Bronx,10:55,12:51,5,True
+776,"Fritsch, Kunde and Wilderman",Vegan,Expensive,Harlem,9:57,7:10,2,True
+777,Rohan-Casper,French,Cheap,Bronx,11:39,15:51,5,False
+778,Stark-Mann,Chinese,Expensive,Long Island,8:00,8:14,1,True
+779,King and Sons,Chinese,Medium,Long Island,9:31,16:24,5,False
+780,Parker-Schmidt,Fast food,Medium,Harlem,8:09,12:36,4,True
+781,Olson-Paucek,Grill,Expensive,Brooklyn,6:28,7:15,2,True
+782,Buckridge-Lakin,Grill,Expensive,Harlem,6:42,16:08,1,True
+783,"West, Dickens and Johns",Chinese,Expensive,Long Island,8:38,16:43,2,False
+784,Walter Inc,Russian,Medium,Queens,7:09,8:50,3,False
+785,Wehner Inc,Korean,Medium,Brooklyn,7:12,7:54,2,True
+786,Mayert Group,Mexican,Medium,Manhattan,11:00,17:44,4,False
+787,Abernathy-Toy,Indian,Medium,Brooklyn,7:56,17:29,3,False
+788,Goodwin Inc,Greek,Expensive,Brooklyn,8:40,8:51,1,False
+789,Gorczany-Gleason,Italian,Cheap,Queens,10:55,15:26,3,True
+790,"Pacocha, Conroy and Runolfsson",Indian,Expensive,Staten Island,10:01,11:47,1,False
+791,Breitenberg-Skiles,Mexican,Medium,Manhattan,7:33,10:59,1,False
+792,Wehner-Hackett,Greek,Medium,Manhattan,6:58,9:44,4,True
+793,Mertz Group,Russian,Expensive,Brooklyn,7:34,11:31,1,True
+794,"Zboncak, Miller and Lind",Fast food,Cheap,Long Island,10:12,9:37,4,True
+795,Kuhic-Hammes,Vegan,Expensive,Queens,7:09,14:54,4,True
+796,Hilll-Corkery,American,Expensive,Queens,7:10,10:54,4,False
+797,McClure-Krajcik,Mexican,Medium,Queens,7:22,15:31,3,True
+798,"Jenkins, Howell and Rosenbaum",Vegan,Medium,Staten Island,8:34,14:49,5,False
+799,"Walker, Breitenberg and Koss",Russian,Cheap,Staten Island,8:09,14:22,3,False
+800,Cummerata-Hahn,French,Medium,Harlem,9:15,17:27,3,False
+801,"Gorczany, Reilly and Pagac",Indian,Expensive,Harlem,9:52,9:03,3,False
+802,Christiansen-Bode,French,Expensive,Staten Island,6:39,8:12,2,False
+803,Borer Inc,Mexican,Medium,Manhattan,6:35,14:51,3,False
+804,Bashirian LLC,French,Expensive,Manhattan,8:48,5:55,5,False
+805,"Padberg, Jones and Halvorson",Vegan,Cheap,Harlem,8:13,8:06,1,False
+806,"Mertz, Parker and Pfeffer",American,Cheap,Staten Island,11:47,7:23,1,False
+807,Fahey-Gislason,French,Medium,Brooklyn,10:06,13:41,2,True
+808,Conroy Inc,Chinese,Expensive,Queens,11:53,17:46,1,True
+809,O'Connell and Sons,Indian,Cheap,Bronx,11:10,16:08,3,True
+810,Smitham-Schinner,Grill,Medium,Queens,10:51,17:53,4,True
+811,Schmitt-O'Conner,Grill,Cheap,Staten Island,6:26,5:34,5,True
+812,"Labadie, Gutmann and Farrell",Fast food,Medium,Bronx,7:09,11:15,3,True
+813,Bechtelar LLC,Mexican,Medium,Queens,6:48,17:11,5,False
+814,Huel LLC,Chinese,Cheap,Harlem,10:20,12:44,5,True
+815,Kshlerin-Towne,Fast food,Medium,Manhattan,11:13,4:50,4,True
+816,Corwin-Oberbrunner,Greek,Cheap,Harlem,11:59,15:51,3,False
+817,Kulas-Daugherty,Mexican,Expensive,Harlem,6:20,8:38,4,False
+818,"Crooks, Daugherty and Torphy",Korean,Expensive,Long Island,6:17,13:40,3,True
+819,Feeney-Hand,Russian,Cheap,Manhattan,6:35,12:14,4,False
+820,Romaguera-Leffler,French,Cheap,Bronx,11:51,6:31,4,True
+821,"Jones, Kris and Weber",American,Cheap,Bronx,8:42,10:33,1,True
+822,"Pollich, Johnston and Herzog",Greek,Cheap,Staten Island,10:06,10:51,5,False
+823,"Hammes, Haag and Considine",Fast food,Medium,Brooklyn,7:17,12:34,4,False
+824,"Powlowski, Hermann and Feil",Russian,Cheap,Harlem,11:17,5:42,2,False
+825,Grady and Sons,Korean,Cheap,Long Island,10:42,13:32,3,False
+826,"Price, Harber and Mraz",Korean,Medium,Manhattan,6:16,15:12,5,True
+827,"Huel, Pagac and Goldner",Grill,Cheap,Bronx,11:59,6:18,3,True
+828,"Bahringer, Koepp and Armstrong",Chinese,Cheap,Queens,7:47,6:12,5,True
+829,Johnson-Moore,Vegan,Medium,Harlem,6:04,8:44,4,True
+830,Kilback-Cremin,French,Expensive,Brooklyn,10:00,17:20,1,False
+831,Morissette-Marks,Italian,Expensive,Bronx,9:38,16:17,3,True
+832,Howell-Stoltenberg,Grill,Cheap,Harlem,10:55,8:34,3,True
+833,Kling Inc,Grill,Expensive,Queens,8:32,9:00,2,False
+834,West Group,Fast food,Cheap,Staten Island,6:13,6:35,2,True
+835,"Muller, Rippin and Anderson",Korean,Cheap,Staten Island,8:54,14:27,3,True
+836,Rice and Sons,Indian,Medium,Staten Island,6:31,9:17,2,False
+837,Stiedemann-Metz,American,Cheap,Queens,6:47,6:26,1,False
+838,"Kemmer, Mohr and Sanford",French,Medium,Staten Island,7:34,11:35,4,True
+839,Corwin-Funk,Grill,Medium,Bronx,8:08,13:36,2,False
+840,Gerhold Group,Fast food,Cheap,Brooklyn,9:37,12:27,2,True
+841,Christiansen Group,Korean,Medium,Manhattan,10:26,5:45,1,False
+842,Batz-Kris,American,Cheap,Bronx,11:21,9:09,4,False
+843,Wuckert-Jenkins,Greek,Cheap,Brooklyn,11:13,11:32,1,False
+844,Hyatt-Boyle,French,Expensive,Staten Island,9:54,17:32,1,True
+845,Wilderman Inc,Russian,Medium,Manhattan,10:00,9:33,1,True
+846,Koelpin-Bauch,Russian,Expensive,Queens,10:47,6:09,2,False
+847,"Streich, Koch and Stroman",Indian,Cheap,Queens,10:38,10:08,2,True
+848,"Bechtelar, Reinger and Kling",Chinese,Medium,Brooklyn,9:53,10:54,3,False
+849,"Wilkinson, Huels and Boyle",Greek,Medium,Bronx,6:52,4:23,4,False
+850,McClure-Pagac,Indian,Cheap,Harlem,10:06,4:04,5,True
+851,"Dickinson, Fisher and Goodwin",Italian,Medium,Manhattan,11:26,14:22,2,True
+852,"Friesen, Padberg and Welch",Russian,Expensive,Bronx,8:21,13:25,2,False
+853,"Fay, Stracke and Walker",Korean,Medium,Queens,7:31,4:51,4,False
+854,"Haag, Heller and Abernathy",Chinese,Expensive,Brooklyn,8:21,16:26,3,False
+855,Rolfson Group,American,Medium,Manhattan,6:53,11:25,3,False
+856,Koss-Bahringer,Indian,Medium,Harlem,11:29,9:55,1,False
+857,"Parisian, Tremblay and Lynch",Russian,Medium,Harlem,10:12,12:09,5,False
+858,"Grady, Gutmann and Zulauf",Chinese,Cheap,Staten Island,9:12,16:32,1,True
+859,Orn-Hills,Greek,Cheap,Bronx,8:55,6:30,5,True
+860,Torphy Inc,Grill,Expensive,Harlem,8:49,16:42,5,True
+861,Dietrich Group,Indian,Medium,Manhattan,9:56,12:21,1,True
+862,Borer Inc,Grill,Medium,Manhattan,10:17,6:24,5,False
+863,Stark-Reichel,Mexican,Medium,Manhattan,8:34,15:35,2,False
+864,Willms-Lueilwitz,Grill,Expensive,Queens,8:53,13:55,3,False
+865,Ortiz-Wolf,Italian,Expensive,Manhattan,9:46,10:35,1,True
+866,Koelpin LLC,Korean,Cheap,Bronx,8:28,15:30,5,False
+867,Leannon LLC,Grill,Expensive,Queens,8:49,10:10,4,False
+868,Stehr-Sipes,Indian,Medium,Staten Island,8:26,4:52,1,False
+869,Bergstrom and Sons,Mexican,Cheap,Queens,6:54,16:51,1,True
+870,Johnson-Pfeffer,Vegan,Medium,Harlem,8:50,16:46,3,True
+871,Lehner Inc,Korean,Medium,Bronx,8:48,7:27,5,True
+872,"Effertz, Armstrong and Jaskolski",Korean,Medium,Brooklyn,8:13,10:16,1,True
+873,"Stehr, Franecki and Paucek",Mexican,Cheap,Staten Island,6:28,12:12,4,False
+874,Armstrong and Sons,Korean,Medium,Manhattan,10:32,5:27,1,False
+875,"Boyle, Kutch and Cronin",Korean,Medium,Brooklyn,11:44,6:31,3,False
+876,"Boehm, Prohaska and Grimes",Korean,Cheap,Staten Island,10:00,9:07,5,False
+877,Marquardt-Ziemann,American,Medium,Brooklyn,9:01,9:24,3,False
+878,Kub-Moore,Fast food,Cheap,Manhattan,9:44,6:08,3,False
+879,Effertz-Schroeder,Fast food,Medium,Staten Island,10:20,8:06,1,True
+880,Schiller Inc,French,Medium,Staten Island,6:10,12:15,4,False
+881,"Oberbrunner, Franecki and Feeney",Greek,Cheap,Queens,9:21,5:41,2,False
+882,Fisher-Abshire,Fast food,Expensive,Long Island,8:57,7:33,3,False
+883,Lockman-Berge,Greek,Expensive,Harlem,6:49,7:42,5,True
+884,Klein-Jacobs,Mexican,Medium,Manhattan,10:18,14:46,5,True
+885,Doyle-Emard,Fast food,Cheap,Bronx,6:30,12:44,5,False
+886,McDermott LLC,Chinese,Cheap,Harlem,9:47,8:25,2,False
+887,"Paucek, Jast and Schamberger",American,Medium,Queens,6:31,16:47,1,True
+888,"Larkin, Reichel and Altenwerth",Vegan,Medium,Long Island,7:56,13:16,3,True
+889,"Kirlin, Brown and Crona",Vegan,Cheap,Long Island,11:51,5:04,1,False
+890,"Brown, Jenkins and Schroeder",Fast food,Medium,Manhattan,9:26,5:30,3,True
+891,Cruickshank-Hyatt,Chinese,Medium,Staten Island,11:12,9:17,1,True
+892,"Goodwin, Sauer and Gulgowski",American,Expensive,Harlem,10:22,16:23,4,False
+893,Gleason-Schoen,Korean,Cheap,Manhattan,9:23,7:18,5,True
+894,"Gleason, Corkery and Stracke",Fast food,Cheap,Brooklyn,6:27,4:45,4,True
+895,"Kirlin, Mayert and Frami",Russian,Expensive,Manhattan,10:05,12:35,3,True
+896,Kessler Group,Indian,Cheap,Harlem,7:05,5:11,4,True
+897,Leffler Inc,Korean,Expensive,Long Island,8:36,8:42,1,True
+898,Oberbrunner-MacGyver,French,Cheap,Bronx,8:42,17:54,2,False
+899,"Rosenbaum, Auer and Beatty",French,Expensive,Long Island,8:58,16:04,1,True
+900,"Hansen, Balistreri and White",Chinese,Medium,Long Island,10:59,12:15,1,False
+901,Mosciski Inc,Italian,Expensive,Bronx,6:36,6:26,3,True
+902,Cummerata Group,Russian,Cheap,Manhattan,9:08,13:13,3,True
+903,Bosco-Gerlach,Mexican,Medium,Bronx,9:42,6:13,1,False
+904,"Lesch, Orn and Adams",Mexican,Cheap,Harlem,8:41,5:06,1,False
+905,Botsford-Fay,Vegan,Expensive,Manhattan,8:22,4:46,5,True
+906,Little-Brown,Mexican,Cheap,Manhattan,10:39,15:38,1,False
+907,Kling-Rice,Korean,Cheap,Staten Island,8:53,5:26,3,False
+908,Padberg-Kertzmann,Fast food,Medium,Long Island,8:21,13:12,5,True
+909,"Kuvalis, Hane and Goyette",Korean,Expensive,Harlem,8:08,14:28,4,False
+910,Bernhard and Sons,Mexican,Medium,Queens,7:50,16:11,4,True
+911,Hills-Hessel,Fast food,Expensive,Harlem,6:30,7:41,5,True
+912,"Fahey, Hayes and Schmeler",Indian,Cheap,Harlem,11:11,5:27,2,True
+913,"McCullough, Hamill and Keeling",Chinese,Expensive,Bronx,8:10,17:50,1,False
+914,Yundt-Fadel,Grill,Expensive,Manhattan,10:39,8:27,3,True
+915,Zboncak-Gutkowski,Indian,Cheap,Bronx,11:04,8:04,1,True
+916,Rempel and Sons,Chinese,Cheap,Harlem,6:57,8:08,3,False
+917,"Robel, Heidenreich and Tromp",Indian,Medium,Long Island,11:56,16:15,5,False
+918,"Weimann, Beatty and Mills",Vegan,Cheap,Harlem,6:54,14:48,3,False
+919,"Bergnaum, Christiansen and McGlynn",American,Cheap,Bronx,8:40,12:13,4,False
+920,"Klocko, Wuckert and Johns",Fast food,Cheap,Queens,10:18,14:32,2,True
+921,Krajcik and Sons,Grill,Expensive,Manhattan,6:41,10:01,3,False
+922,Hessel-Hammes,American,Expensive,Long Island,9:52,14:02,1,True
+923,Carroll Inc,Russian,Expensive,Manhattan,11:16,11:15,2,False
+924,Toy LLC,Fast food,Cheap,Harlem,10:40,6:05,5,False
+925,Harber Group,Italian,Cheap,Long Island,8:05,16:23,4,True
+926,Ruecker LLC,Greek,Medium,Brooklyn,7:57,10:07,1,False
+927,Harvey Inc,Chinese,Cheap,Long Island,9:24,10:45,1,True
+928,"Roberts, Kirlin and Huel",Indian,Medium,Manhattan,9:50,6:34,3,True
+929,Murazik-Vandervort,Russian,Cheap,Long Island,6:11,6:32,4,False
+930,"Sanford, Runolfsson and Jacobson",Vegan,Cheap,Harlem,11:12,6:59,4,True
+931,D'Amore LLC,Chinese,Cheap,Staten Island,8:25,16:59,2,True
+932,"Auer, Kautzer and Waters",Greek,Expensive,Manhattan,8:52,10:12,3,True
+933,"Hilpert, Hermann and Gaylord",Mexican,Expensive,Brooklyn,6:22,14:22,5,True
+934,"Boyle, McClure and Lakin",American,Cheap,Brooklyn,7:37,8:08,3,False
+935,Collier and Sons,Russian,Expensive,Brooklyn,7:11,12:48,3,True
+936,"Abernathy, Borer and Stroman",Vegan,Medium,Harlem,10:15,9:39,3,False
+937,"Ruecker, Russel and Aufderhar",Indian,Cheap,Staten Island,8:21,9:48,1,False
+938,Stroman-Christiansen,Greek,Expensive,Harlem,11:27,13:51,5,True
+939,"Berge, Collier and Harris",Indian,Cheap,Manhattan,10:19,16:06,4,True
+940,"Shields, Haag and Franecki",Mexican,Expensive,Bronx,11:21,6:08,2,True
+941,Hessel Group,American,Cheap,Harlem,10:40,11:10,4,True
+942,Kertzmann LLC,Mexican,Expensive,Manhattan,8:57,15:02,5,False
+943,Bogan-Trantow,Indian,Medium,Harlem,6:57,9:27,5,False
+944,Schuppe-Bechtelar,Fast food,Expensive,Manhattan,11:22,17:18,1,False
+945,"Blanda, Harvey and Hermiston",Korean,Expensive,Brooklyn,10:41,11:07,1,False
+946,Prosacco Group,Indian,Expensive,Harlem,11:44,15:52,1,False
+947,Stark Inc,Grill,Expensive,Brooklyn,10:47,8:39,4,True
+948,"Gibson, Upton and D'Amore",American,Expensive,Queens,7:17,12:22,2,False
+949,Hermiston-Collins,Mexican,Expensive,Bronx,10:19,8:27,2,False
+950,Medhurst-Friesen,Grill,Medium,Harlem,9:01,11:33,2,False
+951,Schulist Inc,Mexican,Cheap,Queens,8:24,8:40,2,True
+952,Medhurst and Sons,Korean,Expensive,Brooklyn,6:17,14:36,2,True
+953,Koepp Inc,Grill,Cheap,Manhattan,8:04,9:39,5,True
+954,Goyette-Orn,Grill,Medium,Manhattan,6:05,15:39,5,False
+955,Goyette-Turcotte,Russian,Cheap,Queens,11:38,12:50,3,False
+956,White Inc,Indian,Medium,Long Island,11:28,6:37,3,False
+957,"Huels, Schuster and Turcotte",Italian,Expensive,Staten Island,7:50,8:30,5,False
+958,"Anderson, Denesik and Cormier",Greek,Cheap,Queens,9:17,10:15,2,False
+959,"Dach, Nader and Schmeler",Italian,Medium,Queens,11:31,6:48,5,True
+960,Blanda Inc,Greek,Medium,Queens,11:22,5:21,2,False
+961,Schoen-Schuster,Greek,Expensive,Bronx,7:22,13:41,3,False
+962,Luettgen LLC,Indian,Expensive,Brooklyn,8:56,10:58,1,False
+963,"Jakubowski, Armstrong and Lakin",Greek,Expensive,Queens,8:50,16:03,2,False
+964,Boehm LLC,Russian,Expensive,Manhattan,9:34,5:58,3,False
+965,Pollich-Brown,Italian,Cheap,Manhattan,8:09,10:23,1,True
+966,"Jenkins, Kuvalis and Bergnaum",Grill,Cheap,Queens,11:50,11:47,1,False
+967,Champlin-Ankunding,Korean,Medium,Brooklyn,8:55,6:28,3,False
+968,Nader Inc,Fast food,Cheap,Queens,10:41,11:49,3,False
+969,"Hammes, Smitham and Rosenbaum",American,Expensive,Queens,10:54,15:23,3,False
+970,Schumm-Hyatt,American,Expensive,Queens,7:12,14:14,3,True
+971,O'Keefe and Sons,Mexican,Expensive,Staten Island,8:46,17:02,1,True
+972,Metz Inc,Russian,Medium,Queens,7:59,16:22,1,False
+973,Becker Group,Fast food,Medium,Manhattan,10:48,17:50,2,False
+974,"Pouros, Schaefer and Feeney",Korean,Cheap,Bronx,7:46,4:51,3,False
+975,Swift-Mante,French,Medium,Staten Island,6:04,4:56,3,True
+976,Koss Inc,Vegan,Expensive,Brooklyn,8:40,8:37,3,True
+977,Pagac and Sons,Italian,Medium,Queens,11:01,10:36,4,True
+978,West-Roob,Mexican,Expensive,Queens,7:20,13:34,3,False
+979,Bauch Inc,Korean,Medium,Long Island,10:53,9:37,4,False
+980,"Bosco, Gutkowski and Greenholt",Fast food,Medium,Harlem,9:36,16:30,3,True
+981,Hammes Group,Indian,Expensive,Queens,9:26,8:16,5,True
+982,"Yundt, Jacobson and Swift",Indian,Cheap,Manhattan,6:37,13:06,4,False
+983,Crooks-Lynch,Korean,Expensive,Long Island,11:14,16:58,4,False
+984,Prohaska-O'Reilly,Chinese,Expensive,Harlem,11:17,15:47,2,True
+985,"Smitham, Mann and Pagac",Italian,Cheap,Queens,7:55,9:06,2,False
+986,Smith Group,Indian,Cheap,Long Island,10:04,16:25,1,True
+987,"Koch, Von and D'Amore",Italian,Cheap,Queens,10:12,15:23,2,True
+988,Borer-Bradtke,American,Expensive,Brooklyn,11:38,6:55,2,True
+989,"Schulist, Schulist and Fritsch",Greek,Medium,Manhattan,6:49,4:51,1,True
+990,Mohr-Reynolds,Russian,Medium,Brooklyn,10:54,10:02,5,True
+991,Bednar Inc,Indian,Cheap,Bronx,7:30,15:08,4,True
+992,Leffler LLC,Indian,Medium,Long Island,11:45,8:28,2,True
+993,Swift Inc,Indian,Cheap,Manhattan,10:11,9:49,1,False
+994,"Rosenbaum, Barton and Witting",Italian,Cheap,Long Island,6:25,8:21,4,False
+995,Hyatt Group,Korean,Expensive,Bronx,8:45,6:39,4,False
+996,"Bahringer, Cremin and Olson",French,Cheap,Queens,8:49,7:26,1,False
+997,"Pfannerstill, Mertz and Gottlieb",Korean,Medium,Staten Island,11:10,12:43,4,True
+998,Zemlak-Batz,Fast food,Expensive,Long Island,10:58,5:07,3,False
+999,Wiza and Sons,Greek,Medium,Harlem,6:23,11:21,1,True
+1000,Purdy LLC,Vegan,Medium,Bronx,11:36,8:41,2,True

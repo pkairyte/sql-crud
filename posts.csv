@@ -1,0 +1,1001 @@
+from_id,to_id,Messages,Sent_Time,Visibility_Messages,Stories,Posted_Time,Visibility_Stories
+1,355,Love ya,2022-03-02 02:20:33,1,Why is this happening to me?,2022-03-02 04:39:13,0
+2,356,How are you?,2022-03-02 18:57:46,0,Who wants to join?,2022-03-01 03:38:36,0
+3,348,Can you come down,2022-03-01 07:49:50,1,I am so tired,2022-03-02 04:25:16,1
+4,847,Love ya,2022-03-02 20:29:21,0,Look at this!,2022-03-01 22:39:17,0
+5,95,Love ya,2022-03-02 15:40:31,0,I wish this day ends sooner,2022-03-02 14:37:32,0
+6,768,Great,2022-03-02 04:32:28,0,Why is this happening to me?,2022-03-02 09:33:04,1
+7,90,Good,2022-03-02 11:49:46,0,Look at this!,2022-03-02 09:33:51,1
+8,689,Amazing,2022-03-01 14:07:04,1,Hello,2022-03-02 00:50:32,0
+9,20,Perfect,2022-03-02 00:26:36,0,I am so tired,2022-03-02 12:38:11,1
+10,463,Perfect,2022-03-01 09:02:09,0,Why is SQLite so hard to install on Windows?!,2022-03-01 07:08:41,1
+11,275,Amazing,2022-03-02 15:06:15,1,Random post,2022-03-02 16:05:10,0
+12,428,Can you come down,2022-03-02 09:33:14,0,Hello,2022-03-02 02:47:31,1
+13,68,Perfect,2022-03-01 15:44:53,0,I am so tired,2022-03-02 17:05:01,1
+14,535,Can you come down,2022-03-02 13:45:29,0,I am soo bored,2022-03-02 09:19:33,0
+15,750,Great,2022-03-02 18:26:08,0,Why is SQLite so hard to install on Windows?!,2022-03-02 19:58:24,0
+16,401,I am so angryyy,2022-03-01 13:17:53,0,I love databases,2022-03-01 00:18:43,1
+17,792,I don'w want to talk about it,2022-03-01 14:21:37,1,i am lost,2022-03-02 17:41:09,0
+18,805,Good,2022-03-02 04:52:09,1,Hello,2022-03-02 05:08:16,0
+19,490,Can you come down,2022-03-02 20:51:47,1,I don't know what to do now,2022-03-01 02:34:14,0
+20,87,I don'w want to talk about it,2022-03-02 02:19:50,1,Hello,2022-03-01 01:03:27,0
+21,79,Amazing,2022-03-01 03:10:36,0,I am so tired,2022-03-01 12:46:40,0
+22,271,Looking good,2022-03-02 22:26:54,1,Such an amazing day,2022-03-01 12:47:46,0
+23,772,I am sooo down,2022-03-01 14:51:22,1,Random post,2022-03-02 14:25:34,0
+24,937,Can you come down,2022-03-02 02:39:28,1,I am soo bored,2022-03-02 08:55:37,1
+25,114,How you doin'?,2022-03-02 19:57:48,1,Who wants to join?,2022-03-02 10:15:37,0
+26,612,Let's keep connected,2022-03-01 01:54:11,0,Look at this!,2022-03-01 10:02:41,0
+27,615,Can you come down,2022-03-01 22:39:33,0,Please help,2022-03-02 15:02:16,1
+28,486,Perfect,2022-03-01 08:16:14,1,I wish this day ends sooner,2022-03-01 05:00:23,1
+29,519,Can you come down,2022-03-01 07:49:51,0,Such an amazing day,2022-03-01 23:19:14,1
+30,51,Can you come down,2022-03-02 07:54:00,1,i am lost,2022-03-02 18:33:45,1
+31,74,Good,2022-03-01 18:06:11,0,Random post,2022-03-01 20:16:55,1
+32,415,Looking good,2022-03-02 12:50:45,1,So happy!,2022-03-02 13:20:44,0
+33,412,Good,2022-03-02 05:04:44,1,I am so tired,2022-03-01 05:53:38,0
+34,778,Where are my keys?,2022-03-02 10:35:02,1,I wish this day ends sooner,2022-03-01 20:55:51,1
+35,822,Looking good,2022-03-01 18:45:31,0,So happy!,2022-03-02 22:30:42,1
+36,65,Can you come down,2022-03-02 15:35:23,0,i am lost,2022-03-01 19:58:31,0
+37,493,Are you down to meet up?,2022-03-02 14:17:32,0,Please help,2022-03-01 00:22:24,1
+38,454,Looking good,2022-03-02 10:16:31,0,Please stop texting me everyone,2022-03-01 06:40:47,0
+39,904,I am so angryyy,2022-03-02 14:07:32,1,Why is SQLite so hard to install on Windows?!,2022-03-01 16:47:58,0
+40,149,Looking good,2022-03-02 17:52:01,1,Such an amazing day,2022-03-02 11:32:25,0
+41,937,Can you come down,2022-03-02 13:27:09,1,i am lost,2022-03-01 02:59:48,1
+42,458,I don'w want to talk about it,2022-03-01 03:05:47,1,i am lost,2022-03-01 08:24:49,0
+43,46,I am sooo down,2022-03-01 22:48:55,0,So happy!,2022-03-02 04:41:21,1
+44,423,Good,2022-03-02 11:38:30,0,Random post,2022-03-02 00:04:27,0
+45,869,Good,2022-03-02 20:30:35,0,I am soo bored,2022-03-01 16:39:26,1
+46,613,I am so angryyy,2022-03-01 16:22:14,0,Why is this happening to me?,2022-03-01 13:17:01,0
+47,562,How you doin'?,2022-03-02 13:45:08,1,Random post,2022-03-02 00:31:26,0
+48,80,Let's keep connected,2022-03-01 06:51:11,0,I am soo bored,2022-03-02 17:38:04,1
+49,150,Love ya,2022-03-01 02:25:45,1,I wish this day ends sooner,2022-03-02 13:56:18,1
+50,665,Amazing,2022-03-01 14:57:46,0,Hello,2022-03-02 11:17:14,0
+51,76,Can you come down,2022-03-02 01:21:35,0,i am lost,2022-03-02 19:22:32,1
+52,221,Amazing,2022-03-01 03:13:06,1,Why is SQLite so hard to install on Windows?!,2022-03-02 15:13:57,0
+53,675,Perfect,2022-03-01 21:00:12,0,I wish this day ends sooner,2022-03-02 00:46:24,0
+54,616,How are you?,2022-03-02 21:16:20,0,I love databases,2022-03-02 10:48:22,0
+55,503,Looking good,2022-03-01 00:36:38,1,Such an amazing day,2022-03-02 04:39:05,0
+56,280,Love ya,2022-03-01 19:04:46,0,Please text me someone,2022-03-01 07:40:25,0
+57,690,I don'w want to talk about it,2022-03-01 11:55:38,0,I don't know what to do now,2022-03-01 09:00:01,1
+58,238,How are you?,2022-03-01 07:52:48,0,Please help,2022-03-01 16:15:03,1
+59,990,I don'w want to talk about it,2022-03-01 21:53:30,0,So happy!,2022-03-02 08:41:25,1
+60,327,Perfect,2022-03-01 21:37:32,1,Random post,2022-03-01 14:40:38,1
+61,721,Where are my keys?,2022-03-01 05:31:35,0,I don't know what to do now,2022-03-02 01:58:54,0
+62,877,Looking good,2022-03-01 07:10:33,0,So happy!,2022-03-01 10:25:16,0
+63,183,Perfect,2022-03-01 17:12:56,0,I wish this day ends sooner,2022-03-01 19:50:57,1
+64,585,I am sooo down,2022-03-01 08:49:35,1,Who wants to join?,2022-03-02 03:17:11,1
+65,366,Let's keep connected,2022-03-02 11:45:57,0,I am so tired,2022-03-02 09:39:39,0
+66,602,Love ya,2022-03-02 19:18:43,0,Hello,2022-03-02 16:14:36,0
+67,865,Where are my keys?,2022-03-02 04:39:11,0,Why is SQLite so hard to install on Windows?!,2022-03-02 13:33:33,1
+68,350,Can you come down,2022-03-01 13:04:47,1,I love databases,2022-03-01 23:43:43,1
+69,477,Good,2022-03-02 07:59:19,0,Why is SQLite so hard to install on Windows?!,2022-03-02 03:33:49,0
+70,498,How are you?,2022-03-02 12:33:14,1,Please help,2022-03-02 12:45:30,0
+71,851,How are you?,2022-03-01 03:28:25,1,Please help,2022-03-02 11:24:44,1
+72,821,Let's keep connected,2022-03-02 22:53:19,0,Why is SQLite so hard to install on Windows?!,2022-03-01 06:16:59,1
+73,203,Perfect,2022-03-02 06:30:51,0,I wish this day ends sooner,2022-03-02 01:00:57,0
+74,50,I am sooo down,2022-03-02 17:04:14,0,i am lost,2022-03-01 18:39:12,1
+75,832,I am so angryyy,2022-03-01 07:21:46,1,Why is SQLite so hard to install on Windows?!,2022-03-01 13:55:48,1
+76,178,Love ya,2022-03-01 17:00:58,1,Random post,2022-03-02 03:39:08,1
+77,404,How you doin'?,2022-03-02 18:53:03,0,Why is SQLite so hard to install on Windows?!,2022-03-02 04:05:05,0
+78,614,I don'w want to talk about it,2022-03-01 15:14:53,1,I am so tired,2022-03-02 13:36:40,0
+79,863,How are you?,2022-03-02 04:39:00,0,Random post,2022-03-02 17:04:47,0
+80,738,Perfect,2022-03-02 06:23:46,0,Please text me someone,2022-03-01 05:14:36,1
+81,488,Are you down to meet up?,2022-03-02 10:45:32,1,Random post,2022-03-01 04:15:28,0
+82,709,Let's keep connected,2022-03-01 14:06:11,1,I am soo bored,2022-03-02 02:42:40,1
+83,78,Where are my keys?,2022-03-02 05:29:54,1,Look at this!,2022-03-02 06:42:29,0
+84,12,I am sooo down,2022-03-02 04:03:29,1,I am so tired,2022-03-01 18:19:58,1
+85,557,How you doin'?,2022-03-01 23:45:05,0,Please text me someone,2022-03-02 00:37:20,0
+86,450,I am sooo down,2022-03-01 01:59:48,0,I don't know what to do now,2022-03-01 12:44:33,0
+87,671,I am so angryyy,2022-03-01 19:11:46,0,I don't know what to do now,2022-03-01 12:21:59,1
+88,634,I am so angryyy,2022-03-01 15:20:59,0,Hello,2022-03-01 16:18:00,1
+89,225,How are you?,2022-03-02 07:13:34,1,Random post,2022-03-02 12:37:07,1
+90,796,Good,2022-03-02 23:34:39,1,I wish this day ends sooner,2022-03-02 00:35:10,1
+91,504,How are you?,2022-03-01 15:21:57,1,Why is this happening to me?,2022-03-02 05:49:59,1
+92,857,I don'w want to talk about it,2022-03-01 18:28:30,1,Please stop texting me everyone,2022-03-02 23:25:33,1
+93,971,Are you down to meet up?,2022-03-01 09:48:24,1,Please help,2022-03-02 13:41:46,0
+94,569,Are you down to meet up?,2022-03-02 14:12:26,1,Such an amazing day,2022-03-01 19:34:08,0
+95,458,Are you down to meet up?,2022-03-02 20:42:01,0,Please stop texting me everyone,2022-03-02 09:07:41,0
+96,412,Let's keep connected,2022-03-01 18:25:29,1,I love databases,2022-03-01 09:46:19,0
+97,737,Are you down to meet up?,2022-03-02 08:05:25,0,Hello,2022-03-01 01:17:28,1
+98,46,Are you down to meet up?,2022-03-02 08:42:32,1,So happy!,2022-03-02 21:16:58,0
+99,557,Where are my keys?,2022-03-02 22:10:27,1,So happy!,2022-03-02 22:31:21,1
+100,53,How you doin'?,2022-03-01 09:01:01,1,i am lost,2022-03-02 16:23:52,1
+101,75,Looking good,2022-03-02 07:10:01,1,Please stop texting me everyone,2022-03-01 09:34:52,0
+102,860,Perfect,2022-03-02 16:46:23,0,So happy!,2022-03-01 18:54:53,1
+103,97,Looking good,2022-03-02 19:22:59,0,Why is SQLite so hard to install on Windows?!,2022-03-02 00:53:30,0
+104,564,I am sooo down,2022-03-01 19:49:11,0,So happy!,2022-03-01 05:14:50,0
+105,153,Let's keep connected,2022-03-01 10:41:41,0,Please text me someone,2022-03-02 20:48:15,1
+106,570,How you doin'?,2022-03-02 21:01:38,0,I wish this day ends sooner,2022-03-01 02:39:48,0
+107,422,Are you down to meet up?,2022-03-01 04:57:23,0,i am lost,2022-03-02 02:56:52,0
+108,690,I am sooo down,2022-03-01 14:17:56,0,i am lost,2022-03-01 19:28:33,0
+109,445,I am so angryyy,2022-03-02 07:30:38,1,I don't know what to do now,2022-03-02 18:33:56,1
+110,374,Great,2022-03-01 17:58:44,1,Why is this happening to me?,2022-03-02 06:56:30,0
+111,523,Great,2022-03-02 15:17:42,0,Such an amazing day,2022-03-02 08:25:30,1
+112,244,I don'w want to talk about it,2022-03-01 23:06:09,1,I am so tired,2022-03-01 12:47:03,1
+113,928,Perfect,2022-03-01 17:56:53,0,Why is SQLite so hard to install on Windows?!,2022-03-01 14:06:40,1
+114,257,I am sooo down,2022-03-01 04:53:58,1,I wish this day ends sooner,2022-03-02 13:55:31,0
+115,699,How you doin'?,2022-03-01 03:55:00,1,I don't know what to do now,2022-03-01 01:08:44,1
+116,173,Great,2022-03-01 14:19:49,0,Hello,2022-03-02 22:46:55,1
+117,620,Are you down to meet up?,2022-03-01 15:48:02,0,Who wants to join?,2022-03-02 14:50:10,0
+118,771,Love ya,2022-03-01 12:10:25,0,Please help,2022-03-01 23:16:39,0
+119,498,I am sooo down,2022-03-02 05:00:49,1,I don't know what to do now,2022-03-01 01:44:17,1
+120,317,Good,2022-03-02 18:01:38,1,I don't know what to do now,2022-03-02 15:39:52,0
+121,169,Great,2022-03-02 01:28:28,1,Please help,2022-03-01 00:43:35,0
+122,304,I don'w want to talk about it,2022-03-01 22:25:16,1,Who wants to join?,2022-03-01 13:19:35,1
+123,390,Let's keep connected,2022-03-02 21:15:03,1,Please text me someone,2022-03-01 05:22:15,0
+124,272,Let's keep connected,2022-03-02 06:48:48,1,Why is SQLite so hard to install on Windows?!,2022-03-01 20:01:55,1
+125,695,How you doin'?,2022-03-02 01:28:13,0,Who wants to join?,2022-03-01 02:43:01,0
+126,537,Where are my keys?,2022-03-01 05:19:08,1,Who wants to join?,2022-03-02 22:06:56,0
+127,785,Looking good,2022-03-01 07:09:49,0,So happy!,2022-03-01 17:23:29,0
+128,643,How you doin'?,2022-03-02 08:39:44,1,Who wants to join?,2022-03-01 13:29:22,1
+129,965,I am so angryyy,2022-03-01 12:41:30,1,Why is SQLite so hard to install on Windows?!,2022-03-02 20:43:57,0
+130,115,Amazing,2022-03-01 08:27:46,0,I love databases,2022-03-02 03:31:38,0
+131,463,Where are my keys?,2022-03-01 16:42:07,1,I love databases,2022-03-02 20:43:09,0
+132,798,I don'w want to talk about it,2022-03-01 15:06:29,0,Look at this!,2022-03-02 23:36:21,1
+133,80,I don'w want to talk about it,2022-03-02 02:18:50,1,So happy!,2022-03-01 04:29:21,0
+134,324,Let's keep connected,2022-03-01 12:44:01,0,Please stop texting me everyone,2022-03-01 08:51:59,1
+135,870,Looking good,2022-03-02 20:26:34,0,Random post,2022-03-02 13:00:38,1
+136,996,I don'w want to talk about it,2022-03-01 15:08:00,1,I love databases,2022-03-01 20:24:41,1
+137,245,Amazing,2022-03-02 12:57:50,0,Who wants to join?,2022-03-02 13:30:48,0
+138,152,Looking good,2022-03-01 18:34:55,1,I love databases,2022-03-02 23:48:13,1
+139,787,I am sooo down,2022-03-01 22:28:11,1,I love databases,2022-03-02 06:27:49,1
+140,168,Let's keep connected,2022-03-02 00:38:48,0,Please text me someone,2022-03-02 02:57:39,0
+141,56,How are you?,2022-03-02 04:59:01,1,So happy!,2022-03-02 18:20:40,1
+142,447,I am so angryyy,2022-03-01 13:31:17,0,Please stop texting me everyone,2022-03-01 15:07:33,1
+143,111,How are you?,2022-03-01 04:26:11,1,i am lost,2022-03-02 20:20:28,0
+144,141,Where are my keys?,2022-03-02 23:19:39,1,So happy!,2022-03-02 09:16:40,1
+145,82,Are you down to meet up?,2022-03-02 11:28:46,1,Why is this happening to me?,2022-03-02 22:20:20,0
+146,963,Are you down to meet up?,2022-03-01 04:01:45,1,Such an amazing day,2022-03-01 19:23:16,0
+147,615,Looking good,2022-03-02 10:25:06,0,Look at this!,2022-03-01 03:07:36,1
+148,44,Good,2022-03-01 16:17:25,0,Hello,2022-03-01 04:24:45,1
+149,611,Perfect,2022-03-01 16:06:09,0,Please help,2022-03-01 22:42:28,1
+150,923,Good,2022-03-02 21:08:29,0,I am so tired,2022-03-01 11:56:53,1
+151,874,Great,2022-03-01 19:19:08,1,Why is SQLite so hard to install on Windows?!,2022-03-02 12:55:19,1
+152,311,Love ya,2022-03-02 09:06:14,0,Look at this!,2022-03-02 19:36:16,1
+153,837,I don'w want to talk about it,2022-03-02 04:23:35,1,I am soo bored,2022-03-02 15:16:07,1
+154,659,I don'w want to talk about it,2022-03-01 22:36:54,1,Please stop texting me everyone,2022-03-01 11:13:29,0
+155,227,Great,2022-03-02 16:09:19,1,I am soo bored,2022-03-01 09:21:23,0
+156,781,Good,2022-03-02 00:43:47,0,I love databases,2022-03-01 11:12:59,0
+157,731,Good,2022-03-02 11:37:21,1,Why is this happening to me?,2022-03-01 14:39:48,0
+158,994,Let's keep connected,2022-03-01 13:44:27,1,Please help,2022-03-02 07:56:32,0
+159,442,Where are my keys?,2022-03-01 12:21:14,0,I am soo bored,2022-03-01 16:30:56,0
+160,289,Let's keep connected,2022-03-01 21:40:10,1,So happy!,2022-03-02 04:10:02,0
+161,498,Perfect,2022-03-02 08:24:47,1,Why is this happening to me?,2022-03-01 13:28:28,1
+162,28,Let's keep connected,2022-03-02 09:06:55,1,I am so tired,2022-03-02 02:01:25,1
+163,985,Where are my keys?,2022-03-01 10:36:29,1,Please text me someone,2022-03-01 12:55:02,1
+164,63,I don'w want to talk about it,2022-03-01 23:54:38,1,Please stop texting me everyone,2022-03-01 03:58:41,1
+165,229,How you doin'?,2022-03-02 11:28:59,0,I love databases,2022-03-01 00:49:06,1
+166,604,Good,2022-03-02 15:34:51,1,Why is SQLite so hard to install on Windows?!,2022-03-01 14:42:34,0
+167,134,Let's keep connected,2022-03-01 17:42:07,1,I am soo bored,2022-03-02 09:58:01,1
+168,133,Great,2022-03-02 05:50:33,0,Please help,2022-03-01 02:28:46,0
+169,105,Love ya,2022-03-02 18:38:47,0,Hello,2022-03-01 05:40:26,1
+170,177,Love ya,2022-03-02 18:42:00,0,Please help,2022-03-02 16:56:01,0
+171,43,Love ya,2022-03-02 11:45:26,0,Please text me someone,2022-03-02 04:07:00,1
+172,845,Good,2022-03-02 14:59:48,1,Hello,2022-03-01 19:39:17,1
+173,317,Love ya,2022-03-01 04:58:30,1,I am so tired,2022-03-01 22:01:31,1
+174,397,I am sooo down,2022-03-02 13:46:15,1,I don't know what to do now,2022-03-01 17:12:55,1
+175,841,Perfect,2022-03-01 22:12:32,0,So happy!,2022-03-02 13:39:43,0
+176,790,Perfect,2022-03-02 04:20:01,0,Why is this happening to me?,2022-03-02 06:22:38,0
+177,622,Can you come down,2022-03-02 16:48:44,0,Random post,2022-03-01 01:53:05,0
+178,186,I am sooo down,2022-03-02 02:26:15,0,I love databases,2022-03-02 11:20:50,1
+179,224,Looking good,2022-03-02 09:01:32,0,So happy!,2022-03-01 22:08:54,1
+180,44,Looking good,2022-03-02 06:34:28,0,I am so tired,2022-03-01 04:26:15,1
+181,93,I am sooo down,2022-03-02 12:16:27,0,I love databases,2022-03-01 23:45:07,0
+182,702,Great,2022-03-02 23:18:39,0,I don't know what to do now,2022-03-02 18:12:38,1
+183,671,Great,2022-03-02 17:22:06,1,Why is this happening to me?,2022-03-02 10:37:43,1
+184,672,Perfect,2022-03-01 11:33:48,0,Look at this!,2022-03-02 09:33:30,0
+185,267,Let's keep connected,2022-03-01 21:56:37,1,Look at this!,2022-03-01 19:14:17,0
+186,842,Good,2022-03-01 04:34:35,0,Why is SQLite so hard to install on Windows?!,2022-03-02 08:24:48,1
+187,679,Amazing,2022-03-02 14:41:46,0,Such an amazing day,2022-03-01 16:07:15,0
+188,213,Can you come down,2022-03-02 06:50:42,1,Why is this happening to me?,2022-03-02 20:36:09,0
+189,405,Looking good,2022-03-01 11:50:31,1,Random post,2022-03-02 17:38:06,1
+190,922,Good,2022-03-01 14:57:47,0,I wish this day ends sooner,2022-03-02 00:51:04,1
+191,451,Good,2022-03-01 22:36:56,1,Who wants to join?,2022-03-02 16:41:01,0
+192,630,Can you come down,2022-03-02 05:14:55,0,Hello,2022-03-02 10:43:52,0
+193,102,Where are my keys?,2022-03-01 21:49:59,1,i am lost,2022-03-01 07:55:10,0
+194,68,Let's keep connected,2022-03-02 15:46:22,0,I love databases,2022-03-02 15:16:51,1
+195,348,I am sooo down,2022-03-02 04:22:26,1,I wish this day ends sooner,2022-03-01 02:11:37,0
+196,1,Can you come down,2022-03-01 23:50:17,1,Please text me someone,2022-03-02 13:12:25,1
+197,526,Are you down to meet up?,2022-03-01 03:19:02,0,Why is this happening to me?,2022-03-02 00:01:58,1
+198,377,Good,2022-03-02 14:04:32,1,Please help,2022-03-01 13:49:57,1
+199,71,Amazing,2022-03-01 14:07:24,0,Who wants to join?,2022-03-02 18:04:44,0
+200,500,Looking good,2022-03-01 07:30:46,1,Hello,2022-03-01 14:27:29,0
+201,605,Good,2022-03-01 09:16:53,0,Who wants to join?,2022-03-02 14:06:55,1
+202,949,Let's keep connected,2022-03-02 15:40:42,0,Please help,2022-03-01 12:12:15,0
+203,291,Perfect,2022-03-02 01:10:32,1,So happy!,2022-03-02 23:38:52,0
+204,964,Are you down to meet up?,2022-03-01 23:05:06,0,Random post,2022-03-02 19:43:03,0
+205,192,Looking good,2022-03-02 22:02:32,0,Such an amazing day,2022-03-02 05:00:57,0
+206,671,I don'w want to talk about it,2022-03-01 07:38:36,1,I love databases,2022-03-01 00:29:13,0
+207,726,I am so angryyy,2022-03-02 03:10:03,1,I love databases,2022-03-02 08:48:17,0
+208,608,Can you come down,2022-03-01 23:41:40,0,Why is this happening to me?,2022-03-01 23:17:34,0
+209,408,How you doin'?,2022-03-01 18:37:04,1,I am so tired,2022-03-01 07:48:55,1
+210,724,Amazing,2022-03-02 08:17:52,1,Why is this happening to me?,2022-03-01 11:00:01,1
+211,700,Are you down to meet up?,2022-03-02 23:22:30,1,Such an amazing day,2022-03-02 21:07:08,1
+212,875,I am sooo down,2022-03-01 20:56:13,0,I wish this day ends sooner,2022-03-02 00:46:34,0
+213,930,How you doin'?,2022-03-01 12:32:46,1,Please stop texting me everyone,2022-03-01 13:44:03,1
+214,169,Let's keep connected,2022-03-01 02:10:43,0,Such an amazing day,2022-03-01 22:24:58,1
+215,975,Can you come down,2022-03-01 20:26:21,1,I am so tired,2022-03-02 21:39:01,1
+216,939,Looking good,2022-03-02 03:01:57,1,I don't know what to do now,2022-03-02 00:14:40,1
+217,717,I don'w want to talk about it,2022-03-01 07:39:24,0,Why is this happening to me?,2022-03-01 15:39:50,1
+218,95,Great,2022-03-01 11:26:16,0,I am soo bored,2022-03-01 11:46:50,0
+219,388,Where are my keys?,2022-03-02 13:17:09,1,I am so tired,2022-03-02 11:30:09,0
+220,841,Amazing,2022-03-01 13:34:54,0,Look at this!,2022-03-01 11:03:33,0
+221,53,Great,2022-03-01 04:49:17,0,i am lost,2022-03-02 00:42:47,0
+222,18,Good,2022-03-02 04:52:19,1,Please stop texting me everyone,2022-03-02 23:21:03,1
+223,452,How are you?,2022-03-02 21:32:05,1,I am soo bored,2022-03-02 20:38:47,1
+224,355,Great,2022-03-02 11:17:47,0,Why is this happening to me?,2022-03-02 15:39:26,1
+225,476,Let's keep connected,2022-03-02 15:15:44,1,Why is this happening to me?,2022-03-01 20:26:17,0
+226,528,I am so angryyy,2022-03-02 20:52:43,1,Please stop texting me everyone,2022-03-01 16:03:03,0
+227,93,How you doin'?,2022-03-02 17:26:27,1,Who wants to join?,2022-03-01 03:16:55,0
+228,517,Love ya,2022-03-01 11:02:58,0,Random post,2022-03-02 07:34:03,1
+229,385,I am so angryyy,2022-03-02 22:57:11,0,Hello,2022-03-01 06:53:56,0
+230,142,Can you come down,2022-03-01 07:08:41,0,Who wants to join?,2022-03-02 11:14:43,1
+231,993,Where are my keys?,2022-03-01 08:39:45,0,Hello,2022-03-02 11:23:36,0
+232,651,I am so angryyy,2022-03-01 03:04:58,1,Hello,2022-03-01 16:08:54,1
+233,880,Love ya,2022-03-01 06:48:27,1,Hello,2022-03-01 14:05:30,1
+234,196,Are you down to meet up?,2022-03-01 12:01:06,0,Please stop texting me everyone,2022-03-01 04:13:53,1
+235,675,Can you come down,2022-03-02 05:12:37,1,Why is SQLite so hard to install on Windows?!,2022-03-02 17:39:58,1
+236,898,Love ya,2022-03-02 18:35:28,1,Random post,2022-03-01 22:37:04,0
+237,391,Are you down to meet up?,2022-03-01 20:12:08,1,i am lost,2022-03-01 01:53:12,1
+238,586,Can you come down,2022-03-01 21:54:20,1,Such an amazing day,2022-03-01 18:54:44,0
+239,997,Let's keep connected,2022-03-02 02:43:36,1,i am lost,2022-03-01 20:59:35,1
+240,330,How you doin'?,2022-03-02 01:55:51,1,Who wants to join?,2022-03-01 03:04:09,0
+241,505,Amazing,2022-03-01 15:08:49,0,Why is this happening to me?,2022-03-01 19:21:39,0
+242,82,Can you come down,2022-03-02 04:00:41,0,Why is this happening to me?,2022-03-01 10:03:10,1
+243,121,Are you down to meet up?,2022-03-01 22:12:15,0,I don't know what to do now,2022-03-02 09:02:25,1
+244,250,Where are my keys?,2022-03-02 18:16:08,1,Please help,2022-03-02 10:55:07,0
+245,456,Great,2022-03-01 20:13:12,1,I don't know what to do now,2022-03-01 10:27:28,1
+246,206,How are you?,2022-03-02 10:44:46,0,Why is SQLite so hard to install on Windows?!,2022-03-02 10:22:43,1
+247,618,Good,2022-03-01 03:33:11,0,So happy!,2022-03-01 18:40:57,0
+248,938,How you doin'?,2022-03-02 06:57:27,0,Please text me someone,2022-03-01 05:28:57,0
+249,618,Can you come down,2022-03-02 04:48:47,0,I don't know what to do now,2022-03-02 02:29:17,0
+250,780,How are you?,2022-03-02 05:54:41,0,Please text me someone,2022-03-02 18:36:46,1
+251,788,How are you?,2022-03-02 22:12:58,0,Please help,2022-03-01 04:03:48,1
+252,325,Are you down to meet up?,2022-03-01 14:28:10,1,i am lost,2022-03-01 20:15:16,0
+253,421,Let's keep connected,2022-03-02 21:09:57,1,Please text me someone,2022-03-01 10:22:04,0
+254,529,Perfect,2022-03-01 00:44:20,1,Why is SQLite so hard to install on Windows?!,2022-03-01 23:44:28,1
+255,837,I am so angryyy,2022-03-01 22:06:04,0,Such an amazing day,2022-03-02 13:07:27,1
+256,230,How you doin'?,2022-03-02 17:14:34,1,I don't know what to do now,2022-03-01 10:43:22,0
+257,306,Looking good,2022-03-01 22:26:16,0,Look at this!,2022-03-01 12:42:21,0
+258,28,Let's keep connected,2022-03-02 15:20:44,0,Why is this happening to me?,2022-03-02 02:00:54,0
+259,506,I am so angryyy,2022-03-02 03:26:53,1,Why is SQLite so hard to install on Windows?!,2022-03-01 15:54:41,0
+260,464,I don'w want to talk about it,2022-03-01 13:24:03,1,I don't know what to do now,2022-03-01 08:53:09,1
+261,26,How are you?,2022-03-01 03:41:41,1,Why is SQLite so hard to install on Windows?!,2022-03-01 14:18:42,0
+262,177,Perfect,2022-03-02 08:07:38,1,I am so tired,2022-03-02 08:58:21,1
+263,873,Can you come down,2022-03-01 13:41:20,0,Look at this!,2022-03-01 00:36:46,1
+264,184,I am so angryyy,2022-03-02 01:11:55,1,I don't know what to do now,2022-03-01 15:24:57,0
+265,781,How are you?,2022-03-01 08:51:09,1,Why is SQLite so hard to install on Windows?!,2022-03-02 23:17:13,0
+266,483,Let's keep connected,2022-03-01 04:53:36,0,Random post,2022-03-01 20:33:01,1
+267,368,Looking good,2022-03-01 20:06:49,1,I love databases,2022-03-01 10:30:57,0
+268,995,Can you come down,2022-03-01 11:55:15,1,Please stop texting me everyone,2022-03-02 01:57:19,1
+269,361,Where are my keys?,2022-03-02 20:46:53,0,Why is SQLite so hard to install on Windows?!,2022-03-01 05:48:56,0
+270,690,I am sooo down,2022-03-02 00:01:17,0,Such an amazing day,2022-03-01 19:15:15,1
+271,684,Looking good,2022-03-01 02:15:58,1,Please text me someone,2022-03-01 12:28:48,0
+272,924,Perfect,2022-03-01 20:11:38,1,Why is SQLite so hard to install on Windows?!,2022-03-01 03:58:13,0
+273,31,I am sooo down,2022-03-01 20:11:25,0,i am lost,2022-03-02 22:32:53,1
+274,71,Let's keep connected,2022-03-01 17:21:24,1,I love databases,2022-03-01 18:37:57,1
+275,852,Can you come down,2022-03-02 11:07:21,0,Random post,2022-03-01 23:04:35,1
+276,462,Good,2022-03-02 20:55:47,1,Such an amazing day,2022-03-02 13:59:39,1
+277,946,Amazing,2022-03-01 05:49:47,1,I am soo bored,2022-03-01 05:47:38,0
+278,950,Let's keep connected,2022-03-01 10:03:44,0,I wish this day ends sooner,2022-03-01 17:08:39,1
+279,467,How are you?,2022-03-01 20:33:40,1,i am lost,2022-03-02 01:04:55,1
+280,4,How are you?,2022-03-02 06:03:45,0,I love databases,2022-03-01 10:47:48,1
+281,208,Good,2022-03-01 00:09:45,0,Who wants to join?,2022-03-01 04:51:35,1
+282,936,Can you come down,2022-03-02 07:16:59,0,Please help,2022-03-01 09:54:35,0
+283,34,Looking good,2022-03-02 11:04:13,0,I don't know what to do now,2022-03-02 08:20:05,0
+284,759,How you doin'?,2022-03-02 09:26:56,1,Please help,2022-03-01 16:48:58,0
+285,403,Can you come down,2022-03-02 07:35:38,1,Please help,2022-03-02 23:52:14,1
+286,639,Good,2022-03-02 00:56:35,1,Who wants to join?,2022-03-02 22:01:24,0
+287,460,Perfect,2022-03-02 00:58:33,1,Random post,2022-03-01 05:34:52,0
+288,860,Great,2022-03-01 02:57:15,0,I wish this day ends sooner,2022-03-01 13:02:03,1
+289,335,Great,2022-03-02 22:23:28,1,I love databases,2022-03-01 07:32:12,0
+290,199,How you doin'?,2022-03-01 00:53:42,1,Why is this happening to me?,2022-03-02 05:57:00,0
+291,32,How you doin'?,2022-03-01 16:14:35,0,Please stop texting me everyone,2022-03-01 06:47:53,1
+292,26,Perfect,2022-03-02 18:17:50,1,Random post,2022-03-02 06:00:58,0
+293,478,Love ya,2022-03-01 17:07:48,1,Look at this!,2022-03-01 20:10:36,0
+294,179,How you doin'?,2022-03-02 19:11:57,0,Why is this happening to me?,2022-03-01 18:37:42,0
+295,862,Are you down to meet up?,2022-03-02 19:06:17,0,Who wants to join?,2022-03-02 05:38:37,0
+296,640,Where are my keys?,2022-03-02 09:27:32,1,Who wants to join?,2022-03-01 18:41:54,0
+297,16,Looking good,2022-03-02 21:11:13,1,i am lost,2022-03-01 09:35:21,1
+298,712,I don'w want to talk about it,2022-03-01 02:32:39,1,i am lost,2022-03-02 05:05:37,0
+299,989,Where are my keys?,2022-03-01 16:55:17,0,Please help,2022-03-01 20:24:53,1
+300,797,Perfect,2022-03-02 21:56:50,0,Please text me someone,2022-03-01 15:59:28,1
+301,113,I am sooo down,2022-03-01 11:14:35,1,Please stop texting me everyone,2022-03-02 22:55:33,0
+302,188,Perfect,2022-03-02 07:02:51,0,I am so tired,2022-03-02 00:13:03,1
+303,814,Love ya,2022-03-01 10:44:13,1,Random post,2022-03-02 19:26:33,0
+304,46,Love ya,2022-03-01 17:42:11,0,Random post,2022-03-02 15:56:18,1
+305,470,How are you?,2022-03-02 15:59:01,1,I am soo bored,2022-03-01 11:21:21,0
+306,707,Are you down to meet up?,2022-03-01 10:48:18,1,Please stop texting me everyone,2022-03-01 13:14:08,1
+307,528,Perfect,2022-03-02 02:13:02,0,I don't know what to do now,2022-03-02 13:58:45,0
+308,120,Are you down to meet up?,2022-03-01 02:24:56,1,Please stop texting me everyone,2022-03-02 16:40:17,0
+309,51,Are you down to meet up?,2022-03-01 05:04:28,1,I don't know what to do now,2022-03-02 02:18:55,1
+310,960,I am so angryyy,2022-03-02 12:31:36,1,Look at this!,2022-03-01 06:32:36,0
+311,157,Are you down to meet up?,2022-03-01 13:35:26,1,Please stop texting me everyone,2022-03-01 12:02:44,1
+312,941,Perfect,2022-03-02 14:18:15,1,I wish this day ends sooner,2022-03-02 09:35:33,1
+313,742,Looking good,2022-03-02 15:23:10,1,i am lost,2022-03-01 10:23:24,1
+314,516,I am so angryyy,2022-03-02 07:23:59,1,I am soo bored,2022-03-02 22:31:07,0
+315,230,I don'w want to talk about it,2022-03-01 05:48:16,0,Please text me someone,2022-03-02 01:43:38,1
+316,736,I am sooo down,2022-03-02 01:49:05,1,Please text me someone,2022-03-02 09:08:22,1
+317,144,Good,2022-03-01 23:09:22,0,Such an amazing day,2022-03-02 17:44:20,0
+318,885,Good,2022-03-01 18:10:48,1,I love databases,2022-03-02 08:56:02,0
+319,68,Amazing,2022-03-01 05:09:19,1,Such an amazing day,2022-03-02 05:43:34,0
+320,161,I am so angryyy,2022-03-01 13:10:33,1,Random post,2022-03-01 00:54:29,1
+321,110,Where are my keys?,2022-03-01 19:07:54,1,Why is this happening to me?,2022-03-02 20:11:49,1
+322,620,I don'w want to talk about it,2022-03-02 19:09:03,0,I am so tired,2022-03-02 09:41:24,1
+323,64,I am sooo down,2022-03-02 11:37:39,0,Hello,2022-03-01 21:05:10,0
+324,359,I am so angryyy,2022-03-01 14:55:39,1,i am lost,2022-03-02 17:51:19,1
+325,119,Great,2022-03-02 10:57:31,1,Such an amazing day,2022-03-02 22:19:05,1
+326,590,Amazing,2022-03-02 16:29:52,0,Please stop texting me everyone,2022-03-02 16:39:40,1
+327,50,Are you down to meet up?,2022-03-02 05:50:38,0,Random post,2022-03-02 12:59:32,0
+328,210,I am so angryyy,2022-03-02 14:28:51,1,Please help,2022-03-01 21:56:43,1
+329,833,I don'w want to talk about it,2022-03-01 12:38:31,1,So happy!,2022-03-01 10:07:54,0
+330,613,I don'w want to talk about it,2022-03-01 21:23:26,0,Please stop texting me everyone,2022-03-02 21:20:14,0
+331,580,Love ya,2022-03-01 22:18:59,1,I wish this day ends sooner,2022-03-01 20:39:17,0
+332,827,Good,2022-03-02 17:49:46,1,So happy!,2022-03-01 18:15:57,0
+333,944,I don'w want to talk about it,2022-03-01 10:12:11,1,I love databases,2022-03-01 16:41:59,0
+334,844,How you doin'?,2022-03-02 02:12:09,1,Such an amazing day,2022-03-01 02:04:10,0
+335,390,Looking good,2022-03-02 20:37:42,1,I don't know what to do now,2022-03-02 13:18:42,1
+336,829,Amazing,2022-03-02 15:59:58,1,Please stop texting me everyone,2022-03-02 19:07:15,1
+337,860,Perfect,2022-03-02 19:54:08,0,Please stop texting me everyone,2022-03-01 05:02:00,1
+338,448,Perfect,2022-03-01 09:07:23,0,I love databases,2022-03-01 02:47:10,1
+339,550,Are you down to meet up?,2022-03-01 15:32:56,0,Who wants to join?,2022-03-02 22:36:42,0
+340,236,I am so angryyy,2022-03-01 00:01:21,1,Why is this happening to me?,2022-03-02 13:57:50,1
+341,871,Perfect,2022-03-02 07:10:01,0,I don't know what to do now,2022-03-01 09:55:55,0
+342,444,Looking good,2022-03-01 12:51:47,1,I love databases,2022-03-02 15:28:16,1
+343,14,Great,2022-03-02 07:59:58,1,So happy!,2022-03-02 11:38:39,1
+344,228,Good,2022-03-01 03:06:45,0,I am soo bored,2022-03-02 22:16:46,0
+345,499,Love ya,2022-03-01 03:54:06,0,I am soo bored,2022-03-01 20:55:28,0
+346,194,Love ya,2022-03-01 12:10:39,0,Why is this happening to me?,2022-03-02 03:52:51,1
+347,552,Can you come down,2022-03-01 19:40:48,1,Random post,2022-03-02 09:52:24,1
+348,469,Good,2022-03-02 20:20:38,1,Look at this!,2022-03-02 23:16:29,0
+349,655,Let's keep connected,2022-03-01 23:54:40,0,Please stop texting me everyone,2022-03-02 08:30:24,0
+350,843,Let's keep connected,2022-03-01 13:31:23,1,I love databases,2022-03-01 10:27:27,0
+351,777,Are you down to meet up?,2022-03-02 04:05:09,0,Why is SQLite so hard to install on Windows?!,2022-03-02 19:26:47,1
+352,629,Perfect,2022-03-02 04:44:13,1,So happy!,2022-03-02 14:31:12,1
+353,856,Looking good,2022-03-01 06:11:39,0,I love databases,2022-03-01 08:14:30,1
+354,90,Good,2022-03-01 19:57:40,1,Hello,2022-03-02 22:12:26,0
+355,570,I don'w want to talk about it,2022-03-01 11:59:39,0,Such an amazing day,2022-03-01 11:04:49,0
+356,674,I don'w want to talk about it,2022-03-01 02:15:12,1,Please text me someone,2022-03-01 06:26:13,1
+357,416,Let's keep connected,2022-03-02 05:30:02,0,I am so tired,2022-03-02 10:32:42,0
+358,299,I am sooo down,2022-03-02 09:53:01,1,i am lost,2022-03-01 16:47:44,0
+359,731,I am sooo down,2022-03-02 05:36:40,1,Why is this happening to me?,2022-03-01 23:44:05,1
+360,494,How you doin'?,2022-03-01 13:08:24,0,I don't know what to do now,2022-03-02 19:23:51,1
+361,601,Perfect,2022-03-02 11:53:11,0,I love databases,2022-03-02 13:44:22,0
+362,561,Looking good,2022-03-02 09:41:17,1,Why is this happening to me?,2022-03-01 04:58:17,0
+363,874,I don'w want to talk about it,2022-03-02 00:44:48,1,Please help,2022-03-01 08:15:09,0
+364,805,Love ya,2022-03-01 23:33:45,1,Why is SQLite so hard to install on Windows?!,2022-03-02 03:24:39,0
+365,184,Amazing,2022-03-02 13:18:38,0,Why is SQLite so hard to install on Windows?!,2022-03-02 01:14:03,0
+366,990,Love ya,2022-03-01 06:38:35,0,Please help,2022-03-02 01:11:52,1
+367,518,I am sooo down,2022-03-01 10:16:19,1,Please text me someone,2022-03-02 16:27:04,1
+368,739,Let's keep connected,2022-03-01 06:27:19,1,Random post,2022-03-02 22:56:54,0
+369,565,Are you down to meet up?,2022-03-01 07:48:50,0,Please stop texting me everyone,2022-03-02 01:08:56,1
+370,115,Love ya,2022-03-01 04:29:46,1,Random post,2022-03-01 02:19:03,0
+371,406,Love ya,2022-03-02 11:55:13,0,Such an amazing day,2022-03-02 12:37:12,0
+372,101,Good,2022-03-02 19:21:25,1,I wish this day ends sooner,2022-03-02 11:21:04,0
+373,628,Looking good,2022-03-02 07:02:18,0,So happy!,2022-03-02 11:06:22,1
+374,283,Great,2022-03-01 19:08:36,1,Please stop texting me everyone,2022-03-02 21:02:33,0
+375,236,Where are my keys?,2022-03-02 14:21:03,1,Please stop texting me everyone,2022-03-02 17:05:43,1
+376,780,Perfect,2022-03-01 07:08:22,1,So happy!,2022-03-01 06:47:58,1
+377,217,Amazing,2022-03-01 06:05:04,0,I love databases,2022-03-01 11:52:33,0
+378,485,Perfect,2022-03-01 19:04:09,0,Random post,2022-03-02 20:58:06,0
+379,871,Looking good,2022-03-02 19:30:24,1,Please stop texting me everyone,2022-03-02 03:41:17,1
+380,498,I don'w want to talk about it,2022-03-01 14:27:32,1,Hello,2022-03-02 14:52:39,0
+381,269,Good,2022-03-02 09:01:03,1,I don't know what to do now,2022-03-01 12:24:02,0
+382,673,Love ya,2022-03-01 22:30:58,1,Who wants to join?,2022-03-02 02:50:14,0
+383,208,Love ya,2022-03-02 20:07:42,1,So happy!,2022-03-01 18:17:21,1
+384,535,I am sooo down,2022-03-01 00:19:53,1,I wish this day ends sooner,2022-03-02 04:33:24,1
+385,105,Good,2022-03-01 08:46:42,0,So happy!,2022-03-02 01:35:40,0
+386,731,I don'w want to talk about it,2022-03-01 06:32:59,1,Random post,2022-03-01 23:45:36,0
+387,608,Let's keep connected,2022-03-01 12:53:25,1,I don't know what to do now,2022-03-01 07:26:53,0
+388,797,Can you come down,2022-03-01 10:42:42,0,Why is SQLite so hard to install on Windows?!,2022-03-02 02:09:03,0
+389,292,Where are my keys?,2022-03-01 01:00:59,1,I wish this day ends sooner,2022-03-01 02:29:51,0
+390,907,Where are my keys?,2022-03-02 22:15:06,1,i am lost,2022-03-01 02:23:45,0
+391,93,I am so angryyy,2022-03-01 20:04:20,1,Who wants to join?,2022-03-02 04:49:07,0
+392,326,How are you?,2022-03-02 19:09:23,1,I am so tired,2022-03-01 03:21:08,1
+393,195,Perfect,2022-03-01 00:15:47,1,Look at this!,2022-03-02 05:54:32,0
+394,441,Good,2022-03-01 09:19:27,0,Who wants to join?,2022-03-01 08:18:27,0
+395,874,Can you come down,2022-03-02 21:50:16,1,Look at this!,2022-03-01 17:10:00,0
+396,475,How you doin'?,2022-03-01 06:03:45,0,I am soo bored,2022-03-01 06:30:40,0
+397,124,Can you come down,2022-03-01 10:33:03,1,Why is SQLite so hard to install on Windows?!,2022-03-01 16:12:59,0
+398,960,Can you come down,2022-03-02 05:47:27,1,Why is SQLite so hard to install on Windows?!,2022-03-02 19:46:40,0
+399,353,Great,2022-03-01 16:35:11,0,Why is SQLite so hard to install on Windows?!,2022-03-01 23:16:53,1
+400,154,Great,2022-03-01 18:32:31,1,Please text me someone,2022-03-02 18:56:23,0
+401,54,Amazing,2022-03-01 17:50:01,0,I don't know what to do now,2022-03-01 03:28:13,0
+402,584,Let's keep connected,2022-03-01 11:26:22,0,Please help,2022-03-02 23:23:23,0
+403,509,Let's keep connected,2022-03-02 17:56:28,1,I am so tired,2022-03-02 21:36:53,1
+404,824,Let's keep connected,2022-03-01 03:06:28,1,I am so tired,2022-03-01 01:28:45,1
+405,514,Good,2022-03-01 18:06:25,1,Please text me someone,2022-03-02 04:30:51,0
+406,623,How are you?,2022-03-02 06:32:31,0,Why is this happening to me?,2022-03-01 09:10:16,1
+407,122,Great,2022-03-02 22:11:14,0,Look at this!,2022-03-02 08:45:07,1
+408,792,How you doin'?,2022-03-01 09:57:37,1,Why is this happening to me?,2022-03-02 03:44:54,0
+409,50,Good,2022-03-01 09:43:11,0,I am soo bored,2022-03-01 01:32:03,0
+410,398,Where are my keys?,2022-03-01 01:57:46,0,Look at this!,2022-03-02 17:00:04,1
+411,436,How you doin'?,2022-03-01 19:38:53,0,Please help,2022-03-01 05:26:37,0
+412,106,Perfect,2022-03-02 04:18:30,1,Hello,2022-03-02 04:13:50,1
+413,182,Love ya,2022-03-01 16:58:33,0,So happy!,2022-03-02 09:29:50,1
+414,959,I don'w want to talk about it,2022-03-02 04:17:20,1,Such an amazing day,2022-03-01 05:50:57,0
+415,656,Good,2022-03-01 22:06:44,0,i am lost,2022-03-01 10:52:56,0
+416,523,Good,2022-03-02 14:43:04,0,Such an amazing day,2022-03-02 23:39:13,0
+417,134,I am so angryyy,2022-03-01 10:01:47,1,Why is SQLite so hard to install on Windows?!,2022-03-02 07:58:28,1
+418,771,Let's keep connected,2022-03-02 17:43:41,1,Look at this!,2022-03-01 02:22:07,0
+419,666,I don'w want to talk about it,2022-03-01 19:15:23,0,Who wants to join?,2022-03-02 23:29:53,0
+420,286,I don'w want to talk about it,2022-03-01 03:05:23,1,I am soo bored,2022-03-02 08:50:28,1
+421,258,I don'w want to talk about it,2022-03-01 05:23:22,1,Look at this!,2022-03-02 00:47:54,0
+422,541,Where are my keys?,2022-03-02 12:49:54,0,I don't know what to do now,2022-03-02 02:42:12,0
+423,762,I don'w want to talk about it,2022-03-02 13:20:25,1,Look at this!,2022-03-02 09:11:37,1
+424,828,Let's keep connected,2022-03-01 03:58:13,0,Why is SQLite so hard to install on Windows?!,2022-03-01 08:30:20,0
+425,440,I don'w want to talk about it,2022-03-01 14:46:58,0,i am lost,2022-03-02 10:45:10,1
+426,843,How are you?,2022-03-02 04:36:36,1,I don't know what to do now,2022-03-01 16:15:23,0
+427,327,Perfect,2022-03-01 08:05:45,0,Hello,2022-03-01 23:49:58,1
+428,918,Are you down to meet up?,2022-03-01 18:34:28,0,So happy!,2022-03-02 05:54:40,1
+429,995,Let's keep connected,2022-03-01 16:28:28,0,I love databases,2022-03-01 01:34:59,0
+430,914,Love ya,2022-03-02 11:09:18,1,Hello,2022-03-01 05:42:28,0
+431,969,Perfect,2022-03-02 13:28:52,1,Please help,2022-03-02 13:00:52,0
+432,186,I am so angryyy,2022-03-01 13:03:38,0,Random post,2022-03-01 02:55:20,1
+433,988,Amazing,2022-03-02 09:49:32,0,I don't know what to do now,2022-03-01 02:22:02,1
+434,407,Are you down to meet up?,2022-03-02 02:19:48,1,I am so tired,2022-03-02 08:35:19,0
+435,449,Great,2022-03-02 13:47:33,1,I wish this day ends sooner,2022-03-02 10:56:11,1
+436,695,I am sooo down,2022-03-01 18:20:19,1,Who wants to join?,2022-03-02 01:08:52,1
+437,376,Are you down to meet up?,2022-03-02 13:23:18,0,Such an amazing day,2022-03-02 06:27:56,0
+438,119,I don'w want to talk about it,2022-03-02 07:21:08,1,Why is SQLite so hard to install on Windows?!,2022-03-02 06:09:12,1
+439,985,How you doin'?,2022-03-01 00:35:45,1,Please help,2022-03-01 11:53:06,0
+440,18,Great,2022-03-02 15:04:12,1,Who wants to join?,2022-03-02 10:58:19,1
+441,181,Where are my keys?,2022-03-01 09:21:05,0,Random post,2022-03-01 02:24:55,0
+442,146,Are you down to meet up?,2022-03-01 05:01:45,0,Please stop texting me everyone,2022-03-01 17:49:57,1
+443,548,Are you down to meet up?,2022-03-02 23:25:57,0,Please help,2022-03-02 02:54:04,0
+444,892,Looking good,2022-03-02 10:33:04,1,Please help,2022-03-01 10:49:51,1
+445,901,Perfect,2022-03-02 05:55:31,1,Please text me someone,2022-03-01 23:44:57,1
+446,673,Are you down to meet up?,2022-03-02 12:31:24,1,I am soo bored,2022-03-02 06:36:45,0
+447,267,Love ya,2022-03-01 18:12:31,0,Please stop texting me everyone,2022-03-01 03:02:44,1
+448,445,Looking good,2022-03-02 01:05:33,0,Who wants to join?,2022-03-01 19:51:40,1
+449,163,I am so angryyy,2022-03-02 13:52:46,1,I wish this day ends sooner,2022-03-02 09:17:41,0
+450,392,Love ya,2022-03-02 20:07:55,0,Please help,2022-03-01 11:18:08,1
+451,697,Love ya,2022-03-02 05:08:42,0,I wish this day ends sooner,2022-03-01 04:21:06,0
+452,923,Great,2022-03-01 10:44:31,0,Please help,2022-03-02 19:20:49,1
+453,932,Perfect,2022-03-01 20:05:24,0,I am soo bored,2022-03-02 20:53:40,0
+454,241,Perfect,2022-03-01 01:47:20,1,I am so tired,2022-03-02 05:42:30,1
+455,597,I am so angryyy,2022-03-02 23:06:10,0,I love databases,2022-03-02 16:09:35,1
+456,705,Where are my keys?,2022-03-01 14:46:58,0,Such an amazing day,2022-03-02 21:29:18,0
+457,407,Where are my keys?,2022-03-01 22:23:51,1,Please help,2022-03-01 02:22:43,1
+458,836,Are you down to meet up?,2022-03-02 21:50:09,0,I don't know what to do now,2022-03-01 02:01:26,0
+459,400,How are you?,2022-03-02 04:01:10,1,i am lost,2022-03-01 10:43:56,1
+460,643,How you doin'?,2022-03-02 02:43:54,1,Who wants to join?,2022-03-02 22:04:22,1
+461,829,Where are my keys?,2022-03-01 12:04:54,0,i am lost,2022-03-02 11:13:32,1
+462,406,I am sooo down,2022-03-01 22:25:03,0,Why is SQLite so hard to install on Windows?!,2022-03-01 21:55:37,1
+463,411,Amazing,2022-03-01 16:59:21,0,Please help,2022-03-02 10:57:02,1
+464,543,I don'w want to talk about it,2022-03-01 11:29:53,1,Why is SQLite so hard to install on Windows?!,2022-03-01 11:25:39,0
+465,262,I am sooo down,2022-03-02 22:45:44,1,I am so tired,2022-03-02 01:41:17,1
+466,327,I don'w want to talk about it,2022-03-02 00:09:02,1,i am lost,2022-03-02 03:39:42,1
+467,223,I am so angryyy,2022-03-02 14:44:22,0,Why is SQLite so hard to install on Windows?!,2022-03-02 12:57:12,1
+468,511,How are you?,2022-03-01 04:19:52,0,I am so tired,2022-03-01 13:51:32,1
+469,633,I am sooo down,2022-03-01 18:41:23,1,Hello,2022-03-02 10:46:20,1
+470,102,Can you come down,2022-03-01 06:58:55,0,I wish this day ends sooner,2022-03-02 23:57:00,0
+471,2,Love ya,2022-03-02 07:42:13,0,i am lost,2022-03-02 18:41:55,0
+472,330,Good,2022-03-02 15:59:34,1,i am lost,2022-03-02 03:50:40,1
+473,842,I don'w want to talk about it,2022-03-01 11:13:35,1,Why is this happening to me?,2022-03-01 01:14:44,0
+474,303,Good,2022-03-01 04:03:23,0,Why is SQLite so hard to install on Windows?!,2022-03-02 01:28:35,1
+475,108,Can you come down,2022-03-02 03:36:18,0,Hello,2022-03-01 05:51:44,0
+476,837,How are you?,2022-03-02 21:41:03,1,Please text me someone,2022-03-02 00:02:36,0
+477,204,How you doin'?,2022-03-02 18:24:44,1,I wish this day ends sooner,2022-03-02 04:37:14,0
+478,636,Great,2022-03-02 22:13:32,1,Please stop texting me everyone,2022-03-02 00:01:44,0
+479,423,Love ya,2022-03-02 03:02:38,0,So happy!,2022-03-02 15:28:36,0
+480,470,Perfect,2022-03-02 14:25:16,0,I am soo bored,2022-03-01 20:04:15,0
+481,877,Great,2022-03-01 17:29:48,1,Please stop texting me everyone,2022-03-01 15:55:47,0
+482,991,Amazing,2022-03-02 08:48:55,1,Please stop texting me everyone,2022-03-02 03:33:05,1
+483,147,Looking good,2022-03-02 12:00:30,0,Look at this!,2022-03-02 19:09:53,1
+484,320,I am sooo down,2022-03-01 06:34:19,1,Who wants to join?,2022-03-02 08:07:13,1
+485,21,Are you down to meet up?,2022-03-01 18:47:20,0,Why is this happening to me?,2022-03-02 07:35:49,0
+486,498,Amazing,2022-03-02 14:31:02,0,So happy!,2022-03-02 22:43:58,0
+487,580,Good,2022-03-02 17:30:47,1,Hello,2022-03-01 03:15:50,1
+488,725,Amazing,2022-03-02 16:19:49,0,Why is SQLite so hard to install on Windows?!,2022-03-02 22:04:42,0
+489,193,How are you?,2022-03-01 21:46:14,0,Please help,2022-03-01 21:49:06,1
+490,331,I am sooo down,2022-03-01 09:14:06,0,Such an amazing day,2022-03-02 09:56:31,0
+491,630,Perfect,2022-03-01 08:57:09,1,I am so tired,2022-03-01 16:05:33,0
+492,27,How are you?,2022-03-02 15:47:37,1,I don't know what to do now,2022-03-01 10:29:13,0
+493,546,Where are my keys?,2022-03-02 21:00:11,1,Please text me someone,2022-03-02 10:04:35,1
+494,653,Perfect,2022-03-02 13:25:16,0,Why is this happening to me?,2022-03-02 09:57:41,0
+495,87,Where are my keys?,2022-03-01 09:10:09,1,Such an amazing day,2022-03-02 19:02:08,1
+496,422,How you doin'?,2022-03-02 03:20:31,1,I don't know what to do now,2022-03-02 11:17:13,0
+497,31,I am so angryyy,2022-03-02 17:14:50,1,Why is this happening to me?,2022-03-01 14:20:59,0
+498,897,Great,2022-03-01 11:51:26,0,I don't know what to do now,2022-03-02 23:14:46,0
+499,739,Great,2022-03-01 06:24:20,0,I love databases,2022-03-01 06:27:12,1
+500,901,Are you down to meet up?,2022-03-02 20:25:08,1,Please stop texting me everyone,2022-03-01 05:20:02,0
+501,386,I am sooo down,2022-03-02 17:40:36,1,Please help,2022-03-01 08:48:07,0
+502,972,I don'w want to talk about it,2022-03-01 21:27:14,0,So happy!,2022-03-02 01:57:16,1
+503,41,I am so angryyy,2022-03-01 05:45:05,0,Why is SQLite so hard to install on Windows?!,2022-03-01 09:11:12,0
+504,587,Can you come down,2022-03-02 06:00:52,1,I am soo bored,2022-03-02 04:34:30,0
+505,539,Great,2022-03-01 01:45:37,1,Hello,2022-03-01 22:28:52,0
+506,984,Are you down to meet up?,2022-03-02 04:03:05,1,Why is SQLite so hard to install on Windows?!,2022-03-01 20:10:46,0
+507,454,Can you come down,2022-03-01 15:34:16,0,I wish this day ends sooner,2022-03-02 04:45:39,1
+508,720,How you doin'?,2022-03-01 10:00:46,1,I wish this day ends sooner,2022-03-01 05:58:26,0
+509,997,Amazing,2022-03-01 14:54:20,1,Please stop texting me everyone,2022-03-01 15:35:06,0
+510,402,How you doin'?,2022-03-02 08:35:13,1,I love databases,2022-03-01 10:17:40,0
+511,829,Good,2022-03-02 06:38:00,0,Hello,2022-03-02 05:24:48,1
+512,77,Let's keep connected,2022-03-02 00:37:53,1,Look at this!,2022-03-02 05:38:38,1
+513,696,I am sooo down,2022-03-01 08:20:35,0,So happy!,2022-03-02 11:18:51,1
+514,626,Amazing,2022-03-02 12:08:01,0,I wish this day ends sooner,2022-03-02 18:08:59,0
+515,777,Great,2022-03-02 20:18:36,1,Why is this happening to me?,2022-03-01 10:34:52,1
+516,874,How you doin'?,2022-03-02 12:57:58,0,Such an amazing day,2022-03-01 17:12:15,0
+517,173,Amazing,2022-03-02 23:51:04,1,Random post,2022-03-01 00:03:05,1
+518,790,Good,2022-03-02 19:27:30,1,I wish this day ends sooner,2022-03-01 03:37:15,0
+519,886,How are you?,2022-03-01 19:11:08,1,I don't know what to do now,2022-03-02 11:54:39,1
+520,977,Looking good,2022-03-01 13:31:47,1,So happy!,2022-03-01 05:43:44,1
+521,375,Are you down to meet up?,2022-03-02 12:12:56,0,Look at this!,2022-03-02 09:50:59,0
+522,721,I am so angryyy,2022-03-01 11:25:00,1,Why is SQLite so hard to install on Windows?!,2022-03-01 08:58:39,1
+523,445,Amazing,2022-03-01 00:06:44,0,So happy!,2022-03-01 06:15:22,1
+524,498,Let's keep connected,2022-03-01 16:52:40,1,I don't know what to do now,2022-03-01 15:06:30,1
+525,293,Where are my keys?,2022-03-01 20:14:22,0,Please stop texting me everyone,2022-03-01 02:55:54,1
+526,708,I don'w want to talk about it,2022-03-01 08:23:04,1,Why is SQLite so hard to install on Windows?!,2022-03-01 16:58:43,1
+527,19,Perfect,2022-03-01 10:54:12,0,Such an amazing day,2022-03-01 13:02:42,0
+528,4,How you doin'?,2022-03-02 18:37:02,0,i am lost,2022-03-01 20:31:31,1
+529,181,Love ya,2022-03-01 15:50:06,0,Random post,2022-03-02 13:04:51,1
+530,983,Great,2022-03-01 12:26:06,0,So happy!,2022-03-02 00:46:14,0
+531,408,Love ya,2022-03-02 03:46:06,0,Random post,2022-03-02 01:02:11,1
+532,79,How you doin'?,2022-03-01 06:15:59,0,Please stop texting me everyone,2022-03-01 04:54:35,1
+533,981,Good,2022-03-01 22:42:31,0,So happy!,2022-03-01 23:29:40,1
+534,365,Are you down to meet up?,2022-03-01 16:30:17,0,Why is SQLite so hard to install on Windows?!,2022-03-01 11:47:20,0
+535,610,How you doin'?,2022-03-02 20:55:01,0,I don't know what to do now,2022-03-02 23:09:44,0
+536,285,Let's keep connected,2022-03-01 16:29:15,0,I am so tired,2022-03-02 08:41:34,1
+537,346,Perfect,2022-03-01 00:06:55,1,i am lost,2022-03-02 08:38:49,1
+538,442,I am sooo down,2022-03-01 17:57:44,0,Such an amazing day,2022-03-01 14:57:25,1
+539,838,Love ya,2022-03-01 06:58:06,0,Why is SQLite so hard to install on Windows?!,2022-03-01 18:50:32,0
+540,719,I am sooo down,2022-03-02 09:40:52,1,Why is this happening to me?,2022-03-02 02:22:55,1
+541,95,Where are my keys?,2022-03-01 07:50:30,1,Please stop texting me everyone,2022-03-02 17:43:31,1
+542,258,Where are my keys?,2022-03-02 13:07:23,0,I am so tired,2022-03-01 03:32:51,0
+543,215,How you doin'?,2022-03-01 06:11:02,0,I wish this day ends sooner,2022-03-01 13:27:54,1
+544,246,Where are my keys?,2022-03-02 09:23:51,1,Hello,2022-03-02 16:34:45,1
+545,782,Let's keep connected,2022-03-02 20:06:58,1,I am soo bored,2022-03-01 10:03:07,0
+546,627,How you doin'?,2022-03-02 08:10:33,1,I am so tired,2022-03-02 02:19:28,0
+547,677,I don'w want to talk about it,2022-03-02 05:07:11,0,Please help,2022-03-01 06:28:35,0
+548,59,Amazing,2022-03-02 00:20:41,1,I am soo bored,2022-03-01 03:11:20,0
+549,594,Are you down to meet up?,2022-03-01 00:31:53,1,I am soo bored,2022-03-02 15:25:39,0
+550,620,How are you?,2022-03-02 15:45:54,0,Random post,2022-03-02 13:06:49,0
+551,762,Love ya,2022-03-01 15:09:48,1,Random post,2022-03-02 03:23:57,0
+552,498,How are you?,2022-03-02 03:00:47,0,Such an amazing day,2022-03-02 09:07:17,0
+553,921,Looking good,2022-03-02 22:52:39,0,Please stop texting me everyone,2022-03-02 15:33:37,0
+554,992,Where are my keys?,2022-03-02 18:25:11,0,Why is SQLite so hard to install on Windows?!,2022-03-02 21:50:28,0
+555,485,I am so angryyy,2022-03-02 09:54:05,1,Please text me someone,2022-03-01 06:44:11,1
+556,999,I am so angryyy,2022-03-01 23:54:48,0,I am soo bored,2022-03-01 22:52:44,0
+557,471,Good,2022-03-01 00:21:48,0,Why is this happening to me?,2022-03-01 16:10:35,1
+558,445,Where are my keys?,2022-03-01 00:35:38,0,Hello,2022-03-02 13:16:37,0
+559,67,Let's keep connected,2022-03-02 13:47:46,1,I am so tired,2022-03-02 18:35:43,0
+560,670,How you doin'?,2022-03-01 07:12:36,1,I am so tired,2022-03-02 04:06:18,1
+561,238,I am so angryyy,2022-03-01 00:08:10,1,I wish this day ends sooner,2022-03-01 17:25:41,0
+562,324,Amazing,2022-03-01 18:52:01,0,Such an amazing day,2022-03-01 04:01:56,1
+563,803,Perfect,2022-03-02 15:58:51,1,I don't know what to do now,2022-03-02 23:59:54,1
+564,306,Let's keep connected,2022-03-01 08:24:47,1,I don't know what to do now,2022-03-02 02:04:07,0
+565,821,Good,2022-03-01 08:37:45,0,I wish this day ends sooner,2022-03-01 05:50:44,1
+566,380,How you doin'?,2022-03-02 17:35:03,0,Why is this happening to me?,2022-03-02 16:47:45,1
+567,625,Great,2022-03-02 03:13:13,0,Please text me someone,2022-03-02 05:24:34,1
+568,877,How are you?,2022-03-01 15:15:43,1,Why is this happening to me?,2022-03-01 00:08:46,0
+569,120,How are you?,2022-03-02 05:45:18,0,i am lost,2022-03-01 07:52:01,0
+570,693,Looking good,2022-03-02 00:48:04,1,I am so tired,2022-03-02 23:59:54,0
+571,977,I don'w want to talk about it,2022-03-01 10:12:06,0,I love databases,2022-03-02 19:46:39,1
+572,256,I am so angryyy,2022-03-01 09:24:39,1,So happy!,2022-03-01 10:26:34,0
+573,787,Perfect,2022-03-01 00:06:35,1,i am lost,2022-03-01 00:56:45,0
+574,431,Can you come down,2022-03-02 23:04:24,1,Why is this happening to me?,2022-03-01 00:04:20,0
+575,16,Amazing,2022-03-01 05:17:37,0,Why is SQLite so hard to install on Windows?!,2022-03-01 23:30:19,1
+576,48,How you doin'?,2022-03-02 11:36:22,1,I am soo bored,2022-03-02 18:31:34,1
+577,405,How are you?,2022-03-02 20:32:21,0,I don't know what to do now,2022-03-02 16:20:40,0
+578,801,I am so angryyy,2022-03-01 05:36:51,0,I don't know what to do now,2022-03-01 10:48:09,1
+579,757,Let's keep connected,2022-03-02 10:09:25,0,Look at this!,2022-03-01 07:17:09,1
+580,592,Looking good,2022-03-02 08:37:47,0,Look at this!,2022-03-02 07:53:13,0
+581,157,I am sooo down,2022-03-01 09:28:59,0,I wish this day ends sooner,2022-03-01 13:26:38,0
+582,64,Looking good,2022-03-02 08:01:52,0,Such an amazing day,2022-03-02 07:28:42,1
+583,822,Amazing,2022-03-01 19:36:35,0,Who wants to join?,2022-03-01 17:32:00,0
+584,306,How are you?,2022-03-02 18:17:07,0,I don't know what to do now,2022-03-01 08:11:12,0
+585,543,I don'w want to talk about it,2022-03-02 14:49:40,1,Please help,2022-03-01 21:51:54,1
+586,671,Good,2022-03-01 12:42:19,1,Why is this happening to me?,2022-03-01 07:58:26,1
+587,770,I am so angryyy,2022-03-02 08:27:02,1,I wish this day ends sooner,2022-03-01 09:48:25,1
+588,321,Amazing,2022-03-01 18:29:13,1,Please stop texting me everyone,2022-03-02 08:05:59,1
+589,461,Good,2022-03-01 15:11:40,1,Please stop texting me everyone,2022-03-01 22:38:06,1
+590,348,Perfect,2022-03-02 07:24:43,0,Please help,2022-03-02 16:46:54,0
+591,521,How you doin'?,2022-03-02 06:57:24,0,Why is SQLite so hard to install on Windows?!,2022-03-02 07:59:49,0
+592,744,How are you?,2022-03-01 17:11:50,0,Hello,2022-03-02 20:45:00,1
+593,531,Looking good,2022-03-02 10:15:15,1,Who wants to join?,2022-03-02 11:33:53,1
+594,302,How you doin'?,2022-03-01 16:24:41,0,So happy!,2022-03-02 06:44:36,1
+595,321,Are you down to meet up?,2022-03-02 22:29:43,0,I am so tired,2022-03-02 21:09:36,0
+596,949,How you doin'?,2022-03-02 02:04:30,0,I love databases,2022-03-02 20:44:41,0
+597,126,Great,2022-03-02 06:52:32,1,I am soo bored,2022-03-02 19:49:02,0
+598,613,Where are my keys?,2022-03-02 15:12:33,1,Please help,2022-03-02 06:00:47,0
+599,268,I am so angryyy,2022-03-02 17:59:08,0,Why is this happening to me?,2022-03-01 10:04:53,1
+600,847,Great,2022-03-02 21:36:15,1,Who wants to join?,2022-03-01 12:48:36,1
+601,640,Can you come down,2022-03-01 01:53:17,0,Who wants to join?,2022-03-01 21:38:43,1
+602,828,I am so angryyy,2022-03-02 08:07:20,0,Please text me someone,2022-03-01 23:12:24,1
+603,817,Looking good,2022-03-01 18:46:53,1,Hello,2022-03-01 21:11:43,0
+604,586,How you doin'?,2022-03-01 04:18:53,1,Hello,2022-03-02 17:45:50,1
+605,227,Where are my keys?,2022-03-02 23:36:45,1,Please help,2022-03-01 17:09:33,0
+606,124,Love ya,2022-03-01 17:16:33,0,So happy!,2022-03-01 18:01:08,1
+607,431,How you doin'?,2022-03-02 23:58:16,0,Hello,2022-03-01 19:59:05,1
+608,535,How you doin'?,2022-03-02 03:31:40,0,I am so tired,2022-03-01 07:05:27,0
+609,25,Amazing,2022-03-02 22:55:41,0,Please stop texting me everyone,2022-03-01 22:56:46,1
+610,66,Perfect,2022-03-02 05:21:50,0,So happy!,2022-03-02 02:40:11,0
+611,578,Let's keep connected,2022-03-02 06:32:35,1,I am so tired,2022-03-01 17:51:43,0
+612,193,I don'w want to talk about it,2022-03-01 21:47:46,0,Why is SQLite so hard to install on Windows?!,2022-03-01 00:15:08,1
+613,672,I am so angryyy,2022-03-01 11:44:12,1,Hello,2022-03-02 03:45:24,1
+614,405,I am so angryyy,2022-03-02 15:34:44,0,I love databases,2022-03-01 18:25:04,1
+615,672,How you doin'?,2022-03-02 00:21:40,0,Look at this!,2022-03-01 02:36:00,1
+616,400,Let's keep connected,2022-03-02 00:43:12,1,Please help,2022-03-01 10:50:57,1
+617,445,How are you?,2022-03-01 06:29:06,0,Please text me someone,2022-03-02 02:31:50,0
+618,732,Can you come down,2022-03-02 02:50:02,0,I love databases,2022-03-02 05:02:57,0
+619,455,I don'w want to talk about it,2022-03-02 15:16:48,0,I am soo bored,2022-03-02 19:12:11,1
+620,418,I am sooo down,2022-03-01 11:51:51,1,Please help,2022-03-02 06:02:15,1
+621,923,Perfect,2022-03-01 09:57:17,0,Why is SQLite so hard to install on Windows?!,2022-03-02 09:30:46,1
+622,22,How are you?,2022-03-01 14:05:57,1,I am so tired,2022-03-02 07:39:39,0
+623,327,Perfect,2022-03-01 02:41:29,1,Please text me someone,2022-03-02 05:53:42,0
+624,607,Where are my keys?,2022-03-02 17:45:42,0,I am soo bored,2022-03-02 08:43:29,1
+625,542,Good,2022-03-02 07:48:45,0,Please text me someone,2022-03-01 06:15:49,1
+626,508,I am sooo down,2022-03-02 17:56:56,1,I love databases,2022-03-02 12:26:05,1
+627,823,How are you?,2022-03-01 13:19:41,1,I am soo bored,2022-03-02 06:00:11,0
+628,472,I am so angryyy,2022-03-01 09:42:58,1,Who wants to join?,2022-03-02 23:52:39,0
+629,87,I am sooo down,2022-03-02 20:20:48,0,Why is SQLite so hard to install on Windows?!,2022-03-01 20:37:07,0
+630,780,I am sooo down,2022-03-01 17:23:19,0,I love databases,2022-03-01 08:48:56,1
+631,171,Looking good,2022-03-02 13:36:43,0,I am so tired,2022-03-01 14:41:32,0
+632,938,Looking good,2022-03-01 10:43:35,0,I love databases,2022-03-02 04:27:01,0
+633,898,I don'w want to talk about it,2022-03-01 20:39:02,1,i am lost,2022-03-01 09:02:14,0
+634,995,How you doin'?,2022-03-02 18:07:17,1,I am so tired,2022-03-01 09:08:16,1
+635,355,How are you?,2022-03-01 10:42:31,0,Who wants to join?,2022-03-02 11:19:04,1
+636,536,Where are my keys?,2022-03-02 09:52:19,0,Why is SQLite so hard to install on Windows?!,2022-03-02 18:36:41,1
+637,161,Are you down to meet up?,2022-03-02 00:06:45,1,Please stop texting me everyone,2022-03-02 17:01:19,0
+638,86,How you doin'?,2022-03-01 01:26:22,1,Please text me someone,2022-03-01 05:50:36,0
+639,2,Can you come down,2022-03-02 04:33:33,1,Please text me someone,2022-03-02 00:36:48,0
+640,704,Perfect,2022-03-02 12:34:22,0,Hello,2022-03-01 05:07:32,0
+641,491,Are you down to meet up?,2022-03-02 23:30:54,0,I wish this day ends sooner,2022-03-01 22:59:03,0
+642,652,Good,2022-03-02 02:25:53,0,i am lost,2022-03-02 04:18:59,1
+643,808,Great,2022-03-02 13:50:09,1,Random post,2022-03-01 04:32:22,0
+644,276,How you doin'?,2022-03-02 05:54:44,1,Please stop texting me everyone,2022-03-01 08:32:55,1
+645,439,Perfect,2022-03-02 21:34:48,0,Why is this happening to me?,2022-03-02 12:52:13,1
+646,809,Love ya,2022-03-01 22:05:18,0,Why is SQLite so hard to install on Windows?!,2022-03-02 11:40:52,0
+647,4,How you doin'?,2022-03-01 23:49:51,0,So happy!,2022-03-02 10:42:15,1
+648,539,Are you down to meet up?,2022-03-02 04:39:54,0,Please text me someone,2022-03-01 06:13:41,0
+649,575,Good,2022-03-02 10:52:50,0,So happy!,2022-03-02 15:33:19,1
+650,645,How you doin'?,2022-03-01 22:22:59,1,I don't know what to do now,2022-03-02 15:39:48,1
+651,863,Great,2022-03-01 03:28:47,0,So happy!,2022-03-02 00:57:07,0
+652,391,Looking good,2022-03-02 05:20:32,0,I am soo bored,2022-03-01 04:54:43,0
+653,507,I don'w want to talk about it,2022-03-01 10:46:09,1,I am soo bored,2022-03-01 14:37:20,1
+654,778,Where are my keys?,2022-03-01 17:00:53,0,Random post,2022-03-02 14:10:38,1
+655,664,I don'w want to talk about it,2022-03-02 13:55:12,1,I am soo bored,2022-03-01 08:49:09,0
+656,292,I don'w want to talk about it,2022-03-02 13:35:25,0,I don't know what to do now,2022-03-02 09:47:38,0
+657,886,Perfect,2022-03-02 17:57:34,0,Why is SQLite so hard to install on Windows?!,2022-03-02 03:30:08,0
+658,238,Let's keep connected,2022-03-02 05:31:27,0,Random post,2022-03-02 09:36:52,1
+659,680,Can you come down,2022-03-02 08:43:19,0,I wish this day ends sooner,2022-03-02 21:11:44,0
+660,424,I am sooo down,2022-03-01 06:21:16,1,Why is SQLite so hard to install on Windows?!,2022-03-01 19:57:40,0
+661,769,Let's keep connected,2022-03-02 07:18:34,0,i am lost,2022-03-02 08:55:57,1
+662,648,Are you down to meet up?,2022-03-02 07:59:16,0,Such an amazing day,2022-03-02 15:59:00,1
+663,433,Looking good,2022-03-02 02:10:52,0,I love databases,2022-03-01 08:58:32,0
+664,196,Can you come down,2022-03-02 15:24:53,1,Such an amazing day,2022-03-02 01:16:12,1
+665,947,I am so angryyy,2022-03-02 14:25:25,1,Please stop texting me everyone,2022-03-01 20:15:47,0
+666,3,Perfect,2022-03-01 05:34:43,1,I love databases,2022-03-02 09:31:30,1
+667,39,Great,2022-03-02 16:37:14,1,I am soo bored,2022-03-02 08:12:31,0
+668,64,Amazing,2022-03-01 23:53:26,1,So happy!,2022-03-01 12:36:32,0
+669,765,I don'w want to talk about it,2022-03-01 13:52:54,1,Random post,2022-03-02 03:18:51,1
+670,212,Perfect,2022-03-02 22:39:50,0,Please stop texting me everyone,2022-03-01 11:44:56,0
+671,378,How are you?,2022-03-01 17:15:06,0,I am so tired,2022-03-01 20:57:00,1
+672,370,How are you?,2022-03-01 21:44:49,0,Why is this happening to me?,2022-03-01 23:19:34,1
+673,461,Let's keep connected,2022-03-02 15:33:29,1,Please stop texting me everyone,2022-03-01 23:00:51,0
+674,345,I am sooo down,2022-03-01 14:57:18,1,Please stop texting me everyone,2022-03-02 03:49:46,0
+675,719,How you doin'?,2022-03-02 17:37:47,0,So happy!,2022-03-01 09:08:51,0
+676,846,Great,2022-03-02 21:49:16,1,I am so tired,2022-03-01 18:01:07,0
+677,745,Can you come down,2022-03-01 20:56:33,1,Why is SQLite so hard to install on Windows?!,2022-03-02 01:05:02,0
+678,645,I don'w want to talk about it,2022-03-02 13:12:47,0,Please help,2022-03-01 22:12:02,1
+679,436,Good,2022-03-02 07:38:03,0,Who wants to join?,2022-03-01 19:04:55,0
+680,887,Are you down to meet up?,2022-03-02 17:07:29,0,Such an amazing day,2022-03-01 16:56:06,1
+681,862,Good,2022-03-01 03:40:34,0,Please text me someone,2022-03-02 16:27:37,1
+682,674,I am so angryyy,2022-03-01 04:06:55,1,I am so tired,2022-03-01 23:21:04,1
+683,826,Good,2022-03-02 11:18:21,0,I love databases,2022-03-02 13:43:27,1
+684,99,Looking good,2022-03-02 03:08:38,1,Random post,2022-03-02 07:12:08,1
+685,252,I don'w want to talk about it,2022-03-02 13:13:17,1,Such an amazing day,2022-03-01 03:14:11,0
+686,961,Good,2022-03-01 19:12:53,0,I am so tired,2022-03-01 12:44:44,0
+687,577,Perfect,2022-03-02 11:55:48,1,Please help,2022-03-01 04:33:02,0
+688,569,Great,2022-03-02 06:06:18,0,Please help,2022-03-01 00:34:05,1
+689,835,Looking good,2022-03-01 07:31:27,1,Why is SQLite so hard to install on Windows?!,2022-03-01 16:27:46,0
+690,831,Are you down to meet up?,2022-03-02 23:50:44,0,Hello,2022-03-02 03:26:12,1
+691,307,I don'w want to talk about it,2022-03-02 19:27:38,1,Why is this happening to me?,2022-03-01 15:33:10,1
+692,836,Where are my keys?,2022-03-02 07:32:23,0,Such an amazing day,2022-03-01 08:08:17,0
+693,310,Are you down to meet up?,2022-03-02 15:17:06,0,Such an amazing day,2022-03-01 21:34:15,1
+694,103,I am sooo down,2022-03-02 15:02:34,0,Hello,2022-03-02 12:27:14,0
+695,103,Looking good,2022-03-01 11:27:08,1,Who wants to join?,2022-03-01 20:22:11,1
+696,837,Great,2022-03-01 03:42:57,1,Who wants to join?,2022-03-02 00:56:44,0
+697,472,Are you down to meet up?,2022-03-02 07:48:39,1,Random post,2022-03-01 18:09:09,1
+698,279,Can you come down,2022-03-01 15:51:33,1,I am so tired,2022-03-02 22:39:54,0
+699,33,Are you down to meet up?,2022-03-01 04:47:54,1,i am lost,2022-03-01 12:24:56,0
+700,292,I am sooo down,2022-03-02 17:42:45,1,Look at this!,2022-03-01 14:51:38,0
+701,435,I don'w want to talk about it,2022-03-01 10:13:25,1,I am soo bored,2022-03-02 22:59:11,0
+702,512,Love ya,2022-03-01 21:47:55,1,Why is this happening to me?,2022-03-02 21:13:07,1
+703,831,How you doin'?,2022-03-01 03:43:35,1,I am so tired,2022-03-01 09:02:06,1
+704,146,Amazing,2022-03-01 01:16:22,1,Such an amazing day,2022-03-02 03:04:55,1
+705,456,Good,2022-03-02 20:18:43,0,I love databases,2022-03-01 08:13:20,1
+706,892,I don'w want to talk about it,2022-03-01 01:06:43,0,Random post,2022-03-01 01:46:11,0
+707,687,Love ya,2022-03-02 18:33:38,0,I don't know what to do now,2022-03-02 12:07:36,1
+708,159,I am so angryyy,2022-03-02 21:24:03,1,Why is SQLite so hard to install on Windows?!,2022-03-01 17:13:03,1
+709,935,I am so angryyy,2022-03-01 12:14:43,1,Hello,2022-03-01 01:44:38,1
+710,72,How you doin'?,2022-03-02 10:10:00,0,I love databases,2022-03-02 04:33:33,0
+711,85,How you doin'?,2022-03-02 17:13:25,0,Please text me someone,2022-03-01 20:22:04,1
+712,93,I don'w want to talk about it,2022-03-02 16:37:52,0,Look at this!,2022-03-02 20:06:33,1
+713,879,Let's keep connected,2022-03-01 11:50:22,1,So happy!,2022-03-02 20:10:01,0
+714,198,Good,2022-03-01 04:11:12,0,I don't know what to do now,2022-03-02 14:16:15,1
+715,708,I don'w want to talk about it,2022-03-01 19:12:30,1,Why is SQLite so hard to install on Windows?!,2022-03-02 22:05:59,0
+716,397,Love ya,2022-03-02 19:31:10,1,I wish this day ends sooner,2022-03-02 09:34:11,1
+717,485,Looking good,2022-03-01 01:42:07,1,Why is this happening to me?,2022-03-02 08:08:04,0
+718,982,I don'w want to talk about it,2022-03-02 18:07:06,1,Please help,2022-03-02 01:41:34,0
+719,913,How you doin'?,2022-03-02 21:36:27,1,I am so tired,2022-03-01 10:51:29,1
+720,614,Can you come down,2022-03-01 11:30:25,1,Why is SQLite so hard to install on Windows?!,2022-03-02 19:03:27,1
+721,269,I don'w want to talk about it,2022-03-02 04:15:18,1,Why is SQLite so hard to install on Windows?!,2022-03-02 21:21:12,0
+722,549,Amazing,2022-03-01 06:57:04,0,Why is SQLite so hard to install on Windows?!,2022-03-01 21:34:27,1
+723,190,Good,2022-03-01 03:39:15,1,I am so tired,2022-03-02 22:43:44,0
+724,411,Looking good,2022-03-02 03:21:03,0,So happy!,2022-03-02 04:52:42,1
+725,614,Great,2022-03-01 06:51:46,0,I don't know what to do now,2022-03-02 06:58:56,1
+726,786,I don'w want to talk about it,2022-03-02 23:10:24,0,Why is this happening to me?,2022-03-01 10:57:39,1
+727,571,Looking good,2022-03-02 22:47:13,0,I am soo bored,2022-03-02 14:17:01,1
+728,557,Can you come down,2022-03-02 05:52:55,1,I am soo bored,2022-03-01 12:47:16,0
+729,209,Perfect,2022-03-02 20:22:18,0,So happy!,2022-03-01 19:49:17,1
+730,324,Are you down to meet up?,2022-03-02 01:35:38,0,Look at this!,2022-03-01 16:12:42,1
+731,759,Can you come down,2022-03-02 03:45:17,1,Why is this happening to me?,2022-03-01 15:43:59,1
+732,529,I don'w want to talk about it,2022-03-01 03:43:28,1,i am lost,2022-03-01 13:52:35,0
+733,440,I don'w want to talk about it,2022-03-01 08:15:10,0,Please stop texting me everyone,2022-03-02 03:33:11,1
+734,319,Love ya,2022-03-01 02:33:31,0,I am so tired,2022-03-02 19:10:01,0
+735,386,Perfect,2022-03-02 12:27:28,1,I wish this day ends sooner,2022-03-01 19:14:27,0
+736,929,Love ya,2022-03-02 07:47:20,1,Please text me someone,2022-03-01 19:29:40,1
+737,139,Can you come down,2022-03-02 12:35:05,0,I am so tired,2022-03-02 07:57:33,1
+738,99,Great,2022-03-02 20:57:29,0,I wish this day ends sooner,2022-03-02 12:58:22,0
+739,372,Good,2022-03-01 16:32:47,1,Please text me someone,2022-03-02 16:05:16,0
+740,136,Great,2022-03-02 12:46:32,1,Hello,2022-03-02 03:55:12,0
+741,898,I don'w want to talk about it,2022-03-02 14:08:57,0,So happy!,2022-03-02 14:32:34,0
+742,149,Love ya,2022-03-01 08:50:01,0,I don't know what to do now,2022-03-02 18:11:44,0
+743,664,Looking good,2022-03-01 02:41:19,0,Such an amazing day,2022-03-02 08:07:02,1
+744,944,How you doin'?,2022-03-01 11:32:57,1,Why is this happening to me?,2022-03-01 22:29:13,1
+745,568,Perfect,2022-03-02 10:43:29,0,So happy!,2022-03-02 02:13:35,0
+746,339,Amazing,2022-03-02 15:51:18,1,So happy!,2022-03-02 03:48:46,1
+747,562,Perfect,2022-03-02 16:15:31,1,I don't know what to do now,2022-03-02 17:48:04,1
+748,591,Good,2022-03-02 20:33:14,0,Look at this!,2022-03-02 00:31:31,0
+749,558,I am so angryyy,2022-03-01 22:42:44,1,Why is this happening to me?,2022-03-02 23:33:01,0
+750,703,Are you down to meet up?,2022-03-02 21:30:13,1,I am soo bored,2022-03-02 04:57:26,0
+751,387,I am sooo down,2022-03-02 20:10:34,1,I wish this day ends sooner,2022-03-02 09:02:47,0
+752,462,Amazing,2022-03-02 00:15:56,1,Please stop texting me everyone,2022-03-01 11:55:50,0
+753,718,Looking good,2022-03-02 18:00:36,0,Hello,2022-03-02 19:05:21,0
+754,296,I don'w want to talk about it,2022-03-02 19:37:44,0,I am soo bored,2022-03-01 06:44:15,1
+755,776,Amazing,2022-03-01 12:34:52,0,Who wants to join?,2022-03-01 06:49:28,0
+756,857,I am sooo down,2022-03-02 23:12:23,0,Please text me someone,2022-03-02 17:28:24,0
+757,375,I am so angryyy,2022-03-01 04:08:21,0,Hello,2022-03-01 12:32:45,0
+758,600,I am so angryyy,2022-03-01 16:23:45,0,Such an amazing day,2022-03-01 04:44:19,0
+759,410,I don'w want to talk about it,2022-03-02 22:40:16,0,Such an amazing day,2022-03-02 09:59:49,0
+760,737,Perfect,2022-03-01 21:45:50,0,I wish this day ends sooner,2022-03-02 14:09:03,0
+761,969,Love ya,2022-03-01 05:27:35,1,So happy!,2022-03-01 05:27:06,0
+762,815,Love ya,2022-03-01 16:43:11,0,i am lost,2022-03-01 16:12:52,1
+763,61,Amazing,2022-03-02 11:15:15,0,Look at this!,2022-03-02 05:37:40,0
+764,981,Let's keep connected,2022-03-02 21:49:11,0,Look at this!,2022-03-02 21:50:34,0
+765,694,Great,2022-03-02 12:49:27,1,I don't know what to do now,2022-03-02 11:51:33,0
+766,867,Where are my keys?,2022-03-01 23:10:25,1,Please help,2022-03-02 05:06:22,0
+767,105,I am so angryyy,2022-03-02 20:01:01,1,Please help,2022-03-01 16:04:12,1
+768,801,Can you come down,2022-03-02 17:55:31,1,I wish this day ends sooner,2022-03-01 09:10:03,0
+769,412,I am sooo down,2022-03-02 14:02:22,1,I don't know what to do now,2022-03-01 16:32:57,1
+770,957,How you doin'?,2022-03-02 01:17:07,0,I don't know what to do now,2022-03-02 19:41:53,1
+771,99,Can you come down,2022-03-01 07:53:44,0,Why is this happening to me?,2022-03-01 03:01:22,0
+772,277,Perfect,2022-03-01 15:47:19,0,I am soo bored,2022-03-01 11:10:11,0
+773,482,Can you come down,2022-03-01 14:57:10,1,I love databases,2022-03-01 00:18:36,0
+774,811,Perfect,2022-03-02 03:42:32,1,Please stop texting me everyone,2022-03-01 00:27:06,0
+775,85,I am sooo down,2022-03-02 05:29:25,1,I don't know what to do now,2022-03-02 21:09:38,0
+776,127,I am so angryyy,2022-03-02 18:55:11,1,So happy!,2022-03-01 09:54:09,1
+777,235,How are you?,2022-03-01 15:43:55,1,Please help,2022-03-01 15:37:22,1
+778,347,Let's keep connected,2022-03-01 23:18:10,0,Please help,2022-03-01 08:54:54,1
+779,381,I am sooo down,2022-03-01 21:39:42,1,I am soo bored,2022-03-01 09:50:44,1
+780,300,Can you come down,2022-03-02 20:02:53,0,Such an amazing day,2022-03-01 22:01:33,0
+781,862,I am sooo down,2022-03-01 11:06:36,1,I love databases,2022-03-01 00:29:02,1
+782,477,I am sooo down,2022-03-01 05:24:00,1,So happy!,2022-03-01 20:37:12,0
+783,380,Perfect,2022-03-01 11:39:34,1,i am lost,2022-03-01 04:03:01,1
+784,531,Good,2022-03-01 08:18:49,0,So happy!,2022-03-01 02:45:46,0
+785,381,Let's keep connected,2022-03-01 23:30:00,0,Such an amazing day,2022-03-01 14:51:44,0
+786,602,Perfect,2022-03-02 11:13:24,1,Why is this happening to me?,2022-03-02 22:21:27,1
+787,657,Are you down to meet up?,2022-03-02 19:59:50,1,I wish this day ends sooner,2022-03-01 14:10:03,1
+788,856,I am sooo down,2022-03-01 09:47:13,0,So happy!,2022-03-02 02:22:02,0
+789,383,Where are my keys?,2022-03-01 17:47:51,1,I wish this day ends sooner,2022-03-01 04:27:59,1
+790,602,Where are my keys?,2022-03-01 20:19:23,0,Why is SQLite so hard to install on Windows?!,2022-03-01 00:51:58,0
+791,319,I am sooo down,2022-03-01 08:41:12,1,I love databases,2022-03-01 16:19:10,1
+792,589,Love ya,2022-03-01 10:17:23,1,Who wants to join?,2022-03-01 12:02:16,1
+793,617,Great,2022-03-02 19:11:11,1,I love databases,2022-03-02 00:12:31,0
+794,482,How you doin'?,2022-03-02 14:33:35,1,i am lost,2022-03-01 22:05:36,1
+795,445,How are you?,2022-03-01 14:07:12,0,i am lost,2022-03-02 04:04:04,0
+796,566,How you doin'?,2022-03-02 02:23:01,1,Random post,2022-03-01 23:05:40,1
+797,522,Love ya,2022-03-02 23:24:47,1,I don't know what to do now,2022-03-01 02:42:00,0
+798,83,How you doin'?,2022-03-01 14:11:45,0,I love databases,2022-03-01 21:58:27,1
+799,295,Let's keep connected,2022-03-02 05:42:20,1,So happy!,2022-03-02 19:30:34,1
+800,8,Great,2022-03-01 18:25:49,0,Please text me someone,2022-03-01 12:01:52,0
+801,373,How you doin'?,2022-03-01 09:46:13,1,I don't know what to do now,2022-03-01 23:26:46,0
+802,616,Perfect,2022-03-02 23:02:22,1,Why is SQLite so hard to install on Windows?!,2022-03-01 03:24:17,1
+803,186,I am sooo down,2022-03-02 01:17:25,0,Why is this happening to me?,2022-03-01 19:31:18,0
+804,559,Amazing,2022-03-01 11:18:43,0,Who wants to join?,2022-03-02 08:30:20,0
+805,225,Amazing,2022-03-01 10:39:10,1,Why is SQLite so hard to install on Windows?!,2022-03-02 01:36:38,1
+806,770,Where are my keys?,2022-03-02 21:02:47,0,I love databases,2022-03-02 12:48:51,1
+807,867,Good,2022-03-02 19:45:34,1,Such an amazing day,2022-03-02 23:06:42,0
+808,628,I am so angryyy,2022-03-01 18:27:39,1,I love databases,2022-03-02 00:45:26,1
+809,201,Great,2022-03-01 07:50:48,0,I am so tired,2022-03-01 13:29:30,1
+810,162,How you doin'?,2022-03-02 01:00:06,1,Random post,2022-03-02 23:49:53,1
+811,743,Let's keep connected,2022-03-02 04:59:24,0,I am so tired,2022-03-02 10:38:11,1
+812,677,How you doin'?,2022-03-01 11:56:13,1,Please help,2022-03-01 08:10:25,0
+813,757,I am sooo down,2022-03-01 07:31:39,1,Why is this happening to me?,2022-03-01 06:00:56,0
+814,583,Good,2022-03-02 19:10:09,0,Who wants to join?,2022-03-01 06:46:24,1
+815,207,I am sooo down,2022-03-01 08:26:28,1,Please text me someone,2022-03-01 18:59:57,0
+816,10,Perfect,2022-03-02 22:39:46,0,I don't know what to do now,2022-03-02 13:18:03,0
+817,390,Looking good,2022-03-02 11:13:42,0,So happy!,2022-03-01 22:18:10,1
+818,793,How are you?,2022-03-01 16:24:23,0,I love databases,2022-03-02 15:08:04,1
+819,455,Are you down to meet up?,2022-03-02 13:19:30,1,I love databases,2022-03-01 08:15:43,1
+820,881,I am sooo down,2022-03-01 17:25:03,1,I wish this day ends sooner,2022-03-02 06:47:09,0
+821,968,Can you come down,2022-03-02 22:10:58,0,Who wants to join?,2022-03-01 12:17:47,0
+822,879,How are you?,2022-03-01 17:48:19,1,Please text me someone,2022-03-01 00:40:48,0
+823,504,Perfect,2022-03-02 11:46:21,0,Why is SQLite so hard to install on Windows?!,2022-03-01 00:51:22,1
+824,132,Are you down to meet up?,2022-03-01 16:31:08,0,Look at this!,2022-03-01 13:17:34,1
+825,667,How are you?,2022-03-01 01:45:53,1,i am lost,2022-03-02 10:45:52,0
+826,842,I am sooo down,2022-03-02 08:25:26,0,Please text me someone,2022-03-02 17:55:09,1
+827,862,Love ya,2022-03-01 16:40:44,1,Please help,2022-03-01 03:07:17,1
+828,75,Perfect,2022-03-02 03:27:09,0,So happy!,2022-03-01 16:16:05,0
+829,613,I am so angryyy,2022-03-02 11:29:52,0,Why is SQLite so hard to install on Windows?!,2022-03-02 19:58:10,1
+830,28,How are you?,2022-03-01 06:17:52,1,Please help,2022-03-01 23:13:00,0
+831,510,Perfect,2022-03-02 13:09:51,1,i am lost,2022-03-01 18:06:42,0
+832,253,Love ya,2022-03-02 12:50:31,0,Hello,2022-03-01 18:04:06,1
+833,661,I am so angryyy,2022-03-02 08:54:37,1,Why is SQLite so hard to install on Windows?!,2022-03-02 13:21:46,1
+834,804,Perfect,2022-03-02 20:10:43,0,I love databases,2022-03-01 09:53:54,0
+835,93,Amazing,2022-03-02 02:49:48,0,Such an amazing day,2022-03-01 00:06:29,1
+836,698,Where are my keys?,2022-03-02 09:59:06,1,Who wants to join?,2022-03-01 11:16:29,0
+837,1000,I am so angryyy,2022-03-01 00:12:20,0,Who wants to join?,2022-03-02 16:59:54,0
+838,934,How are you?,2022-03-02 19:54:13,0,Please stop texting me everyone,2022-03-02 06:59:59,1
+839,936,How you doin'?,2022-03-02 13:47:41,1,Please help,2022-03-02 15:43:56,1
+840,33,I don'w want to talk about it,2022-03-02 10:29:49,0,I don't know what to do now,2022-03-01 00:14:10,1
+841,885,Great,2022-03-02 21:12:40,0,Why is SQLite so hard to install on Windows?!,2022-03-02 07:58:49,1
+842,264,I don'w want to talk about it,2022-03-02 02:13:43,0,Hello,2022-03-01 08:52:58,1
+843,667,Where are my keys?,2022-03-01 07:04:32,0,Such an amazing day,2022-03-01 20:55:12,0
+844,670,I don'w want to talk about it,2022-03-01 09:10:36,0,I love databases,2022-03-01 03:09:30,0
+845,321,I don'w want to talk about it,2022-03-01 14:37:18,1,I wish this day ends sooner,2022-03-01 18:09:03,1
+846,254,Looking good,2022-03-02 22:32:11,1,Please help,2022-03-01 00:19:35,1
+847,159,Amazing,2022-03-02 18:15:36,0,Why is SQLite so hard to install on Windows?!,2022-03-02 20:50:34,1
+848,860,I am sooo down,2022-03-02 04:46:28,0,I am so tired,2022-03-01 17:47:44,1
+849,526,I don'w want to talk about it,2022-03-01 12:19:09,1,Random post,2022-03-01 22:05:27,0
+850,147,Perfect,2022-03-02 02:37:23,1,Such an amazing day,2022-03-01 12:44:24,0
+851,57,Amazing,2022-03-02 03:37:57,0,Why is SQLite so hard to install on Windows?!,2022-03-02 15:27:30,0
+852,136,How are you?,2022-03-01 13:01:29,0,Why is this happening to me?,2022-03-02 22:25:27,0
+853,870,Where are my keys?,2022-03-02 22:20:14,0,Look at this!,2022-03-02 07:12:58,0
+854,325,Let's keep connected,2022-03-02 00:44:49,1,Why is this happening to me?,2022-03-02 22:34:23,0
+855,888,How are you?,2022-03-01 12:21:14,0,Why is SQLite so hard to install on Windows?!,2022-03-02 04:20:56,0
+856,583,How you doin'?,2022-03-02 09:51:42,1,I wish this day ends sooner,2022-03-01 08:36:28,1
+857,712,I don'w want to talk about it,2022-03-01 18:13:16,0,Hello,2022-03-01 16:01:42,0
+858,49,Great,2022-03-02 20:02:03,0,Why is this happening to me?,2022-03-02 07:04:57,0
+859,781,Can you come down,2022-03-02 06:03:54,1,Why is this happening to me?,2022-03-02 07:57:59,1
+860,463,Can you come down,2022-03-02 04:58:37,0,Random post,2022-03-02 10:29:19,1
+861,895,Are you down to meet up?,2022-03-01 00:11:39,0,Why is SQLite so hard to install on Windows?!,2022-03-01 13:45:24,0
+862,561,Are you down to meet up?,2022-03-02 10:13:03,1,Look at this!,2022-03-02 16:54:31,1
+863,217,Let's keep connected,2022-03-02 17:45:29,1,Why is SQLite so hard to install on Windows?!,2022-03-02 23:31:45,1
+864,918,I am sooo down,2022-03-01 14:07:12,0,I am so tired,2022-03-01 14:44:49,1
+865,547,Looking good,2022-03-02 17:52:27,1,Random post,2022-03-01 05:11:08,1
+866,624,Can you come down,2022-03-01 13:58:45,0,Look at this!,2022-03-01 01:12:14,1
+867,468,Can you come down,2022-03-02 13:32:20,1,So happy!,2022-03-01 16:43:35,0
+868,936,Are you down to meet up?,2022-03-02 23:42:52,0,Look at this!,2022-03-01 22:53:16,0
+869,490,Good,2022-03-01 10:11:16,0,Hello,2022-03-01 06:18:19,0
+870,669,Can you come down,2022-03-01 15:35:28,0,i am lost,2022-03-02 03:01:28,0
+871,141,I don'w want to talk about it,2022-03-01 17:40:17,0,Look at this!,2022-03-01 15:33:58,0
+872,427,I am so angryyy,2022-03-01 08:19:17,0,I don't know what to do now,2022-03-01 06:44:26,0
+873,765,Where are my keys?,2022-03-02 09:54:26,1,Please text me someone,2022-03-01 14:09:06,0
+874,153,Great,2022-03-01 23:28:47,1,I am soo bored,2022-03-02 05:24:23,1
+875,488,I don'w want to talk about it,2022-03-01 10:40:24,1,Look at this!,2022-03-02 19:52:45,0
+876,432,How are you?,2022-03-02 17:33:52,1,So happy!,2022-03-02 08:36:51,1
+877,385,Love ya,2022-03-02 17:17:04,1,Why is this happening to me?,2022-03-01 12:08:56,1
+878,117,I am sooo down,2022-03-02 12:11:30,1,Please help,2022-03-02 04:17:54,1
+879,11,Can you come down,2022-03-02 04:09:03,1,Random post,2022-03-02 01:36:45,1
+880,879,Amazing,2022-03-02 03:28:57,1,I love databases,2022-03-01 17:48:23,1
+881,289,I am sooo down,2022-03-02 06:03:30,0,Please stop texting me everyone,2022-03-01 06:52:10,0
+882,936,Can you come down,2022-03-01 19:48:42,0,Look at this!,2022-03-02 12:48:39,1
+883,842,Let's keep connected,2022-03-01 05:57:28,1,Why is SQLite so hard to install on Windows?!,2022-03-02 06:10:28,0
+884,107,Looking good,2022-03-01 08:00:16,1,So happy!,2022-03-01 04:19:03,1
+885,905,Where are my keys?,2022-03-01 13:16:08,0,Who wants to join?,2022-03-02 09:21:10,0
+886,650,How are you?,2022-03-01 06:48:35,1,Why is SQLite so hard to install on Windows?!,2022-03-02 00:05:30,1
+887,621,Are you down to meet up?,2022-03-01 21:24:11,0,Why is this happening to me?,2022-03-01 19:56:49,1
+888,401,How you doin'?,2022-03-02 20:46:49,0,Random post,2022-03-02 11:23:17,1
+889,554,Amazing,2022-03-02 23:04:31,0,Such an amazing day,2022-03-02 23:28:05,1
+890,769,Looking good,2022-03-02 16:17:33,0,Who wants to join?,2022-03-02 04:00:42,1
+891,573,Love ya,2022-03-01 16:28:04,0,Look at this!,2022-03-02 11:37:12,1
+892,681,Perfect,2022-03-02 11:32:57,0,Please stop texting me everyone,2022-03-02 09:46:11,0
+893,890,Are you down to meet up?,2022-03-02 09:55:33,0,So happy!,2022-03-02 11:12:09,1
+894,60,I am so angryyy,2022-03-01 02:21:00,0,Hello,2022-03-01 13:37:48,1
+895,126,Perfect,2022-03-02 23:21:50,1,Look at this!,2022-03-01 00:17:31,1
+896,293,Let's keep connected,2022-03-01 14:42:27,0,Such an amazing day,2022-03-02 06:37:31,1
+897,301,Good,2022-03-01 21:42:55,1,So happy!,2022-03-02 22:47:36,1
+898,142,I am sooo down,2022-03-02 05:36:12,1,Please help,2022-03-01 00:35:41,0
+899,154,Love ya,2022-03-02 20:42:45,0,Hello,2022-03-01 22:06:18,1
+900,618,Perfect,2022-03-02 21:40:09,1,I wish this day ends sooner,2022-03-01 08:41:33,0
+901,69,How are you?,2022-03-02 23:00:53,1,Please text me someone,2022-03-01 03:28:40,0
+902,796,How you doin'?,2022-03-01 07:42:43,0,I don't know what to do now,2022-03-02 20:30:20,1
+903,901,Good,2022-03-02 00:24:28,1,i am lost,2022-03-01 20:24:50,1
+904,952,Can you come down,2022-03-02 01:47:48,1,Why is SQLite so hard to install on Windows?!,2022-03-01 16:00:46,0
+905,749,How you doin'?,2022-03-02 13:21:22,1,I love databases,2022-03-02 12:38:56,0
+906,342,Can you come down,2022-03-01 15:00:11,0,Such an amazing day,2022-03-01 05:56:55,1
+907,160,Can you come down,2022-03-01 01:43:04,1,I love databases,2022-03-01 02:24:29,1
+908,689,I don'w want to talk about it,2022-03-01 01:21:08,1,Please stop texting me everyone,2022-03-02 03:19:31,0
+909,459,Great,2022-03-01 08:29:49,1,Who wants to join?,2022-03-01 03:19:46,1
+910,134,Perfect,2022-03-01 16:44:29,0,Such an amazing day,2022-03-02 08:07:58,0
+911,86,Good,2022-03-01 02:39:10,1,i am lost,2022-03-02 12:36:37,1
+912,937,How are you?,2022-03-02 04:08:20,0,Hello,2022-03-01 13:28:57,1
+913,76,I am sooo down,2022-03-02 13:50:44,0,Random post,2022-03-02 18:29:36,0
+914,921,How are you?,2022-03-01 11:27:39,0,Such an amazing day,2022-03-02 14:13:19,1
+915,956,Looking good,2022-03-02 21:53:58,1,Why is SQLite so hard to install on Windows?!,2022-03-01 08:51:26,1
+916,80,Perfect,2022-03-02 02:27:55,1,Who wants to join?,2022-03-02 23:40:45,1
+917,511,Where are my keys?,2022-03-02 09:17:55,1,Please text me someone,2022-03-02 01:25:28,1
+918,760,Great,2022-03-02 18:16:56,0,I am so tired,2022-03-01 15:36:22,1
+919,144,How you doin'?,2022-03-01 14:49:35,1,i am lost,2022-03-02 15:50:00,0
+920,312,Amazing,2022-03-02 13:17:56,1,So happy!,2022-03-01 01:22:25,1
+921,225,Love ya,2022-03-02 13:26:00,1,I am so tired,2022-03-02 04:31:25,1
+922,305,Love ya,2022-03-01 20:53:24,0,I don't know what to do now,2022-03-02 08:10:48,0
+923,43,Great,2022-03-02 22:54:46,1,i am lost,2022-03-02 18:11:48,0
+924,859,Let's keep connected,2022-03-01 04:57:09,1,Random post,2022-03-01 10:47:14,0
+925,127,Perfect,2022-03-02 04:41:44,1,Why is SQLite so hard to install on Windows?!,2022-03-02 03:39:26,0
+926,500,I am so angryyy,2022-03-01 14:26:02,0,Look at this!,2022-03-02 18:10:40,1
+927,316,Good,2022-03-02 03:20:23,1,I am so tired,2022-03-02 23:15:53,1
+928,288,Looking good,2022-03-02 22:13:53,1,Please stop texting me everyone,2022-03-01 18:43:36,0
+929,96,Good,2022-03-01 10:59:10,0,Why is this happening to me?,2022-03-01 17:36:52,0
+930,635,How are you?,2022-03-01 12:43:26,1,So happy!,2022-03-02 06:47:43,1
+931,379,Good,2022-03-02 15:09:04,0,I love databases,2022-03-02 14:16:03,0
+932,750,How are you?,2022-03-02 01:36:04,1,I wish this day ends sooner,2022-03-01 04:16:05,0
+933,583,I don'w want to talk about it,2022-03-01 20:56:20,1,i am lost,2022-03-01 05:00:25,1
+934,70,Are you down to meet up?,2022-03-01 02:16:04,0,So happy!,2022-03-02 00:53:19,1
+935,980,Let's keep connected,2022-03-02 08:07:13,0,Please text me someone,2022-03-02 17:11:20,1
+936,60,Let's keep connected,2022-03-02 14:24:33,0,Who wants to join?,2022-03-02 16:00:44,1
+937,554,I don'w want to talk about it,2022-03-02 14:17:37,0,Please stop texting me everyone,2022-03-02 04:05:25,0
+938,432,Amazing,2022-03-02 08:12:12,0,Random post,2022-03-01 22:33:28,0
+939,466,Great,2022-03-02 11:37:23,1,I don't know what to do now,2022-03-02 23:57:29,1
+940,726,Great,2022-03-01 02:11:03,0,I don't know what to do now,2022-03-02 10:38:01,0
+941,729,Can you come down,2022-03-01 11:58:59,1,Who wants to join?,2022-03-01 21:44:37,0
+942,46,Love ya,2022-03-02 18:11:29,1,I love databases,2022-03-01 19:37:02,1
+943,975,Where are my keys?,2022-03-02 21:09:54,0,Please help,2022-03-01 00:05:27,0
+944,510,I am so angryyy,2022-03-02 05:29:55,1,Why is SQLite so hard to install on Windows?!,2022-03-02 03:50:45,1
+945,657,Are you down to meet up?,2022-03-02 07:49:18,0,Why is this happening to me?,2022-03-02 01:03:32,0
+946,398,How you doin'?,2022-03-02 08:04:56,0,So happy!,2022-03-02 11:41:00,0
+947,894,Perfect,2022-03-02 09:29:50,1,Why is SQLite so hard to install on Windows?!,2022-03-02 23:11:30,0
+948,79,I am so angryyy,2022-03-01 22:50:18,1,I wish this day ends sooner,2022-03-02 04:32:11,1
+949,27,How are you?,2022-03-01 02:48:16,1,Who wants to join?,2022-03-01 22:26:49,0
+950,930,Looking good,2022-03-02 03:14:27,0,Why is SQLite so hard to install on Windows?!,2022-03-01 12:02:41,1
+951,449,I am so angryyy,2022-03-02 21:12:32,0,Please stop texting me everyone,2022-03-01 23:34:19,0
+952,567,Are you down to meet up?,2022-03-01 00:58:24,0,Why is SQLite so hard to install on Windows?!,2022-03-02 02:30:06,0
+953,674,Looking good,2022-03-02 14:16:19,1,Please stop texting me everyone,2022-03-01 13:28:07,0
+954,769,Can you come down,2022-03-02 08:42:10,1,Why is this happening to me?,2022-03-02 11:21:03,0
+955,281,Are you down to meet up?,2022-03-02 08:59:37,1,Please text me someone,2022-03-01 10:59:58,0
+956,287,Looking good,2022-03-01 07:13:37,0,Such an amazing day,2022-03-01 12:50:04,1
+957,510,How you doin'?,2022-03-01 17:49:13,1,I am soo bored,2022-03-01 08:39:22,0
+958,148,How you doin'?,2022-03-02 15:07:39,1,Please help,2022-03-01 00:58:12,0
+959,211,Perfect,2022-03-02 06:19:04,1,Why is this happening to me?,2022-03-01 17:56:08,1
+960,530,I am so angryyy,2022-03-01 05:07:26,1,Who wants to join?,2022-03-01 07:51:36,0
+961,807,Let's keep connected,2022-03-02 18:17:50,1,I love databases,2022-03-02 03:58:06,0
+962,871,Looking good,2022-03-02 02:48:47,1,Who wants to join?,2022-03-02 11:32:08,0
+963,701,Let's keep connected,2022-03-01 17:01:55,0,I love databases,2022-03-02 11:42:38,0
+964,772,Love ya,2022-03-02 13:08:08,0,I love databases,2022-03-01 21:00:31,0
+965,689,I am so angryyy,2022-03-01 06:35:48,0,Why is this happening to me?,2022-03-02 21:03:18,1
+966,299,Looking good,2022-03-01 14:24:20,0,Such an amazing day,2022-03-02 11:15:14,0
+967,850,Looking good,2022-03-01 06:20:00,0,Why is SQLite so hard to install on Windows?!,2022-03-02 19:09:56,0
+968,199,Great,2022-03-01 18:56:31,1,I wish this day ends sooner,2022-03-02 08:08:19,0
+969,496,Amazing,2022-03-02 22:01:03,0,Look at this!,2022-03-01 05:11:03,1
+970,779,Love ya,2022-03-01 20:39:29,0,Why is this happening to me?,2022-03-01 07:14:42,1
+971,292,How are you?,2022-03-02 10:48:58,0,Please help,2022-03-01 13:55:17,1
+972,815,Where are my keys?,2022-03-02 14:51:31,0,Why is SQLite so hard to install on Windows?!,2022-03-02 23:17:53,0
+973,799,Love ya,2022-03-02 12:31:05,1,Please text me someone,2022-03-01 07:29:47,1
+974,64,Great,2022-03-02 03:13:48,1,Such an amazing day,2022-03-01 05:37:31,1
+975,955,Let's keep connected,2022-03-01 17:43:23,1,I love databases,2022-03-02 13:01:06,0
+976,322,I am sooo down,2022-03-01 13:56:44,0,Why is this happening to me?,2022-03-02 14:08:31,0
+977,893,Can you come down,2022-03-02 23:34:49,1,I wish this day ends sooner,2022-03-01 00:36:01,0
+978,679,I am sooo down,2022-03-01 05:45:04,1,Random post,2022-03-02 06:43:27,0
+979,180,Perfect,2022-03-01 09:41:10,1,Please help,2022-03-01 21:16:30,0
+980,310,Perfect,2022-03-01 10:47:51,1,Why is this happening to me?,2022-03-01 17:32:57,0
+981,157,Can you come down,2022-03-01 11:31:41,1,I wish this day ends sooner,2022-03-01 19:00:50,0
+982,748,Are you down to meet up?,2022-03-02 13:33:45,0,I love databases,2022-03-02 20:23:16,1
+983,514,Are you down to meet up?,2022-03-01 10:22:13,0,I am soo bored,2022-03-02 00:33:43,1
+984,346,Amazing,2022-03-02 14:59:50,0,I love databases,2022-03-02 07:25:11,1
+985,975,Can you come down,2022-03-01 08:03:47,0,i am lost,2022-03-02 16:44:31,1
+986,247,How you doin'?,2022-03-02 08:29:58,1,i am lost,2022-03-01 22:58:33,0
+987,840,How you doin'?,2022-03-02 13:03:30,0,Please text me someone,2022-03-01 06:52:48,1
+988,772,Good,2022-03-02 00:54:10,0,I don't know what to do now,2022-03-01 00:22:45,0
+989,49,How you doin'?,2022-03-02 00:07:17,0,i am lost,2022-03-01 20:58:33,1
+990,289,Good,2022-03-01 09:06:56,0,Please help,2022-03-02 18:24:23,1
+991,144,Love ya,2022-03-01 14:16:49,1,Why is SQLite so hard to install on Windows?!,2022-03-01 15:01:14,0
+992,472,I am sooo down,2022-03-01 09:09:02,0,Please stop texting me everyone,2022-03-01 13:05:12,0
+993,958,How you doin'?,2022-03-01 15:03:42,0,I am soo bored,2022-03-01 06:35:02,1
+994,418,I am so angryyy,2022-03-02 04:21:31,0,Random post,2022-03-01 04:00:21,0
+995,672,How are you?,2022-03-02 06:38:28,1,Who wants to join?,2022-03-01 03:28:58,0
+996,803,Where are my keys?,2022-03-01 00:37:04,0,Such an amazing day,2022-03-01 11:00:10,1
+997,459,I don'w want to talk about it,2022-03-02 12:54:58,0,Such an amazing day,2022-03-02 20:34:05,1
+998,656,Can you come down,2022-03-01 17:01:15,0,I love databases,2022-03-01 12:23:40,1
+999,502,Perfect,2022-03-01 10:14:05,1,Look at this!,2022-03-02 03:41:21,0
+1000,646,I am sooo down,2022-03-02 15:05:06,0,Random post,2022-03-01 09:43:42,1
